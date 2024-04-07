@@ -327,11 +327,11 @@
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5" style="text-align:center;">El objetivo de este análisis es comprender el panorama competitivo del mercado educativo y evaluar las fortalezas, debilidades, oportunidades y amenazas de MiStartup frente a sus competidores.</td>
+      <td colspan="5" style="text-align:center;">El objetivo de este análisis es comprender el panorama competitivo del mercado educativo y evaluar las fortalezas, debilidades, oportunidades y amenazas de RocketNotes frente a sus competidores.</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
-      <td style="text-align:center;">MiStartup</td>
+      <td style="text-align:center;">RocketNotes</td>
       <td style="text-align:center;">Schoology</td>
       <td style="text-align:center;">PowerSchool</td>
       <td style="text-align:center;">Classe365</td>
@@ -422,6 +422,21 @@
 
 ### Estrategias y tácticas frente a competidores
 
+**Para capitalizar nuestras fortalezas, implementaremos las siguientes estrategias y tácticas:**
+
+- Destacaremos la amplia gama de funcionalidades integradas de nuestra plataforma, resaltando cómo simplifica las tareas educativas diarias de profesores y personal administrativo
+- Utilizaremos demostraciones en vivo, estudios de caso y testimonios de clientes para ilustrar cómo nuestra solución aborda múltiples aspectos de la gestión educativa en un solo lugar.
+
+
+**En las debilidades:**
+- Identificaremos las características específicas ofrecidas por competidores más establecidos que podrían ser percibidas como carencias en nuestra plataforma. 
+- Asignaremos recursos para desarrollar las capacidades faltantes, ya sea mediante desarrollo interno o asociaciones estratégicas.
+- Dada la posible complejidad en la curva de aprendizaje para nuevos usuarios, nos enfocaremos en mejorar la experiencia del usuario a través de una interfaz intuitiva, tutoriales detallados y un sólido servicio de atención al cliente.
+
+
+**En cuanto a las oportunidades y amenazas externas, adoptaremos las siguientes estrategias y tácticas:**
+- Aprovecharemos la oportunidad de expansión a nuevos mercados y adaptamos nuestra plataforma para satisfacer las necesidades específicas de diferentes regiones.
+- Debido a la creciente preocupación por la seguridad y la privacidad de datos, implementaremos medidas de seguridad para garantizar su protección.
 
 
 
@@ -437,8 +452,6 @@
 -    ¿Cuál es tu ocupación actual?
 -    ¿Cómo describirías tu experiencia con las herramientas digitales en el ámbito educativo?
 -    ¿Qué expectativas tienes respecto a las soluciones tecnológicas para la gestión educativa?
-
-
 
 **Preguntas Específicas para Profesores :**
 
