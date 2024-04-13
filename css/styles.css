@@ -108,7 +108,7 @@ nav {
 }
 
 .nav__menu__btn {
-  font-size: 10rem;
+  font-size: 1.5rem;
   color: var(--white);
   cursor: pointer;
 }
@@ -216,12 +216,12 @@ nav {
 }
 
 
+
 .contact__container {
   padding-bottom: 10rem;
   display: grid;
   gap: 2rem;
 }
-
 
 .contact__image {
   position: relative;
@@ -271,6 +271,8 @@ nav {
   margin-inline: auto;
   text-align: center;
 }
+
+
 
 
 .footer {
@@ -381,24 +383,10 @@ nav {
     grid-template-columns: repeat(3, 1fr);
   }
 
-  .explore__container {
-    grid-template-columns: repeat(2, 1fr);
-    align-items: center;
-  }
-
-  .explore__content .section__header {
-    max-width: 500px;
-  }
-
-  .explore__content :is(.section__header, .section__description),
-  .explore__btn {
-    text-align: left;
-  }
 
   .banner__container {
     grid-template-columns: repeat(3, 1fr);
   }
-
 
   .contact__container {
     grid-template-columns: repeat(2, 1fr);
@@ -413,6 +401,10 @@ nav {
     text-align: left;
   }
 
+
+  .client__swiper {
+    padding: 3rem 2rem;
+  }
 
   .footer__container {
     grid-template-columns: 2fr repeat(3, 1fr);
