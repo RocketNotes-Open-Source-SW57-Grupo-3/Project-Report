@@ -294,7 +294,7 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
       <td style="text-align:center;">Plataforma integral para la gestión educativa en colegios, incluyendo registro de notas, seguimiento psicológico, gestión de infraestructura y monitoreo de instalaciones.</td>
-      <td style="text-align:center;">Plataforma de gestión educativa que ofrece funcionalidades similares a MiStartup.</td>
+      <td style="text-align:center;">Plataforma de gestión de clases, tareas, evaluaciones y participación en los temas de discusión interactivos.</td>
       <td style="text-align:center;">Sistema de gestión escolar con enfoque en la administración de datos académicos y organizativos.</td>
       <td style="text-align:center;">Plataforma educativa que proporciona herramientas de gestión escolar, incluyendo seguimiento de asistencia y calificaciones.</td>
     </tr>
