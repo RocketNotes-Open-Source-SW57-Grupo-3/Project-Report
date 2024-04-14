@@ -378,7 +378,7 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 **Para capitalizar nuestras fortalezas, implementaremos las siguientes estrategias y tácticas:**
 
-- Destacaremos la amplia gama de funcionalidades integradas de nuestra plataforma, resaltando cómo simplifica las tareas educativas diarias de profesores y personal administrativo
+- Destacaremos la amplia gama de funcionalidades integradas de nuestra plataforma, resaltando cómo simplificar las tareas educativas diarias de profesores y personal administrativo
 - Utilizaremos demostraciones en vivo, estudios de caso y testimonios de clientes para ilustrar cómo nuestra solución aborda múltiples aspectos de la gestión educativa en un solo lugar.
 
 
