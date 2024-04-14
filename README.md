@@ -83,8 +83,8 @@ https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report
         - [As-is Scenario Mapping](#as-is-scenario-mapping)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
     - [To-Be Scenario Mapping](#to-be-scenario-mapping)
-        - [**Usuario: Propietario**](#usuario-propietario)
-        - [**Usuario: Arrendatario**](#usuario-arrendatario)
+        - [**Usuario: Profesores**](#usuario-profesores)
+        - [**Usuario: Personal Administrativo**](#usuario-personal administrativo)
         - [User Stories](#user-stories)
         - [Impact Mapping](#impact-mapping)
         - [Product Backlog](#product-backlog)
@@ -255,55 +255,6 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 #### Lean UX Canvas
 
-<table>
-            <tr>
-              <td valign="top"><p><b>Business Problem</b></p>
-                <p>•	Estafas en la renta de autos </p>
-                <p>•	Precios altos</p>
-                <p>•	Falta de transparencia en el estado del auto</p> 
-                <p>•	Tarifas ocultas</p>
-               </td>
-              <td rowspan="2" valign="top"><p><b>Solution Ideas</b></p>
-                <p>•	Precios competitivos</p>
-                <p>•	Inclusión de documentación actualizada del auto</p>
-                <p>•	Seguimiento vía GPS</p>
-                <p>•	Retención del pago hasta finalizar el servicio </p></td>
-              <td valign="top"><p><b>Business Outcomes</b></p>
-              <p>•	Gran cantidad de usuarios</p>
-              <p>•	Reseñas mayormente positivas</p>
-              <p>•	Se convierte en una de las aplicaciones más utilizadas en Perú para alquiler de autos</p>
-            </td>
-            </tr>
-            <tr>
-              <td valign="top"><p><b>Users and Customers</b></p>
-                <p>•	Hispanohablantes adultos en Perú que buscan alquilar un auto.</p>
-                <p>•    Hispanohablantes adultos en Perú que cuenten con un auto y deseen ponerlo en alquiler.</p>
-                </td>
-              <td valign="top"><p><b>User Benefits</b></p>
-                <p>•	Costos más bajos</p>
-                <p>•	Garantía del estado del auto</p>
-                <p>•	Prevención de fraudes</p>
-                <p>•	Acceso a la información del arrendatario</p>
-                </td>
-            </tr>
-            <tr><td valign="top"><p><b>Hypothesis</b></p>
-                <p> •	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.</p>
-                <p>•	Creemos que nuestro producto enfrentará problemas después de su lanzamiento. Confirmaremos esto si la cantidad de usuarios comienza a disminuir en un 8% semanal.</p>
-                <p>•	Creemos que la visualización de la documentación de los vehículos en la aplicación será un valor agregado importante. Confirmaremos esto si el 65% de las reseñas de vehículos en la aplicación son positivas.</p>
-            </td>
-              <td valign="top"><p><b>What’s the most important thing we need to learn first?</b></p>
-                <p>•	Necesidades reales de los usuarios</p> 
-                <p>•	Disposición para alquilar autos vía aplicación</p>
-                <p>•	Análisis de costos y beneficios de la competencia</p>
-                </td>
-              <td valign="top"><p><b>What's the least amount of work we need to do to learn the next most important thing?</b></p>
-                <p>•	Entrevistas a los segmentos objetivos
-                </p>      
-                <p>•	Envío de formularios clave a los segmentos objetivos</p>
-                <p>•	Implementación de feedback en el aplicativo</p></td></tr>
-          </table>
-
-<br><br>
 
 
 ## Segmentos objetivo
@@ -510,49 +461,19 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 ### User Personas
 
 
-**Segmento Arrendatarios: 
-
-![foto_user_story_1]()
-
-**Segmento Arrendadores: 
-
-![foto_user_story_2]()
-
 
 ### User Task Matrix
 
-
-| User Task :         | Frecuencia | Importancia |
-| --- | --- | --- |
-| Buscar un vehículo para alquilar | Siempre    | Alta       |
-| Comunicarse con la empresa/persona encargada | Siempre | Alta |
-| Seleccionar un vehículo | Siempre | Alta |
-| Verificar disponibilidad | Seguido | Alta |
-| Reservar el vehículo | Siempre | Alta |
-| Recoger el vehículo | Siempre | Alta |
-| Hacer uso del vehículo | Siempre | Alta |
-| Devolver el vehículo | Siempre | Alta |
-| Finalizar alquiler | Siempre | Alta |
-| Proporcionar feedback | A veces | Media |
 
 
 ### User Journey Mapping
 
 
-**Segmento Arrendatario**
 
-![foto_user_journey_map_1]()
-
-**Segmento Arrendador**
-
-![foto_user_journey_map_2]()
 
 ### Empathy Mapping
 
 
-**Segmento Arrendatario**
-
-![foto_empahty_map_1]()
 
 ### As-is Scenario Mapping
 
@@ -567,8 +488,6 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 
 
-
-
 <br>
 
 ### User Stories
@@ -578,7 +497,7 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 ### Impact Mapping
 
-![foto_impact_mapping]()
+
 
 <br>
 
