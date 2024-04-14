@@ -794,7 +794,11 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 ### Software Deployment Configuration
 
+Creamos un repositorio en la organizacion de nuestro grupo en GitHub y subimos los archivos necesarios para que el servidor pueda mostrar la landing page. Utilizamos Github Pages para el despliegue.
 
+1. Cargamos los archivos necesarios para subirlo al repositorio
+2. Posteriormente nos dirigmos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar.
+3. Luego de cierto tiempo github nos envia el enlace de nuestra página.
 ## Landing Page, Services & Applications Implementation
 
 ### Sprint 1
