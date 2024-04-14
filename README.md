@@ -700,10 +700,6 @@ A continuación, presentaremos los programas de software que hemos utilizado en 
   Se utilizó la plataforma de WhatsApp para organizar las tareas del equipo y proporcionar apoyo mutuo durante el trabajo.
 
 
-- **Google Docs:** [https://docs.google.com/](https://docs.google.com/)
-
-  Esta plataforma fue utilizada para enviar y discutir el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante.
-
 **Product UX/UI Design**
 
 - **Miro:** [https://www.miro.com/](https://www.miro.com/)
