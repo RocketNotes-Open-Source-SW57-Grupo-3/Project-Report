@@ -792,6 +792,16 @@ Creamos un repositorio en la organizacion de nuestro grupo en GitHub y subimos l
 ### 5.2.1.3 Development Evidence for Sprint Review
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
+Durante este sprint, se han integrado las pruebas de aceptación utilizando Gherkin. El repositorio que contiene estas pruebas están en el siguiente enlace: [https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-acceptance-tests](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-acceptance-tests)
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commited on (Date)</th></tr>
+<tr><td rowspan="7" valign="top">RocketNotes-acceptance-tests</td><td rowspan="7" valign="top">main</td><td valign="top">16fb4e50d6382ae6fc3d88de54610f7861915566</td><td valign="top">initial commit</td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">637809787379bd475704c9e4b2a22c71b967b8b8</td><td valign="top">feat: epic 1 added</td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">3a4e17f1c60d865e91e90b59409299c2f35a3354</td><td valign="top">feat: epic 2 added</td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">56888135b0d151a386f8709b38fea7039337baea</td><td valign="top">feat: epic 3 added</td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">89e55ba1d13bd793a55b16e7c5780ddb5f59c446</td><td valign="top">feat: epic 4 added</td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">02af9c233f465590e1aac985b58a6f5b410b1dfb</td><td valign="top">feat: epic 5 added</td><td valign="top">28/09/2023</td></tr>
+</table>
 
 
 ### 5.2.1.5 Execution Evidence for Sprint Review.
