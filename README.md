@@ -698,11 +698,22 @@ A continuación, presentaremos los programas de software que hemos utilizado en 
 - **Whatsapp:** [https://web.whatsapp.com/](https://web.whatsapp.com/)
 
   Se utilizó la plataforma de WhatsApp para organizar las tareas del equipo y proporcionar apoyo mutuo durante el trabajo.
+
+
 - **Google Docs:** [https://docs.google.com/](https://docs.google.com/)
 
   Esta plataforma fue utilizada para enviar y discutir el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante.
 
 **Product UX/UI Design**
+
+- **Miro:** [https://www.miro.com/](https://www.miro.com/)
+
+  Empleamos Miro para desarrollar el Lean UX Canvas.
+
+
+- **Uxpressia:** [https://www.uxpressia.com/](https://www.uxpressia.com/)
+
+  Utilizamos Uxpressia para crear User Personas, Empathy maps, Journey maps e Impact maps.
 
 
 - **Figma:** [https://www.figma.com/](https://www.figma.com/)
@@ -714,6 +725,7 @@ A continuación, presentaremos los programas de software que hemos utilizado en 
 - **Landing Page**
 
   Para la creación de nuestra página de inicio, hemos empleado HTML5, CSS y Javascript.
+
 
 - **Frontend Web Application**
 
@@ -741,13 +753,16 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
 
   Esta plataforma fue utilizada para enviar el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante para el informe final.
 
+
 - **Github:** [https://github.com/](https://github.com/)
 
   Utilizamos GitHub para la documentación del proyecto y el landing page, aprovechando su capacidad de desarrollo colaborativo y su registro de commits para demostrar la contribución de cada miembro.
 
+
 - **Visual Paradigm:** [https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
 
   Utilizamos Visual Paradigm para crear diagramas C4 de nuestro proyecto.
+
 
 - **Vertabelo:** [https://vertabelo.com/](https://vertabelo.com/)
 
