@@ -41,6 +41,7 @@
 
 ## URL del repositorio del Project Report
 
+https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report
 
 ## Insights
 
@@ -150,13 +151,19 @@
 
 ### Descripción de la Startup
 
+En un entorno educativo que se vuelve cada vez más complejo, con instituciones lidiando con desafíos tanto operativos como pedagógicos, surge una necesidad evidente: simplificar la gestión académica y administrativa. Nuestra aplicación atiende directamente esta demanda, ofreciendo una solución que reduce la sobrecarga de tareas administrativas y facilita la atención a las necesidades individuales de cada estudiante.
+
+Diseñada para hacer el día a día de los profesores más manejable, nuestra plataforma permite un registro eficiente y detallado de calificaciones y asistencia, así como el seguimiento del bienestar psicológico de los estudiantes. Por otro lado, ofrece herramientas para una gestión integral de la infraestructura escolar, abarcando desde el mantenimiento de equipos hasta la optimización del uso de aulas, incluyendo el monitoreo de seguridad. Además, integra un sistema de inventario para útiles escolares y una base de datos para materiales de clase, asegurando que los recursos necesarios estén siempre al alcance.
+
 
 **Misión**
 
-- 
+- Empoderar a las instituciones educativas con una herramienta que aligera la carga administrativa del personal, mejora la gestión académica y promueve un ambiente educativo saludable y productivo.
+
 **Visión**
 
--
+- Convertirnos en el aliado indispensable para educadores y administrativos, proporcionando la solución definitiva para una gestión educativa eficiente que mejore la experiencia de enseñanza y aprendizaje.
+
 
 ### Perfiles de integrantes del equipo
 
@@ -172,7 +179,11 @@
 
 ## Solution Profile
 
+
+
 ### Antecedentes y problemática
+
+
 
 
 - Who
