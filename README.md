@@ -764,17 +764,17 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
 
 ### Software Deployment Configuration
 
-Creamos un repositorio en la organizacion de nuestro grupo en GitHub y subimos los archivos necesarios para que el servidor pueda mostrar la landing page. Utilizamos Github Pages para el despliegue.
+Creamos un repositorio en la organización de nuestro grupo en GitHub y subimos los archivos necesarios para que el servidor pueda mostrar la landing page. Utilizamos Github Pages para el despliegue.
 
 1. Cargamos los archivos necesarios para subirlo al repositorio. 
   ![Deployment1.png](images%2FDeployment1.png)
 
 
-2. Posteriormente nos dirigmos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar. 
+2. Posteriormente nos dirigimos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar. 
   ![Deployment2.png](images%2FDeployment2.png) 
 
    
-3. Luego de cierto tiempo github nos envia el enlace de nuestra página. 
+3. Luego de cierto tiempo github nos envía el enlace de nuestra página. 
 ![Deployment3.png](images%2FDeployment3.png)
 
 
