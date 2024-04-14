@@ -745,7 +745,7 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
 
   Utilizamos GitHub para la documentación del proyecto y el landing page, aprovechando su capacidad de desarrollo colaborativo y su registro de commits para demostrar la contribución de cada miembro.
 
-- **Structurizr:** [https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
+- **Visual Paradigm:** [https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
 
   Utilizamos Visual Paradigm para crear diagramas C4 de nuestro proyecto.
 
@@ -754,8 +754,6 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
   Vertabelo fue utilizado para diseñar la estructura de nuestra base de datos, siendo una aplicación web colaborativa.
 
 
-
-    
 ### Source Code Management
 
 
@@ -780,11 +778,38 @@ Creamos un repositorio en la organizacion de nuestro grupo en GitHub y subimos l
 ![Deployment3.png](images%2FDeployment3.png)
 
 
-## Landing Page, Services & Applications Implementation
+# 5.2. Landing Page, Services & Applications Implementation
 
-### Sprint 1
+## 5.2.1. Sprint 1
 
-#### Sprint Planning 1
+
+### 5.2.1.1 Sprint Planning 1
+
+
+### 5.2.1.2 Sprint Backlog 1
+
+
+### 5.2.1.3 Development Evidence for Sprint Review
+
+### 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+
+### 5.2.1.5 Execution Evidence for Sprint Review.
+
+### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+### 5.2.1.7 Software Deployment Evidence for Sprint Review
+En el primer sprint, se completó la creación del landing page. Para llevar a cabo el despliegue de este landing page, se emplearon las siguientes herramientas:
+
+- Git: Un sistema de control de versiones que simplificó el trabajo de realizar la landing page.
+- Git Flow: Un flujo de trabajo que apoyó en la coordinación de cada integrante del equipo en el desarrollo del landing page.
+- GitHub: Plataforma para la colaboración en equipo y así almacenar las versiones actualizadas.
+- Github Pages: Plataforma que nos permitió alojar y desplegar nuestro landing page.
+
+### 5.2.1.8 Team Collaboration Insights during Sprint
+
+
+
 
 
 
