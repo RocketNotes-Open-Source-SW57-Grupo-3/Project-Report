@@ -691,14 +691,67 @@ Diseñada para hacer el día a día de los profesores más manejable, nuestra pl
 
 ### Software Development Environment Configuration
 
-* **Project Management** 
+A continuación, presentaremos los programas de software que hemos utilizado en el desarrollo de nuestro proyecto.
+
+**Project Management**
+
+- **Whatsapp:** [https://web.whatsapp.com/](https://web.whatsapp.com/)
+
+  Se utilizó la plataforma de WhatsApp para organizar las tareas del equipo y proporcionar apoyo mutuo durante el trabajo.
+- **Google Docs:** [https://docs.google.com/](https://docs.google.com/)
+
+  Esta plataforma fue utilizada para enviar y discutir el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante.
+
+**Product UX/UI Design**
 
 
+- **Figma:** [https://www.figma.com/](https://www.figma.com/)
 
-* **Requirements Management**
+  Figma fue nuestra herramienta principal para diseñar wireframes, wireflows, mockups del landing page y para la creación de prototipos de aplicaciones web.
 
-    
-* **Product UX/UI Design**
+**Software Development**
+
+- **Landing Page**
+
+  Para la creación de nuestra página de inicio, hemos empleado HTML5, CSS y Javascript.
+
+- **Frontend Web Application**
+
+  Angular ha sido nuestro framework de elección, junto con Angular Material para la implementación de componentes reutilizables y accesibles de la interfaz de usuario.
+
+**Software Testing**
+
+Hemos realizado pruebas de software en el landing page y la aplicación web utilizando las herramientas de desarrollo de los navegadores web como Google Chrome, Microsoft Edge y Mozilla Firefox.
+
+**IDE's de desarrollo**
+
+- **Webstorm:** [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
+
+  Utilizamos Webstorm, un IDE centrado en el desarrollo frontend, por su variedad de herramientas que agilizan el proceso de desarrollo.
+
+**Software Deployment**
+
+- **Github Pages:** [https://pages.github.com/?(null)](https://pages.github.com/?\(null\))
+
+  Utilizamos Github Pages para desplegar nuestro landing page, vinculando el repositorio de GitHub para que se encargue automáticamente del despliegue.
+
+**Software Documentation**
+
+- **Google Docs:** [https://docs.google.com/](https://docs.google.com/)
+
+  Esta plataforma fue utilizada para enviar el progreso de las tareas asignadas. Semanalmente se enviaban las asignaciones de cada integrante para el informe final.
+
+- **Github:** [https://github.com/](https://github.com/)
+
+  Utilizamos GitHub para la documentación del proyecto y el landing page, aprovechando su capacidad de desarrollo colaborativo y su registro de commits para demostrar la contribución de cada miembro.
+
+- **Structurizr:** [https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
+
+  Utilizamos Visual Paradigm para crear diagramas C4 de nuestro proyecto.
+
+- **Vertabelo:** [https://vertabelo.com/](https://vertabelo.com/)
+
+  Vertabelo fue utilizado para diseñar la estructura de nuestra base de datos, siendo una aplicación web colaborativa.
 
 
 
