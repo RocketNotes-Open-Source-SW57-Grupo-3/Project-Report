@@ -14,9 +14,9 @@ Lo primero que definimos fue el logo de nuestra marca, ya que este representa nu
 
 - Fuente: Roboto.
 
-[](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.001.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.001.png)
 
-Color palette:[ref1]
+Color palette:![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.002.png)
 
 **Typography:**
 
