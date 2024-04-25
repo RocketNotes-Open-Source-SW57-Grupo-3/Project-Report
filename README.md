@@ -875,5 +875,3 @@ LINK VERTABELO:
 
 <https://my.vertabelo.com/public-model-view/pOGF92Qrej8ON4jOc1ZvJLwV1H9yYViDPO6ppO7hmkc2om3xPQkS3tWLKbdLCtwV?x=2225&y=2354&zoom=0.3512> 
 
-[ref1]: Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.002.png
-[ref2]: Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.003.png
