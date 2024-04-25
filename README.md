@@ -51,11 +51,11 @@ Espacio entre secciones:60 px
 
 Entre las opciones del menú: 32px
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.005.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.005.png)
 
 Distancia entre cursos: 25.12 px
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.006.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.006.png)
 
 ### **4.1.2. Web Style Guidelines.**
 
@@ -76,17 +76,17 @@ Evidencia:
 
 Desde una computadora:
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.007.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.007.png)
 
 Desde un celular:
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.008.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.008.png)
 
 ## **4.2. Information Architecture.**
 
 ### **4.2.1. Organization Systems.**
 
-El sistema de organización que nosotros usaremos es jerarquía visual con el objetivo de simplificar la interacción del usuario con la aplicación web y garantizar la accesibilidad a todos los servicios ofrecidos. ![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.009.png)
+El sistema de organización que nosotros usaremos es jerarquía visual con el objetivo de simplificar la interacción del usuario con la aplicación web y garantizar la accesibilidad a todos los servicios ofrecidos. ![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.009.png)
 
 Además, se implementará una organización secuencial en procesos como el registro de usuarios y la configuración de perfiles, asegurando que los pasos a seguir sean claros y fáciles de completar.
 
@@ -106,7 +106,7 @@ Hemos desarrollado un Labeling System con un vocabulario con el que nuestros usu
 - Settings: Se muestran las opciones de configuración.
 - Help & Center: Muestra información sobre funcionalidades.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.010.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.010.png)
 
 ### **4.2.3. SEO Tags and Meta Tags**
 
@@ -120,11 +120,11 @@ Hemos desarrollado un Labeling System con un vocabulario con el que nuestros usu
 
 ### **4.2.4. Searching Systems.**
 
-La búsqueda dentro de nuestra aplicación web es fundamental para que los usuarios tengan una experiencia satisfactoria, por ello desarrollaremos una barra de búsqueda con la característica de que estas darán sugerencias de autocompletado. Esta barra se encontrará en la parte superior derecha de la aplicación web.![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.011.png)
+La búsqueda dentro de nuestra aplicación web es fundamental para que los usuarios tengan una experiencia satisfactoria, por ello desarrollaremos una barra de búsqueda con la característica de que estas darán sugerencias de autocompletado. Esta barra se encontrará en la parte superior derecha de la aplicación web.![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.011.png)
 
 Respecto a la búsqueda en el landing page se hará por enlaces que se encuentran en la barra superior.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.012.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.012.png)
 
 Cada uno de estos enlaces dirige al usuario a la sección deseada.
 
@@ -171,15 +171,15 @@ Los usuarios que ingresan como administradores cuentan con las siguientes seccio
 
 ### **4.3.1. Landing Page Wireframe**
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.013.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.013.png)
 
 ### **4.3.2. Landing Page Mock-up**
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.014.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.014.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.015.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.015.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.016.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.016.png)
 
 LINK FIGMA: <https://www.figma.com/file/pBcefWno0VR16AEy7elc2m/Open-Source?type=design&node-id=0%3A1&mode=design&t=BmgtN82Ieketfpvn-1>
 
@@ -194,67 +194,67 @@ LINK LANDING PAGE:
 
 Inicio de sesión
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.017.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.017.png)
 
 Registro de nueva cuenta
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.018.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.018.png)
 
 Restablecer la contraseña
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.019.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.019.png)
 
 **User goal:** Presentación del home de la aplicación.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.020.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.020.png)
 
 **Wireframes para profesores:**
 
 **User goal:** Registro de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.021.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.021.png)
 
 **User goal:** Agregar estudiante a la lista de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.022.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.022.png)
 
 **User goal:** Eliminar estudiante a la lista de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.023.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.023.png)
 
 **User goal:** Registro de notas
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.024.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.024.png)
 
 **User goal:** Reporte de control psicológico
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.025.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.025.png)
 
 **User goal:** Generar un reporte al staff del colegio
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.026.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.026.png)
 
 **User goal:** Pasarela de pagos
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.027.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.027.png)
 
 **User goal:** Enviar correo electrónico
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.028.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.028.png)
 
 **User goal:** Calendario
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.029.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.029.png)
 
 **User goal:** Configuraciones del perfil
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.030.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.030.png)
 
 **Wireframes para staff:**
 
 **User goal:** Registro de suscripciones
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.031.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.031.png)
 
 **User goal:** Dashboard de todos los reportes
 
@@ -262,27 +262,27 @@ Restablecer la contraseña
 
 **User goal:** Enviar notificaciones a profesores
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.033.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.033.png)
 
 **User goal:** Lista de salones e información adicional
 
 ![Aplicación para staff
 User goal: Lista de salones y su respectiva información
-](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.034.png)
+](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.034.png)
 
 **User goal:** Agregar salon
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.035.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.035.png)
 
 **User goal:** Eliminar salon
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.036.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.036.png)
 
 ### **4.4.2. Web Applications Wireflow Diagrams.**
 
 **User goal:** Registro de un nuevo usuario, recuperación de contraseña o inicio de sesión a la aplicación.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.037.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.037.png)
 
 **Descripción**:
 
@@ -290,7 +290,7 @@ El usuario tiene la intención de realizar acciones relacionadas con la autentic
 
 **User goal:** Visualización de clases, creación de clases y borrado de clases.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.038.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.038.png)
 
 **Descripción**:
 
@@ -298,7 +298,7 @@ El objetivo del usuario es realizar operaciones relacionadas con la gestión de 
 
 User goal: Visualización de lista de asistencia, donde se muestran estudiantes y se pueden tanto agregar y eliminar estudiantes.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.039.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.039.png)
 
 **Descripción**:
 
@@ -306,7 +306,7 @@ El objetivo del usuario es interactuar con una lista de asistencia dentro de la 
 
 **User goal:** Hacer uso del dashboard con el fin de acceder a configuración,  calendario, envío de correo, control psicológico.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.040.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.040.png)
 
 **Descripción**:
 
@@ -316,7 +316,7 @@ Además, acceder a herramientas relacionadas con el control psicológico.
 
 **User goal:** Hacer uso del Home para visualizar, crear y notificar algún reporte. Además, se puede acceder al centro de ayuda.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.041.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.041.png)
 
 Descripción:
 
@@ -324,7 +324,7 @@ El objetivo del usuario es utilizar la página de inicio como punto de partida p
 
 **User goal:** Elegir una suscripción y realizar el pago.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.042.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.042.png)
 
 Descripción:
 
@@ -336,101 +336,101 @@ El usuario tiene la intención de seleccionar una suscripción dentro de la apli
 
 Inicio de sesión
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.043.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.043.png)
 
 Registro de nueva cuenta
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.044.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.044.png)
 
 Restablecer la contraseña
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.045.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.045.png)
 
 Wireframes para profesores
 
 **User goal:** Presentación del home de la aplicación
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.046.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.046.png)
 
 **User goal:** Registro de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.047.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.047.png)
 
 **User goal:** Agregar estudiante a la lista de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.048.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.048.png)
 
 **User goal:** Eliminar estudiante a la lista de asistencia
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.049.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.049.png)
 
 **User goal:** Registro de notas
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.050.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.050.png)
 
 **User goal:** Reporte de control psicológico
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.051.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.051.png)
 
 **User goal:** Generar un reporte al staff del colegio
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.052.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.052.png)
 
 **User goal:** Registro de suscripciones
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.053.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.053.png)
 
 **User goal:** Pasarela de pagos
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.054.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.054.png)
 
 **User goal:** Enviar correo electrónico
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.055.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.055.png)
 
 **User goal:** Calendario
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.056.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.056.png)
 
 **User goal:** Configuraciones del perfil
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.057.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.057.png)
 
 **Wireframes para staff:**
 
 **User goal:** Dashboard de todos los reportes
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.058.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.058.png)
 
 **User goal:** Enviar notificaciones a profesores
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.059.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.059.png)
 
 **User goal:** Lista de salones y su respectiva información
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.060.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.060.png)
 
 **User goal:** Agregar salon
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.061.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.061.png)
 
 **User goal:** Eliminar salon
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.062.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.062.png)
 
 ### **4.4.3. Web Applications User Flow Diagrams.**
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.063.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.063.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.064.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.064.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.065.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.065.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.066.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.066.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.067.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.067.png)
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.068.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.068.png)
 
 ### **4.5. Web Applications Prototyping**
 
@@ -445,19 +445,19 @@ La Arquitectura de Software Orientada al Dominio enfatiza comprender el dominio 
 
 Este diagrama proporciona una vista de alto nivel de nuestro sistema de software y su entorno externo.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.069.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.069.png)
 
 ### **4.6.2. Software Architecture Container Diagrams.**
 
 Este diagrama se centra en descomponer el sistema en contenedores de alto nivel, que pueden ser aplicaciones, servicios web, bases de datos, etc.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.070.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.070.png)
 
 ### **4.6.3. Software Architecture Components Diagrams.**
 
 Estos diagramas profundizan en los contenedores identificados en los diagramas anteriores y descomponen cada contenedor en sus componentes individuales.
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.071.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.071.png)
 
 ## **4.7. Software Object-Oriented Design.**
 
@@ -466,24 +466,24 @@ Estos diagramas profundizan en los contenedores identificados en los diagramas a
 Bounded context: User Controller
 
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.072.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.072.png)
 
 Bounded context: Student Controller
 
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.073.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.073.png)
 
 
 
 Bounded context: Inventory Controller
 
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.074.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.074.png)
 
 Bounded context: Infrastructure Controller
 
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.075.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.075.png)
 
 ### **4.7.1. Class Dictionary.**
 
@@ -869,7 +869,7 @@ Define operaciones para ejecutar comandos, así como para deshacer los comandos 
 
 ### **4.8.1. Database Diagram**
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.076.png) 
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.076.png) 
 
 LINK VERTABELO:
 
