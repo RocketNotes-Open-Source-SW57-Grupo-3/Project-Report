@@ -47,7 +47,7 @@ Margen inferior: 132 px
 
 Espacio entre secciones:60 px
 
-![](Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.004.png)
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.004.png)
 
 Entre las opciones del menú: 32px
 
