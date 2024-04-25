@@ -33,7 +33,7 @@ La paleta de color que se usara en toda la aplicación estara conformada unicame
 **Los colores son los siguientes:**
 
 
-![ref2]
+![](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.003.png)
 
 Spacing:
 
