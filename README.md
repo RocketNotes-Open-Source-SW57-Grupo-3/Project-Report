@@ -16,7 +16,7 @@ Lo primero que definimos fue el logo de nuestra marca, ya que este representa nu
 
 [](images-chapter-IV/Aspose.Words.3e46ae07-de12-4681-8397-de67a92d1ea1.001.png)
 
-Color palette:![ref1]
+Color palette:[ref1]
 
 **Typography:**
 
