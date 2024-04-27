@@ -68,28 +68,28 @@ Visión: Convertirnos en el aliado indispensable para educadores y administrativ
 
 
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.002.jpeg)***La Torre Soto, André Sebastian - U202217772***
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.002.jpeg)***La Torre Soto, André Sebastian - U202217772***
 
 Mi nombre es André Sebastián La torre Soto, actualmente me encuentro en el quinto ciclo de la carrera de Ingeniería de Software. Elegí esta carrera por mi afinidad con las matemáticas y las nuevas tecnologías. Soy alguien que disfruta el aprender y mejorar lo aprendido, a pesar de que esto a veces resulte difícil. Espero poder contribuir de manera positiva en este grupo para que juntos todos podamos alcanzar nuestras metas.
 
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.003.jpeg)
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.003.jpeg)
 
 ***Vilchez Rios, Mateo Alejandro - U202210059***
 
 Soy estudiante de la carrera de Ingeniería de Software cursando actualmente el 5to ciclo. Me considero una persona eficiente, disciplinada y responsable. Poseo conocimientos básicos en C++, Java y JavaScript. Manejo de Base de Datos relacionales. Me comprometo a brindar todo el apoyo necesario para cumplir con todos los requerimientos.
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.004.jpeg)***Ramos Rios, Belén del Rocio- U202216246***
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.004.jpeg)***Ramos Rios, Belén del Rocio- U202216246***
 
 Actualmente estoy cursando el quinto ciclo de la carrera de Ingeniería de Software, etapa que ha reforzado mi sentido de responsabilidad y mi capacidad para colaborar eficazmente en equipo. Además de mis habilidades interpersonales, poseo conocimiento en lenguajes de programación como JavaScript (JS), C++, y SQL Estoy siempre en busca de nuevas oportunidades de aprendizaje que me permitan expandir mis conocimientos y contribuir de manera significativa en cualquier proyecto en el que participe.
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.005.png)
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.005.png)
 
 ***Nelson Elías, Serrano Ircañaupa - U202214733***
 
 Me llamo Nelson Serrano, estudiante de Ingeniería de Software con el código estudiantil U202214733. Mi carrera se basa en crear soluciones digitales e innovadoras para distintas problemáticas del mundo real. Las habilidades en las que puedo aportar en el grupo son dominio y práctica de lenguajes de programación como C++ y python, documentación de proyectos y metodologías ágiles y conocimientos básicos de base de datos.
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.006.png)
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.006.png)
 
 ***Frida Sofia Dam Rubianes - U202218352***
 
@@ -304,7 +304,7 @@ Creemos que al ofrecer características altamente personalizables que cubren dir
 
 ### **1.2.2.4. Lean UX Canvas**
 
-![](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.007.png)
+![](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.007.png)
 
 LINK LEAN UX CANVAS: [**https://miro.com/welcomeonboard/NEdsWTNwa0FKdWVGUmlFUEJ6R3dldkpBRHNxRmNIeEdhNWVDNHhoRnBlZENuSElYbm1hN3JjNFNwOUJpdUIzWHwzNDU4NzY0NTIzMzkyNDUwNjk1fDI=?share_link_id=776423401253**](https://miro.com/welcomeonboard/NEdsWTNwa0FKdWVGUmlFUEJ6R3dldkpBRHNxRmNIeEdhNWVDNHhoRnBlZENuSElYbm1hN3JjNFNwOUJpdUIzWHwzNDU4NzY0NTIzMzkyNDUwNjk1fDI=?share_link_id=776423401253)
 
@@ -489,7 +489,7 @@ Dada la creciente preocupación por la seguridad y la privacidad de los datos, i
 
 **Ocupación:** Profesor de matemáticas en una institución privada de Paiján
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.001.jpeg)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.001.jpeg)
 
 **URL: [Entrevistas_Segmento1 Profesores .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216246_upc_edu_pe/EZ6_iJ4S0bVMoKbp2HJlzqwBGmW-p9StM6YwnA0dAUdwJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XMFx2G)**  (Comienzo 00:00 - Fin 10:00)
 
@@ -530,7 +530,7 @@ Andrés resalta la importancia de que las soluciones tecnológicas en educación
 
 **Ocupación:** Docente en un colegio particular de Paiján
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.002.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.002.png)
 
 **URL: [Entrevistas_Segmento1 Profesores .mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216246_upc_edu_pe/EZ6_iJ4S0bVMoKbp2HJlzqwBGmW-p9StM6YwnA0dAUdwJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XMFx2G)** (Comienzo 10:06 - Fin 20:28)
 
@@ -564,7 +564,7 @@ Resalta los desafíos de la gestión manual de asistencias y calificaciones, apr
 
 **Ocupación:** Docente del nivel secundario
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.003.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.003.png)
 
 **URL: [Entrevistas Segmento 1 Profesores .mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216246_upc_edu_pe/EZ6_iJ4S0bVMoKbp2HJlzqwBGmW-p9StM6YwnA0dAUdwJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XMFx2G)** (Comienzo 20:34 - Fin 27:34)
 
@@ -598,7 +598,7 @@ Uno de los principales desafíos es la transición de los registros manuales a s
 
 **Ocupación:** Promotora de una institución educativa
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.004.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.004.png)
 
 **URL: [Entrevistas_Segmento2 Equipo Administrativo.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216246_upc_edu_pe/ET1SAV2zRHdEpOvQ03zXIzUBxwkD8ifZVKJqMl_9IQDA4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6K6Mcu)** (Comienzo 00:00 - Fin 7:54)
 
@@ -678,7 +678,7 @@ La gestión del alumno es vista como la función más importante. Paul enfatiza 
 
 **Ubicación:** Distrito de Paiján, provincia de Ascope, La Libertad
 
-**Ocupación:** Docente y directora de un colegio privado![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.006.jpeg)
+**Ocupación:** Docente y directora de un colegio privado![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.006.jpeg)
 
 
 
@@ -719,7 +719,7 @@ Todos los entrevistados han adoptado herramientas digitales en su metodología d
 
 Las herramientas digitales usadas son las siguientes: 
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.007.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.007.png)
 
 - Excel para la gestión de calificaciones y asistencias (100% de los entrevistados).
 - Dispositivos móviles y laptops para flexibilidad y acceso a recursos (100%).
@@ -734,7 +734,7 @@ Intuitividad y accesibilidad: Las herramientas deben ser fáciles de usar, acces
 
 **Desafíos Actuales**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.008.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.008.png)
 
 - Manejo del volumen de datos de estudiantes y actualización en tiempo real: La necesidad de sistemas que permitan una gestión eficiente y confidencial de la información de los estudiantes es un desafío destacado (67%).
 - Integración de herramientas en el aula: La transición de registros manuales a sistemas digitales, y la inclusión de dispositivos como laptops o tablets en el aula de manera permanente, se ve como un reto importante (33%).
@@ -745,7 +745,7 @@ Las entrevistas realizadas al equipo administrativo de instituciones educativas 
 
 **Herramientas y Tecnologías Utilizadas por el Equipo Administrativo**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.009.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.009.png)
 
 
 
@@ -756,14 +756,14 @@ Las entrevistas realizadas al equipo administrativo de instituciones educativas 
 
 **Desafíos Actuales en la Gestión Educativa**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.010.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.010.png)
 
 - Gestión de Asistencia, Inventario Manual de Útiles, y Supervisión de Infraestructura son desafíos destacados por dos tercios de los entrevistados, resaltando áreas claves para mejoras tecnológicas.
 - Gestión de Horarios y Seguimiento, Control de Inventario y Aulas son mencionados por un tercio, lo que muestra otros retos importantes, aunque con una mención menos frecuente.
 
 **Funciones Deseadas en una Aplicación para la Gestión Educativa**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.011.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.011.png)
 
 
 
@@ -798,7 +798,7 @@ Para poder conseguir una comprensión más completa de nuestra audiencia, hemos 
 
 **Segmento 1: Profesores**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.012.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.012.png)
 
 
 
@@ -810,7 +810,7 @@ Para poder conseguir una comprensión más completa de nuestra audiencia, hemos 
 
 **Segmento 2: Equipo Administrativo**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.013.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.013.png)
 
 
 
@@ -838,11 +838,11 @@ Para poder conseguir una comprensión más completa de nuestra audiencia, hemos 
 
 **Juan Quispe:**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.014.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.014.png)
 
 **Ana Garcia:**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.015.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.015.png)
 
 
 
@@ -850,13 +850,13 @@ Para poder conseguir una comprensión más completa de nuestra audiencia, hemos 
 
 **Juan Quispe:**
 
-**![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.016.png)**
+**![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.016.png)**
 **
 
 
 **feliAna Garcia:**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.017.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.017.png)
 
 ### **2.3.5. As-is Scenario Mapping.**
 
@@ -864,11 +864,11 @@ Para poder conseguir una comprensión más completa de nuestra audiencia, hemos 
 
 **Juan Quispe:**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.018.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.018.png)
 
 **Ana Garcia:**
 
-![](Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.019.png)
+![](images-chapter-II/Aspose.Words.eae2eaac-4aab-4f37-9e36-02d4d9ca4f70.019.png)
 
 ## **2.4. Ubiquitous Language**
 
@@ -901,11 +901,11 @@ Glosario:
 
 **Juan Quispe:**
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.001.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.001.png)
 
 **Ana Garcia:**
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.002.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.002.png)
 
 ## **3.2. User Stories**
 
@@ -954,21 +954,21 @@ En esta sección, presentamos el Impact Mapping como herramienta estratégica pa
 
 Brindar un servicio de gestión, registro de notas y asistencia de los alumnos
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.003.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.003.png)
 
 Incrementar la eficiencia un 10% en la gestión, registro de notas y asistencia de los alumnos
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.004.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.004.png)
 
 **Administradores**
 
 Brindar un servicio de gestión administrativa
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.005.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.005.png)
 
 Incrementar en un 10% la cantidad de administradores interesado en la aplicación
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.006.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.006.png)
 
 ## **3.4. Product Backlog**
 
@@ -977,7 +977,7 @@ En este apartado del informe, nos adentramos en el concepto y la relevancia del 
 A continuación, se muestra nuestro Product Backlog elaborado:
 
 
-![](Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.007.png)
+![](images-chapter-III/Aspose.Words.a2067305-f689-47d5-8d76-971ef1bc2225.007.png)
 
 **Trello:  [Product Backlog | Trello](https://trello.com/b/fHKD9Uys/product-backlog)**
 
