@@ -1,5 +1,5 @@
 
-![Upc Logo](Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.001.png)
+![Upc Logo](images-chapter-I/Aspose.Words.20e5880b-bca8-41bd-85dc-2b706e983bd3.001.png)
 
 # **Universidad Peruana de Ciencias Aplicadas**
 
