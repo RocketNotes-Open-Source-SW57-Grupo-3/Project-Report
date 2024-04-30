@@ -176,11 +176,11 @@ La gestión eficiente de los recursos académicos y administrativos es crucial p
 
 ### **1.2.2.1. Lean UX Problem Statements**
 
-Nuestra aplicación ofrece soporte en la gestión del bienestar y rendimiento de los estudiantes y en los procesos administrativos de las instituciones educativas de educación básica.
+El estado actual de la gestión educativa y el bienestar estudiantil en el entorno escolar se ha centrado principalmente en el registro de datos de información crítica.
+Lo que los productos existentes no logran abordar es la agilidad en la visualización y agrupación de datos críticos. 
+Nuestro producto abordará esta brecha mediante una aplicación web que presenta los datos en tablas claras y segmentadas.
+Nuestro enfoque inicial será dirigido a administradores escolares y docentes de escuelas primarias y secundarias.
 
-Hemos observado que los factores principales que afectan a las escuelas son la dificultad que tienen para registrar y acceder a información fundamental sobre el mantenimiento de los equipos e infraestructura, capacidad de aforo en las instalaciones y el monitoreo de los escolares. Esto causa un empleo ineficaz del tiempo y del personal de la institución, lo cual resulta un proceso de la toma de decisiones poco eficiente.
-
-¿Cómo podemos mejorar los procesos administrativos y de gestión estudiantil para que los colegios tengan más éxito basándonos en el tiempo y la cantidad de personal empleado en el proceso de la toma de decisiones?
 
 ### **1.2.2.2. Lean UX Assumptions**
 
