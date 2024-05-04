@@ -506,4 +506,395 @@ Aprovecharemos la oportunidad de expansión a nuevos mercados y adaptamos nuestr
 
 Dada la creciente preocupación por la seguridad y la privacidad de los datos, implementaremos medidas de seguridad para garantizar la protección de la información confidencial de nuestros usuarios. 
 
+## **2.2. Entrevistas**
+
+#### **2.2.1. Diseño de entrevistas**
+
+**Preguntas Generales para Ambos Segmentos:**
+
+
+
+
+- ¿Cómo te llamas?
+- ¿Qué edad tienes?
+- ¿Dónde vives?
+- ¿Cuál es tu ocupación actual?
+- ¿Cómo describirías tu experiencia con las herramientas digitales en el ámbito educativo?
+- ¿Qué expectativas tienes respecto a las soluciones tecnológicas para la gestión educativa?
+
+**Preguntas Específicas para Profesores:**
+
+
+
+
+- ¿Cuáles son los principales desafíos que enfrentas al llevar un registro eficiente de calificaciones y asistencia de tus estudiantes?
+
+
+
+
+- ¿Cómo manejas actualmente el seguimiento del bienestar psicológico de tus estudiantes?
+
+
+
+
+- ¿Has utilizado alguna plataforma o herramienta que te haya ayudado en la gestión académica? Si es así, ¿qué aspectos de esta herramienta encontraste más valiosos?
+
+
+
+
+- ¿Qué funciones crees que son más importantes en una app para hacerte el trabajo más fácil?
+
+**Preguntas Específicas para el Equipo Administrativo:**
+
+
+
+
+- ¿Cuáles son los mayores retos que enfrentas en la gestión diaria de la infraestructura escolar?
+
+
+
+
+- ¿Cómo gestionas actualmente el inventario de útiles escolares y la base de datos para materiales de clase?
+- ¿Has implementado alguna solución tecnológica previamente para la administración escolar? ¿Cuál ha sido tu experiencia?
+
+
+
+
+- ¿Qué funciones crees que son más importantes en una app para hacerte el trabajo más fácil?
+
+
+
+
+- ¿Cómo crees que una solución digital podría mejorar la eficiencia operativa y la experiencia educativa en tu institución?
+
+#### **2.2.2. Registro de entrevistas**
+
+En esta sección, se proporciona el registro detallado de las entrevistas realizadas de cada segmento objetivo. Para acceder a las entrevistas completas, se facilita el enlace correspondiente para su visualización en Microsoft Stream:
+
+<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1> 
+
+**Segmento objetivo #1: Profesores**
+
+**Entrevista #1:**
+
+
+
+**Nombres y apellidos:** Andrés Segovia Maya
+
+**Edad:** 39 años
+
+**Ubicación:** Paiján, provincia de Ascope, en la Libertad
+
+**Ocupación:** Profesor de matemáticas en una institución privada de Paiján
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.008.jpeg)
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 00:00 - Fin: 09:58
+
+**Experiencia con Herramientas Digitales:**
+
+Andrés inició su experiencia con las herramientas digitales en la educación, principalmente durante la pandemia, calificándola como positiva y satisfactoria. 
+
+**Herramientas y Plataformas Digitales Usadas:**
+
+- Excel: Utilizado para la gestión de calificaciones y asistencia.
+- Browser: Google Chrome, navegador principal utilizado para la preparación de clases.
+- Zoom: Utilizado para realizar clases virtuales y sesiones de reforzamiento.
+- Pizarras Virtuales: Usadas para mejorar la dinámica de las lecciones y la visualización de conceptos complejos
+
+**Dispositivos Usados:**
+
+- Ordenador portátil con sistema operativo windows: Su uso es esencial para el desarrollo de su labor docente, facilitando el acceso a recursos y comunicaciones.
+- Teléfono móvil con sistema operativo android: Clave para la comunicación móvil y acceso a aplicaciones educativas en movimiento.
+
+**Canales de Comunicación:**
+
+- Gmail y WhatsApp: Medios preferidos para la comunicación directa con los padres, utilizados para el seguimiento estudiantil, distribución de anuncios y material educativo.
+
+**Personalidad y Estilo de Interacción:**
+
+Andrés se muestra como un educador dedicado y consciente de la importancia de la tecnología en la educación moderna. Es receptivo a la innovación y busca activamente soluciones que faciliten y mejoren su labor docente.
+
+**Expectativas sobre Soluciones Tecnológicas:**
+
+Espera que las soluciones tecnológicas simplifiquen y optimicen la administración escolar, abarcando desde la gestión de horarios y calificaciones hasta la comunicación entre todos los stakeholders del entorno educativo. 
+
+**Desafíos Actuales y Visión Futura:**
+
+Enfrenta desafíos relacionados con el manejo de grandes volúmenes de datos estudiantiles y la necesidad de actualizaciones en tiempo real. Expresa la necesidad de una aplicación centralizada que integre y facilite la gestión de recursos y procesos educativos.
+
+**Entrevista #2:**
+
+**Nombres y Apellidos:** Juan Carlos Rodríguez Carrion
+
+**Edad:** 35 años
+
+**Ubicación:** La Libertad, Casa Grande, provincia de Ascope
+
+**Ocupación:** Docente en un colegio particular de Paiján
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.009.png)
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 09:59 - Fin: 20:22
+
+**Experiencia con Herramientas Digitales:**
+
+Juan Carlos ha experimentado una transformación positiva en su metodología docente gracias al uso de herramientas digitales, las cuales han reemplazado las metodologías tradicionales por un enfoque más interactivo y atractivo para los estudiantes.
+
+**Herramientas y Plataformas Digitales Utilizadas:**
+
+- Jamboard: Para dinamizar las lecciones y fomentar la participación activa.
+- Excel: Para la gestión de calificaciones y asistencia de forma más eficiente.
+- Browser: Google Chrome, utilizado en la preparación de clases.
+
+**Dispositivos Utilizados:**
+
+- Ordenador portátil con sistema operativo windows: Esencial para el desarrollo de su labor educativa, proporcionando acceso a recursos y herramientas de gestión.
+- Teléfono Móvil con sistema operativo iOS: Crucial para mantener comunicaciones fluidas y acceso a aplicaciones educativas en cualquier momento y lugar.
+
+**Canales de Comunicación:**
+
+- WhatsApp y Gmail: utiliza estos medios para comunicarse directamente con los padres de los estudiantes, ofreciendo un canal eficiente para el intercambio de información y la gestión de consultas. 
+
+**Personalidad y Estilo de Interacción:**
+
+Juan Carlos demuestra ser un educador comprometido y adaptable, con un claro enfoque hacia la innovación en la educación. Su entusiasmo por las herramientas digitales y su implementación proactiva sugieren un estilo de interacción dinámico y moderno. Él valora la comunicación efectiva y directa, como evidencia su uso de WhatsApp para mantenerse en contacto con los padres, mostrando su dedicación a mantener un ambiente de apoyo y colaborativo tanto con los estudiantes como con sus familias.
+
+**Expectativas sobre Soluciones Tecnológicas:**
+
+Valora la importancia de que las tecnologías educativas amplíen el alcance del aprendizaje, extendiendo las fronteras de la enseñanza tradicional. Aspira a que las soluciones tecnológicas ofrezcan mayor integración y automatización para simplificar la gestión académica.
+
+**Desafíos Actuales y Visión Futura:**
+
+Destaca los desafíos en la gestión manual de datos y la comunicación efectiva con los padres. Espera el desarrollo de una plataforma integral que no solo mejore la gestión académica, sino que también optimice la comunicación con herramientas como notificaciones automáticas sobre el rendimiento y la asistencia de los estudiantes.
+
+**Entrevista #3:**
+
+**Nombre:** Tatiana Cabrera Goicoechea
+
+**Edad:** 33 años
+
+**Ubicación:** Vive en el distrito de Paiján, provincia de Ascope, departamento de la Libertad
+
+**Ocupación:** Docente del nivel secundario
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.010.png)
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 20:23 - Fin: 27:21
+
+**Experiencia con Herramientas Digitales:**
+
+Tatiana habla positivamente sobre su experiencia con las herramientas digitales, destacando cómo estas facilitan la interactividad en las aulas, mejoran la comunicación con los estudiantes y hacen las clases más fluidas. Valora el uso de aplicaciones, transmisiones en vivo y proyectores multimedia para presentar material didáctico de manera eficiente.
+
+**Herramientas y Plataformas Digitales Utilizadas:**
+
+- Excel: Empleado para el registro de notas, aprovechando funciones avanzadas como la inserción de fórmulas y el cálculo automático de promedios.
+- PowerPoint: Utilizado para hacer presentaciones de clase más dinámicas e interactivas.
+- Dispositivos Tecnológicos en el Aula: Subraya la importancia de contar con laptops o tablets para acceder a recursos educativos de manera directa y efectiva.
+
+**Dispositivos Utilizados:**
+
+- Desktop con Sistema Operativo Windows: Utilizado para la preparación de material didáctico y la gestión de información académica.
+- Teléfono Móvil con Sistema Operativo Android: Fundamental para mantener comunicación constante con estudiantes y colegas, y para el acceso a aplicaciones educativas en cualquier lugar.
+
+**Canales de Comunicación:**
+
+- WhatsApp y Telegram: Tatiana emplea estos medios para mantener una comunicación fluida y constante con los estudiantes y sus padres, permitiendo un acceso rápido y efectivo a información importante y facilitando el intercambio de materiales y anuncios educativos.
+
+**Personalidad y Estilo de Interacción:**
+
+Tatiana se muestra como una educadora innovadora y adaptativa, siempre en búsqueda de mejorar la eficacia y la interacción en sus clases mediante el uso de tecnología. Es pragmática y visionaria, reconociendo las ventajas de integrar soluciones digitales que simplifiquen las operaciones cotidianas y mejoren los resultados de aprendizaje.
+
+**Expectativas sobre Soluciones Tecnológicas:**
+
+Espera una mayor integración de herramientas tecnológicas en las aulas, incluyendo dispositivos como laptops o tablets de manera permanente. Aspira a soluciones que permitan a los docentes gestionar su trabajo de manera más eficiente sin tener que transportar equipos de un lugar a otro.
+
+**Desafíos Actuales y Visión Futura:**
+
+Enfrenta el reto de modernizar los registros manuales hacia sistemas digitales más integrados. Aboga por el desarrollo de una aplicación que simplifique la transición, ofrezca funciones automáticas para el cálculo de notas y respalde de manera integral la gestión académica.
+
+
+
+
+
+
+**Segmento objetivo #2: Equipo Administrativo**
+
+**Entrevista #1:**
+
+**Nombre:** Graciela del Rocío Ríos Alza
+
+**Edad:** 51 años
+
+**Ubicación:** La Libertad, Trujillo
+
+**Ocupación:** Promotora de una institución educativa
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.011.png)
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 27:22 - Fin: 35:16
+
+**Experiencia con Herramientas Digitales:**
+
+Rocío relata una experiencia positiva con la digitalización, especialmente notable durante y después de la pandemia, lo que llevó a su institución a adoptar rápidamente nuevas tecnologías. Destaca el uso continuado de libros digitales para hacer las clases más interactivas y eficientes.
+
+**Herramientas y Plataformas Digitales Utilizadas:**
+
+- Libros Digitales: Implementados para proyectar material didáctico en las aulas, enriqueciendo la experiencia de aprendizaje.
+- Excel: Utilizado para la organización y gestión de la infraestructura escolar, lo que permite una administración más eficiente de los recursos.
+
+**Dispositivos Utilizados:**
+
+- Laptop con sistema operativo Windows: Utilizada en su hogar para tareas administrativas y planificación.
+- Desktop con sistema operativo Windows: Empleada en el colegio para gestionar tareas administrativas y acceder a recursos educativos.
+- Teléfono Móvil con Android: Esencial para comunicaciones rápidas y acceso a información en movimiento.
+
+**Canales de Comunicación:**
+
+- WhatsApp, Facebook, e Instagram: Estratégicamente utilizados para promocionar el colegio y mantener a la comunidad escolar informada sobre eventos, noticias y logros.
+
+**Personalidad y Estilo de Interacción:**
+
+Graciela del Rocío Ríos Alza es práctica y proactiva, enfocada en la innovación tecnológica para la mejora de la gestión educativa. Su estilo de interacción es directo y solucionador, destacándose por su compromiso en optimizar la comunicación entre la institución y las familias y en enriquecer el ambiente de aprendizaje. Consciente de la importancia de la tecnología en la educación, Rocío busca constantemente implementar soluciones que incrementen la eficiencia y la calidad educativa.
+
+**Expectativas sobre Soluciones Tecnológicas:**
+
+Expresa interés en soluciones que faciliten la gestión de asistencia, con un sistema que notifique a los padres sobre los horarios de entrada y salida de sus hijos, mejorando la comunicación y proporcionando tranquilidad a las familias.
+
+**Desafíos Actuales en la Gestión Educativa:**
+
+Enfrenta retos con la gestión manual del inventario y la supervisión de la infraestructura escolar. Destaca la necesidad de digitalizar estos procesos para integrarlos con herramientas como Excel.
+
+**Implementación de Soluciones Tecnológicas:**
+
+Destaca la reciente implementación de marcadores electrónicos para la asistencia, que generan automáticamente archivos en Excel, representando un avance significativo en la administración escolar. También se considera el desarrollo de una página web para que los padres consulten notas y otras informaciones académicas de sus hijos.
+
+**Funciones Deseadas en una Aplicación para la Gestión Educativa:**
+
+Aboga por una aplicación que permita a los docentes ingresar sus actividades diarias y observaciones, proporcionando una visión completa de las operaciones diarias a la dirección. Sugiere una solución digital que centralice datos sobre notas, asistencias, tardanzas y comportamiento de los estudiantes.
+
+
+
+
+
+
+
+**Entrevista #2:**
+
+**Nombre:** Paul Ramos Chumpitazi
+
+**Edad: 54** años
+
+**Ubicación:** la Libertad, Paijan
+
+**Ocupación:** Docente del nivel secundario, además de desempeñarse en la parte administrativa de una institución educativa
+
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.012.png)
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 35:17 - Fin: 46:30
+
+**Experiencia con Herramientas Digitales:**
+
+Paul expresa su deseo de integrar más tecnología en el colegio para facilitar la interacción constante entre los padres y la institución. Su visión es reducir la brecha digital y ofrecer servicios avanzados adaptados a la realidad de una institución en provincia.
+
+**Herramientas y Plataformas Digitales Utilizadas:**
+
+- Proyectores Multimedia y Televisores Android: Para presentaciones dinámicas e interactivas.
+- Marcadores electrónicos: Para el registro eficiente de asistencias.
+- Cámaras de Video: Uso de la aplicación Verisure para la gestión y monitoreo de seguridad.
+- Excel: Gestión de horarios, seguimiento de alumnos y control de inventarios.
+- Google Chrome: Acceso a recursos en línea y aplicaciones web educativas y administrativas.
+
+**Dispositivos Utilizados:**
+
+- Celular con sistema operativo iOS: Comunicación y gestión mediante aplicaciones móviles.
+- Desktop con sistema operativo Windows: Empleada en el colegio para tareas administrativas.
+- Laptop con sistema operativo Windows: Usada para administración y planificación.
+
+**Canales de Comunicación:**
+
+- WhatsApp: Principal herramienta de comunicación para intercambiar información importante de manera instantánea con el personal y los padres.
+
+**Personalidad y Estilo de Interacción:**
+
+Paul es proactivo y visionario, destacando por su compromiso con la integración de tecnología en la educación para mejorar la eficiencia y la comunicación. Su enfoque es práctico y orientado a soluciones que atienden las necesidades específicas de su comunidad educativa.
+
+**Expectativas sobre Soluciones Tecnológicas para la Gestión Educativa:**
+
+Paul aspira a implementar soluciones tecnológicas que permitan a los padres estar constantemente informados sobre asistencias, notas y otros aspectos relevantes de la educación de sus hijos.
+
+**Desafíos Actuales en la Gestión Educativa:**
+
+Los retos incluyen cambiar el manejo manual de asistencias por un sistema electrónico y mejorar el control del personal docente a través de la tecnología. También se menciona la necesidad de un software para gestionar inventarios de útiles y equipos escolares, así como la capacidad de las aulas según los requerimientos de defensa civil.
+
+**Implementación de Soluciones Tecnológicas:**
+
+Hasta el momento, se han utilizado plantillas en Excel para horarios y seguimiento de alumnos. Sin embargo, Paul subraya la urgencia de adoptar soluciones tecnológicas más avanzadas para la gestión administrativa, de inventario y de infraestructura tecnológica, preferentemente alojadas en la nube para un acceso fácil y remoto.
+
+**Funciones Deseadas en una Aplicación para la Gestión Educativa:**
+
+La gestión del alumno es vista como la función más importante. Paul enfatiza en proporcionar a los padres herramientas que les permitan estar constantemente informados sobre la educación de sus hijos, incluyendo accesos, notas, fechas de exámenes y presentación de trabajos, buscando así una participación activa de los padres en el proceso educativo.
+
+**Entrevista #3:**
+
+**Nombre:** Juliana Gisela Chávez Pozo
+
+**Edad:** 31 años
+
+**Ubicación:** Distrito de Paiján, provincia de Ascope, La Libertad
+
+**Ocupación:** Docente y directora de un colegio privado![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.013.jpeg)
+
+
+
+
+
+
+
+**URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
+
+**Tiempo de la Entrevista:** Comienzo: 46:31 - Fin: 56:56
+
+**Herramientas y Plataformas Digitales Utilizadas:**
+
+- Proyectores en Aulas: En el nivel secundario, para presentaciones y lecciones interactivas.
+- Televisores: Utilizados inicialmente antes de la implementación de proyectores.
+- Excel: Empleado para la gestión y organización de horarios, seguimiento de alumnos, y control de inventarios, entre otros aspectos administrativos y educativos.
+
+**Dispositivos Utilizados:**
+
+- Teléfono móvil con sistema operativo Android: Utilizado para comunicaciones rápidas y gestión a través de aplicaciones móviles.
+- Ordenador portátil con sistema operativo windows: Empleada para tareas administrativas más complejas y planificación educativa.
+
+**Canales de Comunicación:**
+
+- Grupos de WhatsApp: Principal herramienta de comunicación para intercambiar información importante de manera instantánea con el personal y los padres.
+
+**Personalidad y Estilo de Interacción:**
+
+Juliana se muestra como una líder educativa proactiva y reflexiva, comprometida con la integración de la tecnología en el aula. Sin embargo, valora profundamente la interacción humana en la educación, buscando un equilibrio entre el uso de nuevas tecnologías y la calidad de la enseñanza presencial. Su enfoque es pragmático y orientado a soluciones que atiendan las necesidades específicas de su comunidad educativa.
+
+**Desafíos Actuales en la Gestión Educativa:**
+
+Juliana enfrenta el reto de la ausencia de un sistema digital para el inventario de materiales educativos, lo que dificulta la localización y gestión eficiente de los recursos disponibles.
+
+**Funciones Deseadas en una Aplicación para la Gestión Educativa:**
+
+Destaca la necesidad de una aplicación que permita una interactividad robusta, con funcionalidades para enviar y recibir documentos e información de manera instantánea, facilitando así una mejor comunicación.
+
+**Reflexiones Finales:**
+
+Juliana subraya la importancia de la tecnología como apoyo en la educación, pero insiste en que no puede reemplazar la interacción humana y la presencia física del docente en el aula. La tecnología debe usarse para complementar y enriquecer la experiencia educativa, facilitando la comunicación y el acceso a la información, pero siempre dentro del marco de una educación presencial de calidad.
+
 
