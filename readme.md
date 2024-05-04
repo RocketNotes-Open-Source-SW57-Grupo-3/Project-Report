@@ -1202,6 +1202,940 @@ A continuación, se muestra nuestro Product Backlog elaborado:
 |24|US21|Confirmación de la Confiabilidad a través de Reseñas|<p>Como potencial cliente,</p><p>Quiero ver testimonios y calificaciones de otros usuarios,</p><p>Para evaluar la credibilidad de RocketNotes.</p>|3|
 |25|US25|Selección de Idioma en la Landing Page|<p>Como visitante internacional,</p><p>Quiero seleccionar mi idioma preferido en la Landing Page,</p><p>Para entender mejor la información sobre RocketNotes</p>|1|
 
+## **Capítulo IV: Product Design**
+
+### **4.1. Style Guidelines**
+
+La creación de un producto digital exitoso no solo depende de su funcionalidad sino también de su diseño y estética, que juegan un papel crucial en cómo los usuarios perciben e interactúan con la tecnología. Las guías de estilo constituyen una base fundamental para el diseño coherente y la implementación efectiva de interfaces de usuario. En esta sección, estableceremos las directrices de estilo que definirán la apariencia y el comportamiento de nuestra aplicación.
+
+#### **4.1.1. General Style Guidelines.**
+
+**Branding:**
+
+Nuestra aplicación está destinada al personal administrativo y profesores de instituciones educativas de educación básica, por ello el branding de nuestra marca busca transmitir seriedad y serenidad. Adicionalmente, como nos enfocamos en brindar soporte a los procesos de gestión del bienestar de estudiantes e infraestructura escolar, necesitamos que la aplicación no cuente con elementos distractores, por ello el diseño debe de ser lo más simple e intuitivo posible.
+
+**Logo:**
+
+Lo primero que definimos fue el logo de nuestra marca, ya que este representa nuestra identidad. El logo usa la fuente Roboto y los colores gris oscuro (#595959) y verde (#1EC089). El tamaño del logo dependerá de la pantalla en la que se muestre, ya que si se muestra en una computadora será más grande que si se muestra en un celular.
+
+- Fuente: Roboto.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.008.png)
+
+Color palette:![ref1]
+
+**Typography:**
+
+1. Heading one: Roboto - 64px
+1. Heading two: Roboto - 40px
+1. Heading three: Roboto - 36px
+1. Body: Roboto -20px
+1. Body: Roboto - 14px
+
+**Global Color Palette:**
+
+La paleta de color que se usara en toda la aplicación estara conformada unicamente por dos colores. Esto se debe a que el usar muchos colores puede ser distractor y en nuestra aplicación eso sería contraproducente, ya que se trabaja con datos importantes y se usa para tomar decisiones.
+
+**Los colores son los siguientes:**
+
+
+![ref2]
+
+Spacing:
+
+Espacio entre líneas: 120%
+
+Espacio de margen izquierdo y derecho: 160 px
+
+Margen superior: 38 px
+
+Margen inferior: 132 px
+
+Espacio entre secciones:60 px
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.011.png)
+
+Entre las opciones del menú: 32px
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.012.png)
+
+Distancia entre cursos: 25.12 px
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.013.png)
+
+#### **4.1.2. Web Style Guidelines.**
+
+Nuestra aplicación usará un diseño web responsivo, es decir tendremos una única versión que se adaptará a los diferentes dispositivos. Se ha tomado en cuenta las siguientes características:
+
+Visuales:
+
+- Redimensión de elementos: En el caso de las pantallas de menor tamaño, los textos, elementos decorativos e imágenes se ajustan para que se visualicen de forma completa y sin perder la funcionalidad.
+- Flexibilidad en la disposición de los elementos: Se consideró la reorganización de los elementos en diferentes dispositivos y tamaños de pantalla. Los textos que acompañan a las imágenes de forma horizontal, al proyectarse en celulares se visualizan de forma vertical, es decir el texto se coloca arriba o abajo de la imagen según sea necesario.
+- Imágenes y contenido multimedia adaptado: Se optimizaron las imágenes para que el tiempo de carga sea el menor posible.
+
+Interacción:
+
+- Navegación intuitiva: La navegación de nuestra aplicación es similar en todos los tamaños de pantalla, sin embargo, se toma en consideración elementos como los menús que necesitan ser flotantes para que sea más cómodo e intuitivo para los usuarios que se encuentren en el celular.
+- Touch-friendly design: Realizamos un diseño con botones visibles y espaciados entre otros elementos para asegurarnos de que al pasar a pantallas de celulares se puedan usar con el touch sin dificultad.
+
+Evidencia:
+
+Desde una computadora:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.014.png)
+
+Desde un celular:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.015.png)
+
+### **4.2. Information Architecture.**
+
+#### **4.2.1. Organization Systems.**
+
+El sistema de organización que nosotros usaremos es jerarquía visual con el objetivo de simplificar la interacción del usuario con la aplicación web y garantizar la accesibilidad a todos los servicios ofrecidos. ![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.016.png)
+
+Además, se implementará una organización secuencial en procesos como el registro de usuarios y la configuración de perfiles, asegurando que los pasos a seguir sean claros y fáciles de completar.
+
+Para la búsqueda de contenido, se utilizará una organización matricial mediante filtros, permitiendo a los usuarios buscar por nombre o fecha.
+
+#### **4.2.2. Labeling Systems.**
+
+Hemos desarrollado un Labeling System con un vocabulario con el que nuestros usuarios se comunican dentro del rubro de la educación. Adicionalmente, mantuvimos un lenguaje simple e intuitivo en botones que realizan acciones comunes como agregar o eliminar. A continuación, se presentan las etiquetas clave que guían la experiencia del usuario en nuestra aplicación.
+
+- Home: Sección donde se muestran los cursos y la opción de pagar la suscripción.
+- Register attendance: Se muestran los cursos que tienen los maestros y luego la lista de alumnos dentro. Se registra y visualiza la asistencia de los estudiantes.
+- Grade book: Se muestran los cursos que tienen los maestros y luego la lista de alumnos dentro. Se registran y visualizan las notas de los estudiantes.
+- Psychological controles: Se muestran los grados que hay en la escuela, luego los salones y por último los estudiantes. Se registran y visualizan los controles psicológicos de los estudiantes.
+- Maintenance: Permite realizar reportes sobre la infraestructura o incidentes con los equipos de trabajo. 
+- Send an email: Permite al usuario enviar correos desde la app.
+- Calendar: Muestra el calendario.
+- Settings: Se muestran las opciones de configuración.
+- Help & Center: Muestra información sobre funcionalidades.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.017.png)
+
+#### **4.2.3. SEO Tags and Meta Tags**
+
+|**Tipo de Etiqueta**|**Descripción**|**Implementación**|
+| :-: | :-: | :-: |
+|<title>|Título de la Página|<title> RocketNotes</title>|
+|<meta>|Metaetiqueta para información adicional|<meta name="description" content="Simplify the management of infrastructure and school processes with RoketNotes. Our platform offers comprehensive solutions for efficient and hassle-free administration.">|
+|<meta>|Metaetiqueta para palabras clave|<meta name="keywords" content="Infrastructure Management, School Management, Management Web Application, School Administration Software, Educational Management Tools">|
+|<meta>|Metaetiqueta para control de robots|<meta name="robots" content="index, follow">|
+|<link>|Enlace canónico|<link rel="canonical" href="https://RocketNotes.com">|
+
+#### *4.2.4. Searching Systems.**
+
+La búsqueda dentro de nuestra aplicación web es fundamental para que los usuarios tengan una experiencia satisfactoria, por ello desarrollaremos una barra de búsqueda con la característica de que estas darán sugerencias de autocompletado. Esta barra se encontrará en la parte superior derecha de la aplicación web.![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.018.png)
+
+Respecto a la búsqueda en el landing page se hará por enlaces que se encuentran en la barra superior.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.019.png)
+
+Cada uno de estos enlaces dirige al usuario a la sección deseada.
+
+#### **4.2.5. Navigation Systems.**
+
+El sistema de navegación que emplea nuestra aplicación web inicia en la página principal. Nuestros usuarios que ingresan como profesor cuentan con una sidebar en la que pueden ingresar a las siguientes secciones:
+
+- Home
+- Register attendance
+- Grade book
+- Psychological controls
+- Maintenance
+- Send an email
+- Calendar
+- Settings
+- Help & Center
+
+Al seleccionar cada una de estas secciones los usuarios se pueden dirigir a distintos apartados.
+
+Register attendance: Se puede visualizar los cursos que dicta cada profesor. Al seleccionar un curso la página los dirige a la tabla de asistencias de los estudiantes. 
+
+Grade book: Se tiene acceso un listado de salones por curso, que al seleccionarlos dirigen al usuario a las tablas de calificaciones de cada estudiante. En la parte superior derecha de la página hay un botón que despliega un formulario para agregar a un estudiante.
+
+Psychological controls: Se visualizan los estudiantes que tuvieron un control psicológico con el psicólogo del colegio y en la parte superior derecha hay un botón que despliega un formulario para registrar información de un nuevo control.
+
+Maintenance: Se despliega un formulario para agregar observaciones respecto a el estado de la infraestructura o incidentes con los equipos de trabajo. Tienen dos botones con los que cancelan o envían el reporte. 
+
+Send an email: Despliega la página para enviar un email. Luego el usuario selecciona el botón enviar o cancelar.
+
+Calendar: Muestra el calendario en el que al apretar una casilla el usuario registra un evento.
+
+Settings: El usuario observa un formulario donde debe de confirmar su correo y contraseña. Luego al seleccionar save se muestran diferentes opciones de configuración.
+
+Help & Center: Muestra información sobre funcionalidades. Solo se puede leer. 
+
+Los usuarios que ingresan como administradores cuentan con las siguientes secciones en el sidebar:
+
+- All reports: Se despliegan los reportes más recientes. El usuario puede eliminarlos seleccionando el icono a en la derecha de la fila.
+- Classroom capacity: Se muestra una tabla de salones, estudiantes y capacidad. Presionando el icono de la derecha el usuario elimina la información de la fila. Seleccionando el botón de la derecha superior de la página el usuario puede añadir un salón.
+- Settings: El usuario observa un formulario donde debe de confirmar su correo y contraseña. Luego al seleccionar save se muestran diferentes opciones de configuración.
+- Help & Center: Muestra información sobre funcionalidades. Solo se puede leer. 
+
+### **4.3. Landing Page UI Design**
+
+#### **4.3.1. Landing Page Wireframe**
+
+A continuación, procedemos a mostrar los wireframes correspondientes al landing page de la aplicación:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.020.png)
+
+#### **4.3.2. Landing Page Mock-up**
+
+A continuación, procedemos a mostrar los mock-up correspondientes al landing page de la aplicación:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.021.png)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.022.png)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.023.png)
+
+LINK LANDING PAGE:
+<https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/>
+
+### **4.4. Web Applications UX/UI Design**
+
+#### **4.4.1. Web Applications Wireframes**
+
+A continuación, definimos los diferentes wireframes de nuestra aplicación web desarrolladas principalmente en Figma.
+
+Wireframes correspondientes a las interfaces de registro de usuarios, ingreso de usuarios registrados y recuperación de contraseña:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.024.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.025.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.026.jpeg)
+
+Wireframes para administradores correspondientes a las interfaces de registro de un estudiante al sistema, las opciones de búsqueda, eliminar y editar estudiante:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.027.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.028.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.029.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.030.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.031.jpeg)
+
+Wireframes para administradores correspondientes a las interfaces de registro de un profesores al sistema, las opciones de búsqueda, eliminar y editar profesor:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.032.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.033.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.034.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.035.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.036.jpeg)
+
+Wireframes para administradores correspondientes a las interfaces de crear un salon, las opciones de agregar o eliminar estudiantes:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.037.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.038.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.039.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.040.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.041.jpeg)
+
+Wireframes para administradores correspondientes a las interfaces de mantenimiento de instalaciones educativas, con las opciones de editar o eliminar:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.042.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.043.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.044.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.045.jpeg)
+
+Wireframes para administradores correspondientes a las interfaces de mantenimiento del equipo educativo, con las opciones de editar o eliminar:
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.046.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.047.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.048.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.049.jpeg)
+
+Wireframes para profesores correspondientes a las interfaces de toma de asistencia de un curso: 
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.050.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.051.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.052.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.053.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.054.jpeg)
+
+#### **4.4.2. Web Applications Wireflow Diagrams.**
+
+**User Goal: El usuario ingresa a la aplicación para registrarse como administrador o profesor.**
+
+**User Goal: El usuario ingresa a la aplicación para iniciar sesión como administrador o profesor.**
+
+**User Goal: Recuperación de contraseña**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.055.png)
+
+El usuario, ya sea administrador o profesor, accede inicialmente a la aplicación mediante la página de inicio de sesión. Aquí se presenta con tres opciones principales: "Iniciar sesión", "Crear nueva cuenta" y "Olvidé mi contraseña". Al seleccionar "Iniciar sesión", el usuario puede ingresar utilizando sus credenciales existentes, lo que le permite acceder directamente a su pantalla de inicio específica.
+
+Para los usuarios que aún no están registrados, el botón "Crear nueva cuenta" los redirige a un formulario donde pueden ingresar sus detalles para configurar una nueva cuenta. Una vez completado el registro, son llevados a una pantalla donde deben seleccionar su rol dentro de la aplicación, ya sea como administrador o profesor, mediante los botones "Admin" o "Profesor", respectivamente.
+
+Si un usuario olvida su contraseña, puede elegir la opción "Olvidé mi contraseña", que lo lleva a un proceso para restablecerla, tras lo cual puede regresar a la pantalla de inicio de sesión para acceder con sus nuevas credenciales. Además, en las pantallas de registro y recuperación de contraseña, los usuarios tienen la opción de volver al inicio de sesión principal en cualquier momento, facilitando así la navegación entre diferentes procesos sin necesidad de cerrar la aplicación o perder el progreso.
+
+
+
+
+**User Goal: El administrador desea registrar, editar o eliminar un estudiante:**
+
+**User Goal: El administrador desea registrar, editar o eliminar un profesor:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.056.png)
+
+El administrador, tras ingresar exitosamente a la plataforma mediante la pantalla de inicio de sesión, se enfrenta a opciones específicas para gestionar las cuentas de estudiantes y profesores. Desde la interfaz principal, tiene la posibilidad de seleccionar entre "Estudiante" o "Profesor" según la tarea administrativa que desee realizar.
+
+Al elegir "Estudiante", el administrador es redirigido a una interfaz donde puede optar por "Crear Estudiante", lo que despliega un formulario para ingresar los detalles necesarios del nuevo estudiante. Una vez que el formulario está completo, utiliza el botón "Guardar" para registrar oficialmente al estudiante en el sistema. Posteriormente, dispone de opciones para "Editar" o "Eliminar" la cuenta del estudiante. Si decide editar, puede modificar la información requerida y guardar los cambios realizados; si opta por eliminar, la cuenta del estudiante se elimina permanentemente del sistema.
+
+De manera similar, si el administrador selecciona "Profesor", se presenta con una opción para "Crear Profesor". Al hacer clic, se muestra un formulario específico para registrar a un nuevo profesor. Después de rellenar los detalles y guardar la información, el administrador también puede decidir si desea editar o eliminar la cuenta del profesor, de acuerdo con las necesidades y requerimientos administrativos del momento.
+
+**User Goal: El administrador desea crear un salon y agregar estudiantes a la misma:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.057.png)
+
+Una vez seleccionada la opción "Configuración del aula", el usuario es llevado a una pantalla donde puede elegir "Crear aula". Este paso despliega un formulario para introducir los detalles necesarios para establecer un nuevo aula, tales como nombre del aula, cantidad de estudiantes, y recursos disponibles. Tras rellenar los datos, el formulario se guarda, estableciendo así el nuevo aula dentro del sistema.
+
+Además de crear aulas, el usuario tiene la capacidad de buscar estudiantes específicos. Este proceso comienza desde una interfaz donde el usuario puede ingresar criterios de búsqueda para filtrar y localizar estudiantes específicos. Una vez que los estudiantes son encontrados, el usuario puede seleccionar un estudiante en particular, lo que le permite acceder a opciones adicionales como editar la información del estudiante o eliminarlo del sistema si es necesario.
+
+**User Goal: El administrador desea crear un curso dentro de un salon:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.058.png)
+
+El usuario, un administrador, accede a la aplicación con el objetivo de gestionar cursos dentro de las aulas asignadas. Al ingresar a la sección "Aulas", visualiza y selecciona entre las diferentes opciones disponibles.
+
+Una vez selecciona una aula específica, procede a "Crear curso" mediante una opción disponible en la interfaz. Se le presenta un formulario para ingresar la información relevante del nuevo curso, como el nombre del curso, descripción, créditos, horarios, y otros detalles importantes que ayudan a definir la estructura del curso.
+
+Tras completar el formulario con los datos necesarios, el administrador selecciona "Guardar" para registrar el curso en el sistema, asociándolo con el aula elegida previamente. Este proceso asegura que el curso esté correctamente configurado y disponible para ser impartido, facilitando la administración académica eficiente.
+
+**User Goal: El administrador desea registrar mantenimiento de instalaciones:**
+
+**User Goal: El administrador desea registrar mantenimiento del equipo escolar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.059.png)
+
+El administrador comienza el proceso seleccionando "Mantenimiento" en la interfaz principal de la aplicación. A continuación, tiene dos opciones principales para manejar: "Equipo del aula" o "Instalaciones". Dependiendo de lo que necesite administrar, elige una de estas opciones.
+
+Si selecciona "Equipo del aula", accede a una lista de todos los equipos disponibles en las aulas. Aquí puede agregar nuevo equipo seleccionando la opción "Crear equipo". Esto abre un formulario donde ingresa los detalles necesarios del equipo, como nombre, modelo, cantidad y la ubicación específica dentro del aula. Una vez completado el formulario, elige "Guardar" para añadir el equipo al inventario del aula.
+
+En cualquier momento, el administrador también puede seleccionar un equipo existente de la lista para editar sus detalles o eliminarlo del sistema. Al seleccionar "Editar", modifica la información en el formulario que aparece y guarda los cambios. Si necesita eliminar el equipo, simplemente selecciona "Eliminar" y confirma la acción para remover el equipo del inventario.
+
+**User Goal: El profesor desea tener un registro de asistencias, con la capacidad de editar o eliminar:**
+
+**User Goal: El profesor desea tener un registro de notas académicas, con la capacidad de editar o eliminar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.060.png)
+
+El administrador o maestro accede a la interfaz principal de la aplicación y selecciona "Ver" para acceder a diferentes tipos de información académica. Desde aquí, tiene dos opciones principales: "Asistencia" y "Calificaciones".
+
+Si elige "Asistencia", accede a un listado donde puede ver la asistencia de los estudiantes. Si necesita hacer alguna modificación o registrar asistencia no documentada previamente, selecciona "Asistir" que abre un formulario donde puede actualizar o añadir la información de asistencia. Una vez completadas las actualizaciones, selecciona "Guardar asistencia" para asegurar que los cambios se guarden en el sistema.
+
+Por otro lado, si elige "Calificaciones", se muestra un listado de las calificaciones de los estudiantes. Aquí, puede añadir nuevas calificaciones seleccionando "Nueva calificación". Esto le permite ingresar o modificar las calificaciones en un formulario. Después de hacer los ajustes necesarios, elige "Guardar calificación" para registrar las modificaciones o nuevas entradas en el sistema.
+
+#### **4.4.2. Web Applications Mock-ups.**
+
+En base a los wireframes presentados en el punto anterior, se desarrollaron los siguientes mock-ps de la aplicación.
+
+**Mock-ups correspondientes a las interfaces de registro de usuarios, ingreso de usuarios registrados y recuperación de contraseña:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.061.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.062.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.063.jpeg)
+
+Estos mock-ups mantienen una estructura clara y simplificada que prioriza la accesibilidad, con campos de entrada amplios, etiquetas legibles y botones destacados en verde para facilitar la navegación. La consistencia visual se logra a través del uso de un esquema de colores coherente y elementos de diseño uniformes, reforzando la identidad de la marca y mejorando la experiencia del usuario. Además, el diseño inclusivo se ve reflejado en la diferenciación clara de roles y en la adaptabilidad de la interfaz para satisfacer diversas necesidades de los usuarios. Esta cohesión entre la arquitectura de la información y el sistema de diseño establecido promueve una interfaz intuitiva que mejora la interacción del usuario.
+
+**Mock-ups para administradores correspondientes a las interfaces de registro de un estudiante al sistema, las opciones de búsqueda, eliminar y editar estudiante:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.064.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.065.jpeg)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.066.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.067.jpeg)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.068.jpeg)
+
+Para los mock-ups del registro de un estudiante al sistema, el proceso comienza con la lista de estudiantes, que muestra cada entrada con opciones para editar o eliminar. Seguidamente, la interfaz de registro permite a los administradores ingresar y guardar datos esenciales de estudiantes como nombre, apellido, DNI, y detalles de contacto, a través de formularios bien estructurados con botones claros para acciones específicas. Luego, la interfaz de edición mantiene la consistencia con la de registro, facilitando actualizaciones precisas y eficientes. Por último, la interfaz de eliminación incluye confirmaciones para prevenir borrados accidentales, asegurando que cada acción sea deliberada y segura.
+
+**Mock-ups para administradores correspondientes a las interfaces de registro de un profesores al sistema, las opciones de búsqueda, eliminar y editar profesor:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.069.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.070.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.071.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.072.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.073.jpeg)
+
+Para los mock-ups del registro de un profesor al sistema, el proceso comienza con la lista de profesores, la cual muestra cada entrada con opciones para editar o eliminar. Seguidamente, la interfaz de registro permite a los administradores ingresar y guardar datos esenciales de profesores como nombre, apellido, DNI, teléfono, dirección y correo, a través de formularios bien estructurados con botones claros para acciones específicas. Luego tenemos la interfaz de edición la cual mantiene la consistencia con la de registro, mientras que la de eliminación incluye confirmaciones para prevenir borrados accidentales.
+
+**Mock-ups para administradores correspondientes a las interfaces de crear un salon, las opciones de agregar o eliminar estudiantes:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.074.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.075.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.076.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.077.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.078.jpeg)
+
+Para los mock-ups de gestión de aulas,el proceso comienza con la interfaz de 'Crear un Aula' la cual permite a los administradores definir parámetros como el nombre del salón, la sección y la capacidad, utilizando formularios simplificados con validación de entrada para asegurar la precisión de los datos. Posteriormente, la lista de aulas muestra cada aula con opciones para 'Editar', 'Agregar Estudiantes' o 'Eliminar', mejorando la eficiencia en la gestión de recursos educativos. Además, para cada aula, se pueden añadir estudiantes específicos a través de una interfaz de búsqueda rápida que filtra por nombre o código, incluyendo un proceso de confirmación para garantizar la integridad de la acción antes de realizar cambios significativos como la eliminación de un estudiante.
+
+**Mock-ups para administradores correspondientes a la creación de un curso, con la opción de eliminar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.079.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.080.jpeg)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.081.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.082.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.083.jpeg)
+
+Para los mock-ups de la creación de un curso, el proceso inicia con la interfaz para seleccionar el aula donde se impartirá el curso. Seguidamente, se procede a la interfaz de "Crear un Curso", donde los administradores pueden ingresar datos clave del curso como el nombre, la sala asignada, las fechas de inicio y fin, los días que se impartirá, y el docente responsable. Esta interfaz también permite subir una imagen que represente visualmente el curso, facilitando su identificación en el sistema.
+
+Cada curso creado es visible en la lista de cursos, donde se pueden gestionar a través de opciones para "Ver", "Editar" o "Eliminar". Estas interfaces mantienen una estructura clara y simplificada que prioriza la accesibilidad, con campos de entrada amplios, etiquetas legibles y botones destacados para facilitar la navegación.
+
+La consistencia visual se logra a través del uso de un esquema de colores coherente y elementos de diseño uniformes, reforzando la identidad de la marca y mejorando la experiencia del usuario. Además, la inclusión de botones de acción directa y confirmaciones para operaciones críticas como la eliminación de un curso asegura que cada interacción sea precisa y segura, reflejando un diseño inclusivo y adaptativo a diversas necesidades administrativas.
+
+**Mock-ups para administradores correspondientes a las interfaces de mantenimiento de instalaciones educativas, con las opciones de editar o eliminar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.084.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.085.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.086.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.087.jpeg)
+
+Estos mock-ups abordan la gestión de las instalaciones educativas de una manera estructurada y eficiente. La interfaz principal muestra una lista detallada de todas las instalaciones, proporcionando información esencial como el nombre de la instalación, una breve descripción de las tareas de mantenimiento previstas, el presupuesto asignado, la fecha de creación, el período estimado de ejecución y el estado actual del proyecto. Cada entrada en la lista ofrece también opciones operativas claramente visibles para 'Editar' o 'Eliminar', facilitando la gestión continua y la actualización de la información.
+
+Estos mock-ups mantienen una estructura clara y simplificada que prioriza la accesibilidad y la eficiencia operativa, con campos de entrada amplios, etiquetas legibles y botones destacados en verde para facilitar la navegación. La consistencia visual se logra a través del uso de un esquema de colores coherente y elementos de diseño uniformes, reforzando la identidad de la marca y mejorando la experiencia del usuario. Además, el diseño inclusivo se ve reflejado en la diferenciación clara de opciones y en la adaptabilidad de la interfaz para satisfacer diversas necesidades de los usuarios, promoviendo una gestión efectiva y segura de las instalaciones educativas.
+
+**Mock-ups para administradores correspondientes a las interfaces de mantenimiento del equipo educativo, con las opciones de editar o eliminar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.088.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.089.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.090.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.091.jpeg)
+
+Los mock-ups de esta sección están diseñados para facilitar una gestión más dinámica y detallada del equipo educativo. La interfaz permite a los administradores no solo ver y editar los detalles del equipo, como cantidad y presupuesto, sino también gestionar su uso y duración efectiva dentro del ciclo educativo.
+
+Funcionalidad de Inventario Dinámico: Al proporcionar detalles específicos sobre el estado del equipo y permitir ajustes rápidos a través de la función de edición, la interfaz ayuda a los administradores a responder de manera flexible a las necesidades cambiantes de las aulas. Esto es esencial para evitar la escasez o el exceso de materiales.
+
+Control Riguroso de los Recursos: Las opciones para añadir, editar o eliminar equipos están diseñadas para garantizar que cada recurso se utilice de manera óptima y se mantenga dentro de su ciclo de vida útil, ayudando a la institución a manejar su presupuesto de manera más efectiva.
+
+Alertas y Confirmaciones: A diferencia de otras interfaces, aquí se hace énfasis en las alertas de confirmación antes de eliminar cualquier elemento, lo cual es crucial dado el impacto significativo que tiene la disponibilidad del equipo en el funcionamiento diario de las clases.
+
+La interfaz está diseñada específicamente para facilitar una gestión efectiva y evitar errores comunes en la administración de recursos, lo cual es un desafío único en la gestión de equipos en comparación con otras áreas administrativas. Esto refleja un enfoque más personalizado y orientado a las necesidades específicas de gestión del equipo educativo.
+
+**Mock-ups para profesores correspondientes a las interfaces de toma de asistencia de un curso:** 
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.092.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.093.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.094.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.095.jpeg)
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.096.jpeg)
+
+Para los mock-ups de la toma de asistencia en la plataforma, se han diseñado interfaces que incorporan principios de diseño inclusivo, claridad en la arquitectura de información, y se alinean con el Design System establecido para los productos digitales. El proceso comienza con la interfaz de selección de curso, donde cada curso se representa visualmente con una imagen distintiva y el nombre claramente etiquetado, facilitando la rápida identificación por parte del profesor. Esta etapa demuestra una interfaz intuitiva y accesible que reduce la carga cognitiva y mejora la accesibilidad.
+
+Al seleccionar "Nueva Asistencia", la interfaz muestra automáticamente la fecha actual, eliminando la necesidad de selección manual y reduciendo los errores de entrada, optimizando así la eficiencia del proceso. Los iconos de asistencia aparecen inicialmente en gris al lado de cada nombre de estudiante, permitiendo a los profesores cambiar su estado con un simple clic a verde (presente) o rojo (ausente).
+
+Esta metodología de iconografía intuitiva y el uso de colores facilitan un registro visual rápido y claro, apoyando principios de diseño inclusivo por su claridad incluso para usuarios con distintas capacidades visuales.
+
+Antes de guardar la asistencia, se solicita al profesor una confirmación para verificar la precisión de los datos ingresados, lo cual refuerza la seguridad de la información y evita modificaciones posteriores. Este paso crucial asegura la integridad de los registros y previene modificaciones accidentales o intencionadas, reflejando un compromiso con el diseño seguro e inclusivo.
+
+**Mock-ups para profesores correspondientes a las interfaces de registro de notas de un curso:** 
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.097.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.098.jpeg)![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.099.jpeg)
+
+La interfaz comienza con una lista detallada de los estudiantes, cada uno identificado por nombre y una foto, lo que facilita la identificación visual rápida por parte del profesor. Esta lista está diseñada para ser intuitiva, con filas y columnas claramente marcadas para cada evaluación, permitiendo un acceso directo y sencillo a la información necesaria para el registro de calificaciones.
+
+En el proceso de añadir una nueva nota, al seleccionar "Nueva Calificación", se abre un diálogo que confirma la intención del profesor de registrar una nueva evaluación para el curso, minimizando errores y asegurando que las acciones sean deliberadas. 
+
+Una vez en la interfaz de ingreso de calificaciones, el sistema permite al profesor ingresar o editar las notas para cada evaluación de manera individual. Las celdas de entrada de calificaciones están diseñadas para ser fácilmente accesibles, con campos de entrada que responden adecuadamente a dispositivos táctiles y no táctiles. Además, cada cambio realizado por el profesor se puede guardar de manera instantánea para evitar la pérdida de información, con opciones para deshacer cambios si es necesario, lo cual es una práctica de diseño inclusivo que considera diferentes escenarios de uso y necesidades del usuario.
+
+El diseño también incluye indicadores visuales como colores diferenciados para estados como "Aprobado" (verde) y "Desaprobado" (rojo), ofreciendo un feedback visual instantáneo sobre el rendimiento del estudiante, lo cual es crucial para una navegación eficiente y una revisión rápida de las calificaciones. Además, el sistema calcula automáticamente el promedio de las calificaciones para cada estudiante, presentando estos datos de manera clara y concisa al final de cada fila, lo que ayuda a los profesores a hacer seguimiento del rendimiento académico general de manera eficiente.
+
+#### **4.4.3. Web Applications User Flow Diagrams.**
+
+Basado en los Wireflow Diagrams, se han definido los siguientes User Flow Diagrams para nuestro mock-up y prototipo:
+
+**User Goal: El usuario ingresa a la aplicación para registrarse como administrador o profesor.**
+
+**User Goal: El usuario ingresa a la aplicación para iniciar sesión como administrador o profesor.**
+
+**User Goal: Recuperación de contraseña**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.100.png)
+
+El usuario, ya sea administrador o profesor, accede inicialmente a la aplicación mediante la página de inicio de sesión. Aquí se presenta con tres opciones principales: "Iniciar sesión", "Crear nueva cuenta" y "Olvidé mi contraseña". Al seleccionar "Iniciar sesión", el usuario puede ingresar utilizando sus credenciales existentes, lo que le permite acceder directamente a su pantalla de inicio específica.
+
+Para los usuarios que aún no están registrados, el botón "Crear nueva cuenta" los redirige a un formulario donde pueden ingresar sus detalles para configurar una nueva cuenta. Una vez completado el registro, son llevados a una pantalla donde deben seleccionar su rol dentro de la aplicación, ya sea como administrador o profesor, mediante los botones "Admin" o "Profesor", respectivamente.
+
+Si un usuario olvida su contraseña, puede elegir la opción "Olvidé mi contraseña", que lo lleva a un proceso para restablecerla, tras lo cual puede regresar a la pantalla de inicio de sesión para acceder con sus nuevas credenciales. Además, en las pantallas de registro y recuperación de contraseña, los usuarios tienen la opción de volver al inicio de sesión principal en cualquier momento, facilitando así la navegación entre diferentes procesos sin necesidad de cerrar la aplicación o perder el progreso.
+
+**User Goal: El administrador desea registrar, editar o eliminar un estudiante:**
+
+**User Goal: El administrador desea registrar, editar o eliminar un profesor:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.101.png)
+
+El administrador, tras ingresar exitosamente a la plataforma mediante la pantalla de inicio de sesión, se enfrenta a opciones específicas para gestionar las cuentas de estudiantes y profesores. Desde la interfaz principal, tiene la posibilidad de seleccionar entre "Estudiante" o "Profesor" según la tarea administrativa que desee realizar.
+
+Al elegir "Estudiante", el administrador es redirigido a una interfaz donde puede optar por "Crear Estudiante", lo que despliega un formulario para ingresar los detalles necesarios del nuevo estudiante. Una vez que el formulario está completo, utiliza el botón "Guardar" para registrar oficialmente al estudiante en el sistema. Posteriormente, dispone de opciones para "Editar" o "Eliminar" la cuenta del estudiante. Si decide editar, puede modificar la información requerida y guardar los cambios realizados; si opta por eliminar, la cuenta del estudiante se elimina permanentemente del sistema.
+
+De manera similar, si el administrador selecciona "Profesor", se presenta con una opción para "Crear Profesor". Al hacer clic, se muestra un formulario específico para registrar a un nuevo profesor. Después de rellenar los detalles y guardar la información, el administrador también puede decidir si desea editar o eliminar la cuenta del profesor, de acuerdo con las necesidades y requerimientos administrativos del momento.
+
+**User Goal: El administrador desea crear un salon y agregar estudiantes a la misma:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.102.png)
+
+Una vez seleccionada la opción "Configuración del aula", el usuario es llevado a una pantalla donde puede elegir "Crear aula". Este paso despliega un formulario para introducir los detalles necesarios para establecer un nuevo aula, tales como nombre del aula, cantidad de estudiantes, y recursos disponibles. Tras rellenar los datos, el formulario se guarda, estableciendo así el nuevo aula dentro del sistema.
+
+Además de crear aulas, el usuario tiene la capacidad de buscar estudiantes específicos. Este proceso comienza desde una interfaz donde el usuario puede ingresar criterios de búsqueda para filtrar y localizar estudiantes específicos. Una vez que los estudiantes son encontrados, el usuario puede seleccionar un estudiante en particular, lo que le permite acceder a opciones adicionales como editar la información del estudiante o eliminarlo del sistema si es necesario.
+
+**User Goal: El administrador desea crear un curso dentro de un salon:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.103.png)
+
+El usuario, un administrador, accede a la aplicación con el objetivo de gestionar cursos dentro de las aulas asignadas. Al ingresar a la sección "Aulas", visualiza y selecciona entre las diferentes opciones disponibles.
+
+Una vez selecciona una aula específica, procede a "Crear curso" mediante una opción disponible en la interfaz. Se le presenta un formulario para ingresar la información relevante del nuevo curso, como el nombre del curso, descripción, créditos, horarios, y otros detalles importantes que ayudan a definir la estructura del curso.
+
+Tras completar el formulario con los datos necesarios, el administrador selecciona "Guardar" para registrar el curso en el sistema, asociándolo con el aula elegida previamente. Este proceso asegura que el curso esté correctamente configurado y disponible para ser impartido, facilitando la administración académica eficiente.
+
+**User Goal: El administrador desea registrar mantenimiento de instalaciones:**
+
+**User Goal: El administrador desea registrar mantenimiento del equipo escolar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.104.png)
+
+El administrador comienza el proceso seleccionando "Mantenimiento" en la interfaz principal de la aplicación. A continuación, tiene dos opciones principales para manejar: "Equipo del aula" o "Instalaciones". Dependiendo de lo que necesite administrar, elige una de estas opciones.
+
+Si selecciona "Equipo del aula", accede a una lista de todos los equipos disponibles en las aulas. Aquí puede agregar nuevo equipo seleccionando la opción "Crear equipo". Esto abre un formulario donde ingresa los detalles necesarios del equipo, como nombre, modelo, cantidad y la ubicación específica dentro del aula. Una vez completado el formulario, elige "Guardar" para añadir el equipo al inventario del aula.
+
+En cualquier momento, el administrador también puede seleccionar un equipo existente de la lista para editar sus detalles o eliminarlo del sistema. Al seleccionar "Editar", modifica la información en el formulario que aparece y guarda los cambios. Si necesita eliminar el equipo, simplemente selecciona "Eliminar" y confirma la acción para remover el equipo del inventario.
+
+**User Goal: El profesor desea tener un registro de asistencias, con la capacidad de editar o eliminar:**
+
+**User Goal: El profesor desea tener un registro de notas académicas, con la capacidad de editar o eliminar:**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.105.png)
+
+El administrador o maestro accede a la interfaz principal de la aplicación y selecciona "Ver" para acceder a diferentes tipos de información académica. Desde aquí, tiene dos opciones principales: "Asistencia" y "Calificaciones".
+
+Si elige "Asistencia", accede a un listado donde puede ver la asistencia de los estudiantes. Si necesita hacer alguna modificación o registrar asistencia no documentada previamente, selecciona "Asistir" que abre un formulario donde puede actualizar o añadir la información de asistencia. Una vez completadas las actualizaciones, selecciona "Guardar asistencia" para asegurar que los cambios se guarden en el sistema.
+
+Por otro lado, si elige "Calificaciones", se muestra un listado de las calificaciones de los estudiantes. Aquí, puede añadir nuevas calificaciones seleccionando "Nueva calificación". Esto le permite ingresar o modificar las calificaciones en un formulario. Después de hacer los ajustes necesarios, elige "Guardar calificación" para registrar las modificaciones o nuevas entradas en el sistema.
+
+### **4.5. Web Applications Prototyping**
+
+Puede acceder al prototipo de nuestra aplicación por medio de este enlace:
+**<https://www.figma.com/file/TjxKSpJ88E1fyVr6BmBJhD/PROTOTYPING?type=design&mode=design&t=enuSSTjm6Q1VbWCf-1>**
+
+### **4.6. Domain-Driven Software Architecture**
+
+La Arquitectura de Software Orientada al Dominio enfatiza comprender el dominio del problema antes de diseñar el sistema. Este enfoque alinea la tecnología con las necesidades del negocio, reduciendo complejidad y mejorando la eficacia en el desarrollo de software. 
+
+4\.6.1. Software Architecture Context Diagram
+
+Este diagrama proporciona una vista de alto nivel de nuestro sistema de software y su entorno externo.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.106.png)
+
+4.6.2. Software Architecture Container Diagrams. 
+
+Este diagrama se centra en descomponer el sistema en contenedores de alto nivel, que pueden ser aplicaciones, servicios web, bases de datos, etc.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.107.png)
+
+#### **4.6.3. Software Architecture Components Diagrams.**
+
+Estos diagramas profundizan en los contenedores identificados en los diagramas anteriores y descomponen cada contenedor en sus componentes individuales.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.108.png)
+
+### **4.7. Software Object-Oriented Design.**
+
+El diseño orientado a objetos es el núcleo de nuestra aplicación, estructurando el software en torno a clases que representan entidades del mundo real con propiedades y métodos definidos. Este enfoque mejora la modularidad y la reusabilidad del código, permitiendo una mayor escalabilidad y mantenimiento del sistema.
+
+#### **4.7.1. Class Diagrams**
+
+Los diagramas de clases proporcionan una representación visual de la estructura de la aplicación. Al visualizar las clases, sus atributos, métodos y las relaciones entre ellas, los desarrolladores pueden comprender mejor y modificar el sistema de manera eficiente. Estos diagramas son esenciales para la planificación y la implementación inicial, así como para las fases de prueba y mantenimiento.
+
+**Identity and Access Management**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.109.png)Implementación en la Aplicación: Nuestra aplicación incluye un sistema "Identity and Access Management" que controla el acceso a diversas funcionalidades y datos según el rol del usuario. Este módulo gestiona la autenticación y autorización, asegurando que las operaciones críticas sólo sean accesibles por usuarios verificados y autorizados. Implementa patrones de diseño como Singleton para la instancia de servicio de autenticación y Observer para reaccionar a cambios de estado en las sesiones de usuario.
+
+**Student record management**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.110.png)
+
+Implementación en la Aplicación: El módulo de "Student record management" administra la información académica y personal de los estudiantes. Utiliza clases para representar estudiantes, cursos y registros académicos, con métodos para añadir, modificar y eliminar registros. Este módulo es crucial para operaciones académicas, desde la inscripción hasta la graduación, asegurando un manejo eficiente y seguro de los datos estudiantiles.
+
+
+
+**Inventory Management**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.111.png)
+
+Implementación en la Aplicación: El sistema de "Inventory Management" de nuestra aplicación ayuda a monitorear recursos como libros, equipos de laboratorio, y otros materiales educativos. Utiliza un patrón de estrategia para adaptar diferentes métodos de actualización de inventario y Observer para notificar a los interesados sobre cambios críticos en el stock, optimizando la gestión y reduciendo desperdicios.
+
+**Infrastructure management**
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.112.png)
+
+Implementación en la Aplicación: Nuestro módulo de **"Infrastructure management"** supervisa y administra los recursos físicos de la institución. Implementa un sistema de comandos para realizar y revertir cambios en la configuración de aulas y otros espacios educativos, permitiendo una gestión dinámica y adaptativa de la infraestructura física conforme a las necesidades educativas y administrativas.
+
+### **4.7.1. Class Dictionary**
+
+A continuación, se detallarán cada una de las clases de los diagramas presentados anteriormente, proporcionando una visión clara de su funcionalidad y su relación con el sistema general. 
+
+**Identity and access management:**
+
+**AuthenticationService class:** Esta clase es el servicio central para manejar la autenticación de los usuarios en el sistema. Provee una instancia estática, siguiendo el patrón singleton para asegurar un único punto de autenticación en toda la aplicación. Sus responsabilidades incluyen la gestión del inicio y cierre de sesión, así como la verificación de credenciales.
+
+**Atributos:**
+
+- Instance: Instancia estática para el acceso al servicio.
+
+**Métodos:**
+
+- AuthenticationService(): Constructor de la clase.
+- GetInstance(): Método estático que devuelve la instancia única del servicio.
+- Login(): Permite a los usuarios iniciar sesión.
+- Logout(): Permite a los usuarios cerrar sesión.
+- VerifyCredentials(): Verifica las credenciales de los usuarios.
+
+**AccountFactory class:** Actúa como una fábrica para la creación de cuentas de usuario. Utiliza los detalles proporcionados por los usuarios para crear una nueva cuenta y asociarla con la entidad de User.
+
+**Métodos:**
+
+- CreateUserAccount(): Crea y devuelve una nueva instancia de User.
+
+**User class:** Representa a un usuario del sistema con toda la información esencial para su identificación y gestión dentro del sistema.
+
+**Atributos:**
+
+- username: Nombre de usuario para el acceso.
+- password: Contraseña del usuario.
+
+**Métodos:**
+
+- Update(): Actualiza la información del usuario.
+- ChangePassword(): Permite cambiar la contraseña.
+- UpdateProfile(): Actualiza el perfil del usuario.
+
+**MessagingSystem class:** Esta clase se encarga de manejar el envío de mensajes dentro del sistema. Utiliza el patrón Decorator para modificar o extender las funcionalidades de los mensajes.
+
+**MessageComponent interface:** Define una interfaz para los componentes del mensaje que permitirá obtener su contenido.
+
+**Message class:** Modela un mensaje dentro del sistema con todos los detalles necesarios, incluyendo el contenido, el remitente, los destinatarios y cualquier adjunto relacionado.
+
+**Atributos:**
+
+- content: El contenido del mensaje.
+- sender: El usuario que envía el mensaje.
+- receivers: La lista de usuarios que recibirán el mensaje.
+- attachments: La lista de adjuntos del mensaje.
+
+**Métodos:**
+
+- GetMessageContent(): Devuelve el contenido del mensaje.
+- AddAttachment(): Añade un adjunto al mensaje.
+
+**Attachment class:** Representa un adjunto dentro de un mensaje y contiene la información necesaria para su manejo.
+
+**MessageSearchStrategy interface:** Define la estrategia de búsqueda para los mensajes, permitiendo la implementación de distintas maneras de buscar mensajes basados en diferentes criterios.
+
+**BySenderSearchStrategy class:** Implementa la estrategia de búsqueda de mensajes por remitente, proporcionando la funcionalidad necesaria para encontrar mensajes de un remitente específico.
+
+**Métodos:**
+
+- Search(): Busca en la lista de mensajes aquellos que coincidan con el remitente especificado.
+
+**ByContentSearchStrategy class:** Implementa la estrategia de búsqueda de mensajes por contenido, permitiendo encontrar mensajes que contengan un texto específico.
+
+**Métodos:**
+
+- Search(): Busca en la lista de mensajes aquellos que contengan el contenido especificado.
+
+**EncryptedMessageDecorator class:** Aplica el patrón Decorator para extender los mensajes con funcionalidades de encriptación, asegurando que el contenido del mensaje se mantenga seguro y privado durante el tránsito.
+
+**Atributos:**
+
+- messageComponent: El componente del mensaje original que se va a decorar.
+
+**Métodos:**
+
+- GetMessageContent(): Devuelve el contenido encriptado del mensaje.
+
+**Student record management:**
+
+**IObserver interface:** Define la operación de actualización que los observadores deben implementar para recibir notificaciones de los cambios en el objeto que están observando.
+
+**Métodos:**
+
+- Update(student: Student): Actualiza el observador con la información más reciente del estudiante.
+
+**CommunicationService class:** Encargada de la gestión de comunicaciones hacia los contactos parentales, maneja el envío de notificaciones por correo electrónico y SMS.
+
+**Métodos:**
+
+- SendEmail(message: String, contact: ParentContact): Envía un correo electrónico al contacto parental.
+- SendSMS(message: String, contact: ParentContact): Envía un SMS al contacto parental.
+
+**ProgressTracker class:** Actúa como un observador del progreso de los estudiantes, rastreando y actualizando los registros de progreso académico de los estudiantes.
+
+**Métodos:**
+
+- Update(student: Student): Recibe actualizaciones sobre el progreso de los estudiantes y modifica los registros correspondientes.
+
+**StudentFactory class:** Fábrica que se especializa en la creación de objetos de la clase Student, instanciando estudiantes con detalles específicos y asociaciones necesarias.
+
+Métodos:
+
+- CreateStudentDetails(studentDetails: StudentDetails, parentContact: ParentContact): Crea una nueva instancia de un estudiante con los detalles proporcionados.
+
+**Student class:** Representa a un estudiante en el sistema educativo, manteniendo información personal, académica y registros de asistencia.
+
+**Atributos:**
+
+- studentId: Identificador único del estudiante.
+- name: Nombre del estudiante.
+- level: Nivel educativo del estudiante.
+- parentContact: Información de contacto del padre o tutor.
+- academicRecords: Lista de registros académicos.
+- attendanceRecords: Lista de registros de asistencia.
+
+**Métodos:**
+
+- AddAcademicRecord(record: AcademicRecord): Agrega un registro académico al estudiante.
+- AddAttendanceRecord(record: AttendanceRecord): Agrega un registro de asistencia al estudiante.
+
+**ParentContact class:** Contiene información de contacto de los padres o tutores y ofrece un método para enviarles notificaciones.
+
+**Atributos:**
+
+- emailAddress: Dirección de correo electrónico para enviar notificaciones.
+- phoneNumber: Número de teléfono para enviar mensajes.
+
+**Métodos:**
+
+- SendNotification(message: String): Envía una notificación al contacto parental.
+
+**AcademicRecord class:** Almacena información sobre el desempeño académico de un estudiante, incluyendo asignaturas y calificaciones.
+
+**Atributos:**
+
+- subject: Asignatura del registro académico.
+- grade: Calificación obtenida en la asignatura.
+- date: Fecha del registro.
+
+**EducationalLevel class:** Representa el nivel educativo de un estudiante y contiene secciones de clases.
+
+**Atributos:**
+
+- name: Nombre del nivel educativo.
+- sections: Lista de secciones de clase dentro del nivel educativo.
+
+**Métodos:**
+
+- AddSection(section: Section): Agrega una sección al nivel educativo.
+
+**Section class:** Agrupa estudiantes en secciones o clases y gestiona sus grados.
+
+**Atributos:**
+
+- name: Nombre de la sección.
+- grades: Lista de grados asociados a la sección.
+
+**Métodos:**
+
+- AddGrade(grade: Grade): Agrega un grado a la sección.
+
+**Grade class:** Representa el grado o año escolar de los estudiantes y mantiene una lista de cursos.
+
+**Atributos:**
+
+- name: Nombre del grado escolar.
+- courses: Lista de cursos asociados al grado.
+
+**Métodos:**
+
+- AddCourse(course: Course): Agrega un curso al grado.
+
+**Course class:** Modela un curso educativo, incluyendo su nombre, código y el profesor que lo imparte.
+
+**Atributos:**
+
+- name: Nombre del curso.
+- code: Código único del curso.
+- instructor: Profesor que imparte el curso.
+
+**Teacher class:** Representa a un profesor dentro del sistema, incluyendo los cursos que enseña.
+
+**Atributos:**
+
+- name: Nombre del profesor.
+- courses: Lista de cursos que el profesor imparte.
+
+**Métodos:**
+
+TeachCourse(course: Course): Asocia un curso al profesor para enseñarlo.
+
+**ClassSession class:** Representa una sesión de clase y administra el registro de asistencia a través de estrategias definidas.
+
+**Atributos:**
+
+- sessionDate: Fecha en la que ocurre la sesión de clase.
+- recordedAttendances: Lista de registros de asistencia de la sesión.
+
+**Métodos:**
+
+- SetAttendanceStrategy(strategy: AttendanceStrategy): Establece la estrategia de registro de asistencia.
+
+**AttendanceStrategy interface:** Define un método para registrar la asistencia de los estudiantes en una sesión de clase.
+
+**Métodos:**
+
+- RecordAttendance(student: Student, session: ClassSession): Registra la asistencia de un estudiante en una sesión de clase.
+
+**ManualAttendanceStrategy class:** Implementa la interfaz AttendanceStrategy permitiendo el registro manual de la asistencia de los estudiantes.
+
+**Métodos:**
+
+- RecordAttendance(student: Student, session: ClassSession): Registra manualmente la asistencia de un estudiante en una sesión de clase.
+
+**RFIDAttendanceStrategy class:** Implementa la interfaz AttendanceStrategy utilizando la tecnología RFID para registrar automáticamente la asistencia de los estudiantes.
+
+**Métodos:**
+
+- RecordAttendance(student: Student, session: ClassSession): Registra automáticamente la asistencia de un estudiante en una sesión de clase mediante RFID.
+
+**Inventory management**
+
+**InventoryService class:** Esta clase gestiona el servicio de inventario de la aplicación, siguiendo el patrón singleton para garantizar una única instancia que maneje todas las operaciones de inventario. Facilita la adición y eliminación de elementos, así como la recuperación y el informe de elementos de inventario.
+
+**Atributos:**
+
+- instance: Instancia estática que asegura un punto único de manejo del inventario.
+
+**Métodos:**
+
+- InventoryService(): Constructor de la clase.
+- GetInstance(): Retorna la instancia única del servicio de inventario.
+- AddItem(): Agrega un elemento al inventario.
+- RemoveItem(): Elimina un elemento del inventario.
+- GetItemById(): Obtiene un elemento por su identificador.
+- ExportReport(): Exporta un informe del inventario.
+
+**InventoryItemFactory class:** Funciona como una fábrica para crear elementos de inventario, simplificando el proceso de creación y asegurando que todos los elementos se construyan de manera consistente.
+
+
+- **Métodos:**
+
+  CreateItem(): Crea y devuelve una nueva instancia de InventoryItem.
+
+**InventoryItem class:** Modela un elemento dentro del inventario, con propiedades como identificación, nombre y cantidad, y mantiene una lista de observadores para cualquier cambio en sus datos.
+
+**Atributos:**
+
+- id: Identificador único del elemento.
+- name: Nombre del elemento.
+- quantity: Cantidad del elemento en inventario.
+- updateStrategy: Estrategia actual de actualización de la cantidad.
+
+**Métodos:**
+
+- SetUpdateStrategy(): Establece la estrategia de actualización del elemento.
+- UpdateQuantity(): Actualiza la cantidad del elemento en inventario.
+- Attach(): Agrega un observador a la lista de observadores.
+- Detach(): Elimina un observador de la lista de observadores.
+- NotifyObservers(): Notifica a todos los observadores de los cambios.
+
+**IObserver interface:** Define la interfaz que deben implementar los observadores para recibir actualizaciones sobre los cambios en los elementos del inventario.
+
+**Métodos:**
+
+- Update(): Actualiza el observador con la información del elemento de inventario.
+
+**IUpdateStrategy interface:** Establece el método que las estrategias de actualización de inventario deben implementar para cambiar la cantidad de un elemento.
+
+**Métodos:**
+
+- UpdateQuantity(): Actualiza la cantidad de un elemento de inventario.
+
+**InventoryChangeLogger class:** Observador concreto que registra cualquier cambio en los elementos del inventario para propósitos de seguimiento o auditoría.
+
+**Métodos:**
+
+- Update(): Registra los cambios realizados en un elemento de inventario.
+
+**IncrementalUpdateStrategy class:** Estrategia concreta que implementa la interfaz IUpdateStrategy para actualizar la cantidad de un elemento de manera incremental.
+
+**Métodos:**
+
+- UpdateQuantity(): Aumenta o disminuye la cantidad de un elemento del inventario según la cantidad proporcionada.
+
+**Equipment class:**
+
+Subclase concreta de InventoryItem que representan diferentes tipos de elementos en el inventario, como suministros escolares o equipos.
+
+**Infrastructure management**
+
+**ClassroomFactory class:** Esta clase es una fábrica que se especializa en la creación de instancias de la clase Classroom. Proporciona un método para crear nuevos salones de clase con un nombre y una capacidad especificada.
+
+**Métodos:**
+
+- CreateClassroom(name: String, capacity: Int): Crea y devuelve una nueva instancia de la clase Classroom con el nombre y la capacidad proporcionados.
+
+**ReportGenerator class:** Es responsable de generar informes basados en la lista de aulas proporcionadas. Utiliza los datos de las aulas para compilar un informe detallado.
+
+**Métodos:**
+
+- GenerateReport(classrooms: List<Classroom>): Genera y devuelve un informe sobre las aulas proporcionadas.
+
+**Classroom class:** Modela un aula dentro del sistema, manteniendo su nombre y capacidad. Ofrece métodos para agregar, actualizar y listar aulas, así como filtrarlas según estrategias de filtrado.
+
+**Atributos:**
+
+- name: Nombre del aula.
+- capacity: Capacidad del aula en términos de número de personas que puede albergar.
+
+**Métodos:**
+
+
+
+
+- AddClassroom(): Añade un nuevo aula al sistema.
+- UpdateClassroomInfo(): Actualiza la información de un aula existente.
+- ListClassrooms(): Lista todas las aulas disponibles en el sistema.
+- FilterClassrooms(strategy: FilterStrategy): Filtra las aulas utilizando una estrategia de filtrado proporcionada.
+
+**FilterStrategy interface:** Define un contrato para las estrategias de filtrado que se pueden aplicar a las listas de aulas.
+
+**Métodos:**
+
+- Filter(classrooms: List<Classroom>): Devuelve una lista de aulas filtradas según el criterio de la estrategia.
+
+**LocationFilterStrategy class y CapacityFilterStrategy class:** Implementaciones concretas de la interfaz FilterStrategy. Proporcionan lógica para filtrar aulas por ubicación y capacidad, respectivamente.
+
+**Métodos:**
+
+Filter(classrooms: List<Classroom>): Filtra y devuelve aulas basándose en la ubicación o capacidad.
+
+**BudgetingSystem class:** Gestiona el presupuesto asociado a cada aula, permitiendo crear, actualizar y obtener presupuestos, así como aprobar presupuestos para las aulas.
+
+**Atributos:**
+
+- budgets: Un mapa que asocia aulas con un valor presupuestario.
+
+**Métodos:**
+
+- CreateBudgetForClassroom(): Crea un nuevo presupuesto para un aula.
+- UpdateBudgetForClassroom(): Actualiza el presupuesto asignado a un aula.
+- GetBudgetForClassroom(): Obtiene el presupuesto actual para un aula.
+- ApproveBudgetForClassroom(): Aprueba el presupuesto para un aula.
+
+**Observer interface:** Define la funcionalidad para las clases que deben ser notificadas de cambios en las aulas que están observando.
+
+**Métodos:**
+
+
+
+
+- Update(classroom: Classroom): Actualiza el observador con la información más reciente de un aula.
+
+**ClassroomCapacityObserver class:**
+
+Un observador concreto que monitorea los cambios en la capacidad de las aulas y reacciona ante estos cambios.
+
+**Métodos:**
+
+- Update(classroom: Classroom): Registra los cambios en la capacidad de un aula específica.
+
+**Command interface:**
+
+Define operaciones para ejecutar comandos, así como para deshacer los comandos ejecutados anteriormente.
+
+**Métodos:**
+
+- Execute(): Ejecuta el comando.
+- Undo(): Deshace el comando.
+
+**AddClassroomCommand class y UpdateClassroomInfoCommand class:** Clases concretas que implementan la interfaz Command. Estos comandos añaden nuevas aulas y actualizan la información de las aulas existentes, respectivamente, con la capacidad de deshacer estas operaciones.
+
+### **4.8. Database Design**
+
+El diseño de la base de datos es un componente crucial en el desarrollo de software que garantiza que los datos sean almacenados de manera eficiente y puedan ser recuperados y manipulados de manera efectiva. El siguiente diagrama de la base de datos muestra la estructura relacional diseñada para manejar las operaciones y el almacenamiento de datos en el sistema educativo.
+
+#### **4.8.1. Database Diagram**
+
+El diagrama de base de datos presentado a continuación, ilustra la organización y relaciones de las entidades que componen el sistema de gestión educativa. Las entidades clave y sus relaciones se describen para proporcionar una comprensión clara del modelo de datos y su funcionalidad en el contexto de la aplicación.
+
+![](assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.113.png)
+
+Enlace al modelado: <https://my.vertabelo.com/public-model-view/pOGF92Qrej8ON4jOc1ZvJLwV1H9yYViDPO6ppO7hmkc2om3xPQkS3tWLKbdLCtwV?x=2225&y=2354&zoom=0.3512> 
+
+**Entidades Principales:**
+
+- **Students:** Almacena información detallada de los estudiantes, incluyendo nombre, apellidos, y datos de contacto.
+- **Guardians:** Contiene datos de los tutores de los estudiantes, facilitando la comunicación y seguimiento.
+- **Courses:** Registra los cursos disponibles, incluyendo detalles como el nombre del curso y la sección.
+- **Grades:** Gestiona las calificaciones de los estudiantes por curso, permitiendo un seguimiento académico efectivo.
+- **Classrooms:** Detalla las aulas donde se imparten los cursos, incluyendo capacidad y recursos disponibles.
+- **Teachers:** Mantiene registro de los profesores, incluyendo su asignación a cursos y datos de contacto.
+- Relaciones Clave:
+- **Students\_by\_grade:** Relaciona estudiantes con sus calificaciones en diferentes cursos.
+- Attendance: Monitorea la asistencia de los estudiantes a cada sesión de clase, vinculada por curso y fecha.
+- **Classrooms\_by\_course**: Asocia aulas específicas con los cursos que en ellas se imparten.
+- **Reportes y Gestión:**
+- **Inventory\_requests y Inventory:** Gestionan las solicitudes de inventario y el estado actual del mismo, respectivamente, asegurando un control adecuado de los recursos físicos y materiales.
+- **Infrastructural\_reports:** Facilita la creación de informes sobre la infraestructura, permitiendo un mantenimiento proactivo de las instalaciones.
+
+Este diagrama no solo define la estructura de almacenamiento de datos sino que también establece las conexiones lógicas entre las diferentes entidades, lo cual es vital para el desarrollo de funciones complejas y la integridad de los datos dentro del sistema.
+
+[ref1]: assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.009.png
+[ref2]: assets/Aspose.Words.d258ca98-d065-4b00-bfb8-96b5633dab58.010.png
+
 
 
 
