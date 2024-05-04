@@ -512,9 +512,6 @@ Dada la creciente preocupación por la seguridad y la privacidad de los datos, i
 
 **Preguntas Generales para Ambos Segmentos:**
 
-
-
-
 - ¿Cómo te llamas?
 - ¿Qué edad tienes?
 - ¿Dónde vives?
@@ -524,47 +521,17 @@ Dada la creciente preocupación por la seguridad y la privacidad de los datos, i
 
 **Preguntas Específicas para Profesores:**
 
-
-
-
 - ¿Cuáles son los principales desafíos que enfrentas al llevar un registro eficiente de calificaciones y asistencia de tus estudiantes?
-
-
-
-
 - ¿Cómo manejas actualmente el seguimiento del bienestar psicológico de tus estudiantes?
-
-
-
-
 - ¿Has utilizado alguna plataforma o herramienta que te haya ayudado en la gestión académica? Si es así, ¿qué aspectos de esta herramienta encontraste más valiosos?
-
-
-
-
 - ¿Qué funciones crees que son más importantes en una app para hacerte el trabajo más fácil?
 
 **Preguntas Específicas para el Equipo Administrativo:**
 
-
-
-
 - ¿Cuáles son los mayores retos que enfrentas en la gestión diaria de la infraestructura escolar?
-
-
-
-
 - ¿Cómo gestionas actualmente el inventario de útiles escolares y la base de datos para materiales de clase?
 - ¿Has implementado alguna solución tecnológica previamente para la administración escolar? ¿Cuál ha sido tu experiencia?
-
-
-
-
 - ¿Qué funciones crees que son más importantes en una app para hacerte el trabajo más fácil?
-
-
-
-
 - ¿Cómo crees que una solución digital podría mejorar la eficiencia operativa y la experiencia educativa en tu institución?
 
 #### **2.2.2. Registro de entrevistas**
@@ -576,8 +543,6 @@ En esta sección, se proporciona el registro detallado de las entrevistas realiz
 **Segmento objetivo #1: Profesores**
 
 **Entrevista #1:**
-
-
 
 **Nombres y apellidos:** Andrés Segovia Maya
 
@@ -719,11 +684,6 @@ Espera una mayor integración de herramientas tecnológicas en las aulas, incluy
 
 Enfrenta el reto de modernizar los registros manuales hacia sistemas digitales más integrados. Aboga por el desarrollo de una aplicación que simplifique la transición, ofrezca funciones automáticas para el cálculo de notas y respalde de manera integral la gestión académica.
 
-
-
-
-
-
 **Segmento objetivo #2: Equipo Administrativo**
 
 **Entrevista #1:**
@@ -780,12 +740,6 @@ Destaca la reciente implementación de marcadores electrónicos para la asistenc
 **Funciones Deseadas en una Aplicación para la Gestión Educativa:**
 
 Aboga por una aplicación que permita a los docentes ingresar sus actividades diarias y observaciones, proporcionando una visión completa de las operaciones diarias a la dirección. Sugiere una solución digital que centralice datos sobre notas, asistencias, tardanzas y comportamiento de los estudiantes.
-
-
-
-
-
-
 
 **Entrevista #2:**
 
@@ -856,12 +810,6 @@ La gestión del alumno es vista como la función más importante. Paul enfatiza 
 
 **Ocupación:** Docente y directora de un colegio privado![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.013.jpeg)
 
-
-
-
-
-
-
 **URL:<https://lc.cx/upc-pre-202401-si729-CC54-RocketNotes-needfinding-sprint-1>****  
 
 **Tiempo de la Entrevista:** Comienzo: 46:31 - Fin: 56:56
@@ -897,4 +845,111 @@ Destaca la necesidad de una aplicación que permita una interactividad robusta, 
 
 Juliana subraya la importancia de la tecnología como apoyo en la educación, pero insiste en que no puede reemplazar la interacción humana y la presencia física del docente en el aula. La tecnología debe usarse para complementar y enriquecer la experiencia educativa, facilitando la comunicación y el acceso a la información, pero siempre dentro del marco de una educación presencial de calidad.
 
+**2.2.3. Análisis de entrevistas**
+
+**Segmento Objetivo #1: Profesores**
+
+Basándonos en las entrevistas realizadas, se pueden extraer varias características comunes y expectativas hacia soluciones tecnológicas en el ámbito educativo. 
+
+**Experiencia con herramientas digitales y las herramientas más utilizadas:**
+
+Todos los entrevistados han adoptado herramientas digitales en su metodología de enseñanza. Esto se vio acelerado durante la pandemia, destacando un cambio positivo hacia una enseñanza más dinámica e interactiva.
+
+Las herramientas digitales usadas son las siguientes:
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.014.png)
+
+- Excel:
+
+  Utilizado por: 100% de los entrevistados.
+
+  Propósito: Gestión de calificaciones y asistencia.
+
+- Navegadores y Plataformas para Clases Virtuales:
+
+  Google Chrome: Utilizado por 67%
+
+  Zoom: Utilizado por 33%
+
+  Jamboard: Utilizado por 33%
+
+- Aplicaciones de Presentación y Pizarras Virtuales:
+
+  Pizarras Virtuales: Usadas por 67%
+
+  PowerPoint: Utilizado por 33%
+
+**Dispositivos Utilizados:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.015.png)
+
+Este gráfico muestra que el 75% de los profesores, prefieren utilizar un ordenador portátil con sistema operativo Windows para sus actividades educativas, lo cual sugiere una tendencia hacia la movilidad y la flexibilidad en el uso de la tecnología. Solo un 25% usa un ordenador de escritorio con Windows, lo que indica que los profesores valoran la portabilidad sobre la estación de trabajo fija.
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.016.png)
+
+El gráfico ilustra la preferencia de dispositivos móviles entre los profesores, con una significativa mayoría, el 66.7%, utilizando Android sobre iOS, que es preferido por el 33.3%. Esto puede reflejar la accesibilidad y diversidad de aplicaciones educativas disponibles en dispositivos Android o una mayor prevalencia de estos dispositivos en la población docente.
+
+**Canales de Comunicación**
+
+- WhatsApp y Gmail: Utilizados para la comunicación con padres: 67%.
+- Telegram: Utilizado para comunicación fluida con estudiantes y padres: 33%.
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.017.png)
+
+**Expectativas sobre Soluciones Tecnológicas**
+
+Simplificación y optimización de la administración escolar: Un deseo común es contar con soluciones tecnológicas que centralicen y faciliten la gestión escolar, desde calificaciones hasta la comunicación con todos los actores educativos.
+
+Intuitividad y accesibilidad: Las herramientas deben ser fáciles de usar, accesibles para todos los usuarios, y diseñadas teniendo en cuenta la realidad de cada colegio.
+
+**Desafíos Actuales**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.018.png)
+
+- Manejo del volumen de datos de estudiantes y actualización en tiempo real: La necesidad de sistemas que permitan una gestión eficiente y confidencial de la información de los estudiantes es un desafío destacado (67%).
+- Integración de herramientas en el aula: La transición de registros manuales a sistemas digitales, y la inclusión de dispositivos como laptops o tablets en el aula de manera permanente, se ve como un reto importante (33%).
+
+**Segmento objetivo #2: Equipo Administrativo**
+
+Las entrevistas realizadas al equipo administrativo de instituciones educativas revelan una clara visión hacia la integración y la optimización de la gestión educativa mediante el uso de tecnologías digitales.
+
+**Herramientas y Tecnologías Utilizadas por el Equipo Administrativo**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.019.png)
+
+
+- Libros Digitales y Excel: Utilizados por el 100% de los entrevistados, lo que indica su adopción universal y la importancia de la digitalización en la administración y en el aula
+- Proyectores Multimedia y Marcadores Electrónicos mencionados por el 66% de los entrevistados, sugiriendo una adopción significativa para la interacción educativa y la gestión de asistencias. se mencionan en dos tercios de las entrevistas, sugiriendo una adopción significativa.
+- Las Cámaras de Video y Software de Gestión se mencionan en un tercio de las entrevistas, indicando una adopción más limitada o específica.
+
+
+**Dispositivos Utilizados:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.020.png)
+
+Este gráfico de pastel muestra que la mayoría del equipo administrativo entrevistado prefiere usar ordenadores portátiles con sistema operativo Windows, representando el 59.9% de los usuarios. Mientras tanto, el 40.1% prefiere usar Desktops con sistema operativo Windows. Estas preferencias destacan la importancia de los sistemas y dispositivos basados en Windows en las operaciones administrativas diarias.
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.021.png)
+
+En cuanto a los dispositivos móviles, el 67% del equipo administrativo se inclina por teléfonos móviles con Android, mientras que el 33% prefiere dispositivos con iOS. Esta distribución refleja una mayor tendencia hacia Android en el entorno administrativo educativo, lo que puede deberse a la variedad de aplicaciones disponibles y la accesibilidad de estos dispositivos
+
+**Canales de comunicacón:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.022.png)
+
+Este gráfico muestra el uso de canales de comunicación por parte del equipo administrativo. WhatsApp es universalmente utilizado por todos los entrevistados para comunicaciones importantes, mientras que Facebook e Instagram son usados, aunque en menor medida, principalmente para promocionar el colegio y mantener a la comunidad escolar informada.
+
+**Desafíos Actuales en la Gestión Educativa**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.023.png)
+
+- Gestión de Asistencia, Inventario Manual de Útiles, y Supervisión de Infraestructura son desafíos destacados por dos tercios de los entrevistados, resaltando áreas claves para mejoras tecnológicas.
+- Gestión de Horarios y Seguimiento, Control de Inventario y Aulas son mencionados por un tercio, lo que muestra otros retos importantes, aunque con una mención menos frecuente.
+
+**Funciones Deseadas en una Aplicación para la Gestión Educativa**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.024.png)
+
+- Gestión Integrada del Estudiante: 100% de los entrevistados subrayan la necesidad de una herramienta que centralice la información académica relevante, lo que sugiere una demanda universal de soluciones integradas de gestión del estudiante.
+- Interactividad y Comunicación Eficiente: 67% de los entrevistados enfatizaron la importancia de la interactividad y la comunicación eficiente a través de tecnología digital.
 
