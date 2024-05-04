@@ -2472,7 +2472,8 @@ A continuación, se describe el sprint planning 2, durante el cual se exhibirán
 
 En esta sección se presentan los tasks realizados durante el actual Sprint.
 
-![ref1]
+![![Aspose Words 47b49ff5-366e-410c-8228-c5a642d265c4 004](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report/assets/129527512/15858f03-7fef-44b0-8524-8b4166cd252c)
+]
 
 **Trello: <https://trello.com/b/6qI1uR3n/sprint-backlog-2>** 
 
