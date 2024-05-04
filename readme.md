@@ -2337,7 +2337,8 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 
 **Trello: <https://trello.com/b/fHKD9Uys/product-backlog>** 
 
-![ref1]
+![![Aspose Words 47b49ff5-366e-410c-8228-c5a642d265c4 004](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report/assets/129527512/5acd08e7-6bb2-4e1c-aa67-750d275e4629)
+]
 
 <table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 1</th></tr>
 <tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item / Task</td></tr>
