@@ -953,3 +953,127 @@ Este gráfico muestra el uso de canales de comunicación por parte del equipo ad
 - Gestión Integrada del Estudiante: 100% de los entrevistados subrayan la necesidad de una herramienta que centralice la información académica relevante, lo que sugiere una demanda universal de soluciones integradas de gestión del estudiante.
 - Interactividad y Comunicación Eficiente: 67% de los entrevistados enfatizaron la importancia de la interactividad y la comunicación eficiente a través de tecnología digital.
 
+### **2.3. Needfinding**
+
+En nuestro análisis de los segmentos objetivos, hemos identificado las siguientes necesidades principales que deben ser resueltos:
+
+**Segmento 1: Profesores**
+
+Herramientas que les permitan automatizar tareas como el registro de calificaciones y asistencias para reducir la carga de trabajo manual y liberar tiempo para centrarse en la enseñanza.
+
+Acceso rápido y fácil a datos sobre el bienestar psicológico de los estudiantes para poder proporcionar apoyo individualizado de manera oportuna.
+
+Las herramientas deben ser intuitivas y fáciles de usar, con interfaces que permitan a los profesores realizar sus tareas de manera eficiente y sin complicaciones.
+
+**Segmento 2: Equipo Administrativo**
+
+Herramientas que les permitan optimizar el uso de aulas y recursos escolares, incluyendo la gestión del mantenimiento de la infraestructura y el control de inventarios.
+
+Garantizar un entorno escolar seguro, por lo que necesitan soluciones que les ayuden a monitorear y mejorar la seguridad en la escuela.
+
+Simplificar las tareas administrativas y mejorar la eficiencia operativa de la institución, permitiéndo centrarse en la mejora continua de los procesos educativos.
+
+#### **2.3.1. User Personas**
+
+Para poder conseguir una comprensión más completa de nuestra audiencia, hemos elaborado dos User Persona, que representan de manera ficticia a un usuario dentro de cada uno de nuestros segmentos. Este perfil incluye detalles sobre su experiencia de vida, motivaciones, frustraciones y objetivos. Esta herramienta nos permitirá establecer una conexión más sólida con el cliente ideal de nuestro producto. Facilitando el desarrollo de mejoras que satisfagan de manera óptima las necesidades de nuestros usuarios.
+
+**Segmento 1: Profesores**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.025.png)
+
+
+
+
+
+**Segmento 2: Equipo Administrativo**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.026.png)
+
+#### **2.3.2. User Task Matrix.**
+
+En esta sección, hemos creado un User Task Matrix que se centra en las tareas que realizan nuestros dos User Personas. Cada uno de estos segmentos tiene necesidades y objetivos específicos en relación con la orientación vocacional y el acceso a servicios de apoyo emocional y profesional.
+
+|Tareas / User Persona|Frecuencia (Juan Quispe)|Importancia (Juan Quispe)|Frecuencia (Ana Garcia)|Importancia (Ana Garcia)|
+| :- | :- | :- | :- | :- |
+|Registro de calificaciones|Siempre|Alta|Poco|Media|
+|Seguimiento del bienestar psicológico de los estudiantes|A menudo|Alta|A menudo|Alta|
+|Preparación de material didáctico|Muy a menudo|Media|Poco|Media|
+|Atención a necesidades individuales de estudiantes|A menudo|Alta|Siempre|Alta|
+|Reuniones con padres y tutores|A menudo|Media|Poco|Media|
+|Gestión de recursos escolares|A menudo|Media|A menudo|Alta|
+|Implementación de medidas de seguridad|A menudo|Alta|Muy a menudo|Alta|
+|Coordinación de actividades extracurriculares|Poco|Media|Muy a menudo|Media|
+|Comunicación con padres y personal docente|Muy a menudo|Alta|A menudo|Alta|
+|Seguimiento de presupuesto|A menudo|Media|Siempre|Alta|
+
+
+
+
+
+
+#### **2.3.3. User Journey Mapping**
+
+En este documento, presentamos dos User Journey Maps que ilustran las experiencias actuales de dos segmentos clave dentro del contexto educativo: los profesores y los administradores de instituciones educativas.
+
+**Juan Quispe:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.027.png)
+
+**Ana Garcia:**
+
+`	`![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.028.png)
+
+
+
+#### **2.3.4. Empathy Mapping.**
+
+Este ejercicio de empatía nos ayuda a comprender las necesidades, preocupaciones y expectativas de Juan Quispe, representando al segmento de profesores, y Ana García, del segmento de administradores.
+
+**Juan Quispe:**
+
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.029.png)
+**
+
+
+**Ana Garcia:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.030.png)
+
+**2.3.5. As-is Scenario Mapping.**
+
+En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas clave: Juan Quispe y Ana García. Estos mapas reflejan las situaciones actuales y las experiencias de ambos individuos en sus respectivas circunstancias profesionales.
+
+**Juan Quispe:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.031.png)
+
+**Ana Garcia:**
+
+![](assets/Aspose.Words.067514d0-720e-40d5-b69e-4e8975ffcf0c.032.png)
+
+### **2.4. Ubiquitous Language**
+
+El lenguaje ubicuo es una parte fundamental de la estrategia de UX. Se refiere al conjunto de términos y frases que se utilizan de manera consistente en toda la aplicación para referirse a conceptos, acciones y elementos clave.
+
+El lenguaje ubicuo tiene los siguientes beneficios:
+
+- Mejora la usabilidad: Los usuarios pueden comprender fácilmente la aplicación y navegar por ella sin confusiones.
+- Aumenta la accesibilidad: El uso de un lenguaje claro y conciso facilita el uso de la aplicación para personas con diferentes niveles de alfabetización y habilidades cognitivas.
+- Refuerza la marca: Un lenguaje único y consistente ayuda a crear una identidad de marca fuerte y memorable.
+- Promueve la colaboración: Facilita la comunicación entre los equipos de diseño, desarrollo y marketing.
+
+**Glosario:**
+
+- Teacher(profesor): a cada profesor se le asignan secciones sobre las cuales puede pasar asistencia, además cuenta con poder de solicitar inventario y crear salidas para los alumnos de las secciones asignadas
+- Administrador(administrador): los administradores aprueban las solicitudes de inventario hechas por los profesores, pueden además crear salidas para cualquier alumno y tienen acceso a información de matrícula, tienen poder de asignar alumnos, cursos, secciones y grados
+- student(estudiante): los estudiantes son asignados una sección por cada curso qué lleven, además de un profesor tutor, los cursos y secciones son modificados según grado. Los alumnos no son usuarios del sistema
+- Item: objeto de inventario solicitado
+- Assistance(asistencia): la asistencia es pasada diariamente por los profesores tutores para cada alumno
+- Grade (grado): grupo de alumnos por edad
+- Course(curso): curso de materia de aprendizaje, varía por grado
+- Section(salón): división de curso
+- Guardian(apoderado): padre o apoderado del alumno, información importante sobre este debe ser comunicada con urgencia, incluyendo confirmación de salidas y estados de matrícula
+- tuition(matrícula): monto cobrado mensualmente a cada alumno, el estado depende de cuánto tiempo ha pasado desde el cobro
+- Excused departure(salidas): salidas de los alumnos de clase monitoreadas por profesores o administrativos, razones válidas podrían ser, visita con el psicólogo del colegio, salidas solicitadas por apoderados con propósito de visita médica o salidas a la enfermería
+
