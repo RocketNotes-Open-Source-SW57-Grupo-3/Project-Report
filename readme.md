@@ -448,3 +448,25 @@ Aspectos psicográficos:
 - Intereses: Altamente interesados en sistemas y software que simplifiquen la gestión administrativa y académica, reduciendo la carga de trabajo manual y automatizando procesos rutinarios.
 - Comportamiento: El equipo administrativo busca optimizar procesos administrativos y la infraestructura educativa, valorando soluciones que les liberen tiempo para enfocarse en tareas estratégicas. Prefieren herramientas intuitivas, confiables y que faciliten la toma de decisiones a través de reportes detallados.
 
+## **Capítulo II: Requirements Elicitation & Analysis**
+
+### **2.1. Competidores**
+
+En la industria educativa hay diferentes propuestas innovadoras que ayudan a modernizar la gestión educativa. Para afrontar nuestra startup se decidió realizar un análisis competitivo con tres competidores relevantes y conocidos en la industria que ofrecen diferentes herramientas y representan un soporte vital en múltiples entidades educativas.  
+
+
+- Schoology
+
+  Es una plataforma de gestión educativa ampliamente reconocida que ofrece una variedad de herramientas para facilitar la enseñanza y el aprendizaje en entornos escolares. Su plataforma integra funciones de gestión de cursos, comunicación, colaboración y evaluación, proporcionando a profesores, estudiantes y padres una experiencia educativa en línea cohesionada.
+
+
+- PowerSchool
+
+  Plataforma de gestión escolar líder en el mercado que ofrece soluciones integrales para la administración de datos académicos y organizativos. Su suite de productos incluye herramientas para el seguimiento de asistencia, calificaciones, programación de clases y comunicación con padres y estudiantes.
+
+
+- Classe365
+
+  Plataforma educativa integral diseñada para satisfacer las necesidades de instituciones educativas en todo el mundo. Ofrece herramientas para la gestión de estudiantes, profesores, cursos, evaluaciones y comunicaciones, todo en un solo lugar.
+
+
