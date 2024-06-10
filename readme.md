@@ -2143,9 +2143,9 @@ Este diagrama no solo define la estructura de almacenamiento de datos sino que t
 
 **Capítulo V: Product Implementation, Validation & Deployment**
 
-**5.1. Software Configuration Management.** 
+**5.1. Software Configuration Management.**
 
-**5.1.1. Software Development Environment Configuration.** 
+**5.1.1. Software Development Environment Configuration.**
 
 A continuación, presentaremos los programas de software que hemos utilizado en el desarrollo de nuestro proyecto.
 
@@ -2192,7 +2192,7 @@ Hemos realizado pruebas de software en el landing page y la aplicación web util
 
 **Software Deployment**
 
-- **Github Pages:**  <https://pages.github.com/>
+- **Github Pages:** <https://pages.github.com/>
 
   Utilizamos Github Pages para desplegar nuestro landing page, vinculando el repositorio de GitHub para que se encargue automáticamente del despliegue.
 
@@ -2229,7 +2229,7 @@ La administración y estructuración de las múltiples modificaciones se realiza
 
 <https://github.com/RocketNotes-Open-Source-SW57-Grupo-3>
 
-**LandinPage:** 
+**LandinPage:**
 
 <https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-Landing-page/>
 
@@ -2270,7 +2270,7 @@ Para garantizar la coherencia y calidad en el desarrollo de nuestra Landing Page
 - **Espaciado en Declaraciones:** Se incluirá un espacio después de los dos puntos en cada declaración y entre las propiedades y las llaves que abren el bloque, ej.: font-weight: bold;.
 - **Comillas Simples para Valores de Atributos:** Utilizaremos comillas simples para encerrar los valores de los atributos en CSS, ej.: font-family: 'Open Sans', Arial, sans-serif;.
 
-**Gherkin** 
+**Gherkin**
 
 - **Estructura de Archivos:** Los archivos .feature contendrán las historias de usuario y describirán las características de la aplicación de manera estructurada.
 - **Palabra Clave 'Feature':** Se utilizará para introducir y agrupar funcionalidades relacionadas dentro del archivo.
@@ -2301,23 +2301,23 @@ archivos necesarios para que el servidor pueda mostrar la landing page. Utilizam
 
 Github Pages para el despliegue.
 
-1\. Cargamos los archivos necesarios para subirlo al repositorio. 
+1. Cargamos los archivos necesarios para subirlo al repositorio.
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.001.png)
 
-2\. Posteriormente nos dirigimos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar. 
+2. Posteriormente nos dirigimos a settings y ubicamos el apartado, Pages. En Branch seleccionamos la rama main y posteriormente, guardar. 
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.002.png)
 
-3\. Luego de cierto tiempo, github nos envía el enlace de nuestra página. 
+3. Luego de cierto tiempo, github nos envía el enlace de nuestra página.
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.003.png)
 
-5\.2. Landing Page, Services & Applications Implementation.
+5.2. Landing Page, Services & Applications Implementation.
 
-5\.2.1. Sprint  
+5.2.1. Sprint
 
-5\.2.1.1. Sprint Planning 1
+5.2.1.1. Sprint Planning 1
 
 A continuación, se mostrará el primer sprint planning, en el cual se exhibirán las pruebas de planificación e implementación del landing page. Además, de los progresos del proyecto y los insights sobre la colaboración del equipo utilizando Github.
 
@@ -2340,7 +2340,7 @@ A continuación, se mostrará el primer sprint planning, en el cual se exhibirá
 
 En esta sección se presentan los tasks realizados durante el actual Sprint.
 
-**Trello: <https://trello.com/b/fHKD9Uys/product-backlog>** 
+**Trello: <https://trello.com/b/fHKD9Uys/product-backlog>**
 
 ![![Aspose Words 47b49ff5-366e-410c-8228-c5a642d265c4 004](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report/assets/129527512/5acd08e7-6bb2-4e1c-aa67-750d275e4629)
 ]
@@ -2369,11 +2369,11 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 
 
 
-5\.2.1.3. Development Evidence for Sprint Review. 
+5\.2.1.3. Development Evidence for Sprint Review.
 
 
 
-<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id </th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
 <tr><td rowspan="8" valign="top">RocketNotes-Landing-page</td><td rowspan="8" valign="top">Main</td><td valign="top">01f7dd71c6e502def67d2d06307ce983f8f66f96</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">03/04/2024</td></tr>
 <tr><td valign="top">137b258a5b503a9852d504989259caded17193c8</td><td valign="top">Added images for landing page</td><td valign="top"></td><td valign="top">03/04/2024</td></tr>
 <tr><td valign="top">7cb8081a93639e0f115f37dad8962843884d5be5</td><td valign="top">Added logo for landing page</td><td valign="top"></td><td valign="top">03/04/2024</td></tr>
@@ -2386,7 +2386,7 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 
 
 
-5\.2.1.4. Testing Suite Evidence for Sprint Review. 
+5\.2.1.4. Testing Suite Evidence for Sprint Review.
 
 **Directo en markdown:**
 
@@ -2408,11 +2408,11 @@ Durante este sprint, se han integrado las pruebas de aceptación utilizando Gher
 
 </table>
 
-5\.2.1.5. Execution Evidence for Sprint Review. 
+5\.2.1.5. Execution Evidence for Sprint Review.
 
 A continuación se mostrarán capturas de evidencia de lo logrado para el primer sprint, que fue crear y desplegar la landing page con las secciones más importantes.
 
-Primero el banner de presentación de nuestro servicio, diseñado en inglés y completamente responsive. 
+Primero el banner de presentación de nuestro servicio, diseñado en inglés y completamente responsive.
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.005.png)![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.006.png)
 
@@ -2432,11 +2432,11 @@ Por último, la sección de contacto con nuestra empresa. Con información conci
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.010.png)
 
-5\.2.1.6. Services Documentation Evidence for Sprint Review. 
+5\.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Para la elaboración del sprint 1, se ha desarrollado únicamente el landing page, por lo cual no se emplea el desarrollo de web services o web applications.
 
-5\.2.1.7. Software Deployment Evidence for Sprint Review. 
+5\.2.1.7. Software Deployment Evidence for Sprint Review.
 
 En el primer sprint, se completó la creación del landing page. Para llevar a cabo el despliegue de este landing page, se emplearon las siguientes herramientas:
 
@@ -2445,7 +2445,7 @@ En el primer sprint, se completó la creación del landing page. Para llevar a c
 - **GitHub:** Plataforma para la colaboración en equipo y así almacenar las versiones actualizadas.
 - **Github Pages:** Plataforma que nos permitió alojar y desplegar nuestro landing page.
 
-5\.2.1.8. Team Collaboration Insights during Sprint. 
+5\.2.1.8. Team Collaboration Insights during Sprint.
 
 Durante este sprint para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
@@ -2453,7 +2453,7 @@ Durante este sprint para proteger la rama “main” creamos una rama “develop
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.012.png)
 
-**5.2.2. Sprint**  
+**5.2.2. Sprint**
 
 **5.2.2.1. Sprint Planning 2**
 
@@ -2481,12 +2481,12 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 ![![Aspose Words 47b49ff5-366e-410c-8228-c5a642d265c4 004](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/Project-Report/assets/129527512/15858f03-7fef-44b0-8524-8b4166cd252c)
 ]
 
-**Trello: <https://trello.com/b/6qI1uR3n/sprint-backlog-2>** 
+**Trello: <https://trello.com/b/6qI1uR3n/sprint-backlog-2>**
 
 <table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 2</th></tr>
 <tr><td colspan="2" valign="top">User story</td><td colspan="6" valign="top">Work Item / Task</td></tr>
-<tr><td valign="top">Id </td><td valign="top">Title </td><td valign="top">Id </td><td valign="top">Title </td><td valign="top">Description </td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-do InProcess ToReview Done)</td></tr>
-<tr><td rowspan="3" valign="top">E1-US03</td><td rowspan="3" valign="top">Registro de asistencias </td><td rowspan="3">T1</td><td rowspan="3" valign="top">Tomar asistencia de un aula</td><td rowspan="3">Implementar la funcionalidad de registrar la asistencia</td><td rowspan="3">3</td><td rowspan="3">Andre</td><td rowspan="3" valign="top">Done</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description </td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-do InProcess ToReview Done)</td></tr>
+<tr><td rowspan="3" valign="top">E1-US03</td><td rowspan="3" valign="top">Registro de asistencias</td><td rowspan="3">T1</td><td rowspan="3" valign="top">Tomar asistencia de un aula</td><td rowspan="3">Implementar la funcionalidad de registrar la asistencia</td><td rowspan="3">3</td><td rowspan="3">Andre</td><td rowspan="3" valign="top">Done</td></tr>
 <tr><td></td></tr>
 <tr><td></td></tr>
 <tr><td rowspan="5" valign="top">E1-US01</td><td rowspan="5" valign="top">` `Gestión del aforo de las aulas</td><td rowspan="2">T1</td><td rowspan="2">Crear un salón con capacidad</td><td rowspan="2">Implementar la creación de aulas con capacidades personalizables</td><td rowspan="2">3</td><td rowspan="2">Frida</td><td rowspan="2" valign="top">Done</td><td></td></tr>
@@ -2501,9 +2501,9 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 <tr><td>T2</td><td valign="top">Pantalla principal del dashboard</td><td>Diseñar y mostrar el dashboard para el usuario</td><td>2</td><td>Nelson</td><td valign="top">Done</td><td></td></tr>
 </table>
 
-5\.2.2.3. Development Evidence for Sprint Review. 
+5\.2.2.3. Development Evidence for Sprint Review.
 
-<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id </th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
 <tr><td rowspan="8" valign="top">RocketNotes Front end</td><td rowspan="8" valign="top">Master</td><td valign="top">9eb253a06879cb4914520102f82721bb07ffad82</td><td valign="top">[feat: Initial angular project with basic setup](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front_End/commit/9eb253a06879cb4914520102f82721bb07ffad82)</td><td valign="top"></td><td valign="top">03/05/2024</td></tr>
 <tr><td valign="top">137b258a5b503a9852d504989259caded17193c8</td><td valign="top">[docs: Initial text](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front_End/commit/a00b866dacb320a066572f44a6074d18bd3352ca)</td><td valign="top"></td><td valign="top">03/05/2024</td></tr>
 <tr><td valign="top">7cb8081a93639e0f115f37dad8962843884d5be5</td><td valign="top">[feat: Add initial project structure](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front_End/commit/155fa22a647ad8423f13d8b797976e62cea56604)</td><td valign="top"></td><td valign="top">03/05/2024</td></tr>
@@ -2519,7 +2519,7 @@ En esta sección se presentan los tasks realizados durante el actual Sprint.
 <tr><td valign="top">b981bde7e6a43e9479162f8034d7d30b215b88f3</td><td valign="top">[Update db.json](https://github.com/RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-FakeAPI/commit/b981bde7e6a43e9479162f8034d7d30b215b88f3)</td><td valign="top"></td><td valign="top">03/05/2024</td></tr>
 </table>
 
-**5.2.2.4. Testing Suite Evidence for Sprint Review.** 
+**5.2.2.4. Testing Suite Evidence for Sprint Review.**
 
 En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web como primera instancia, por lo que no se evidencia de testing.
 
@@ -2549,7 +2549,7 @@ Registro de Notas:
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.018.jpeg)
 
-5\.2.2.6. Services Documentation Evidence for Sprint Review. 
+5\.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Los servicios utilizados para el despliegue de la página fueron:
 
@@ -2558,24 +2558,24 @@ Los servicios utilizados para el despliegue de la página fueron:
 - Lenguaje de programación: Typescript
 - API: Vercel(Nuestra fake api con archivos del db.json fue desplegado en el servicio de vercel)
 
-5\.2.2.7. Software Deployment Evidence for Sprint Review. 
+5\.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para desplegar el front-end, primero ejecutamos el comando “npm run build”, en el directorio de nuestro proyecto para generar la carpeta dist que contendrá todos los archivos necesarios para desplegar la web.
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.019.png)
 
-Luego lo desplegamos en el servicio de github pages: 
+Luego lo desplegamos en el servicio de github pages:
 
 ![](assets/Aspose.Words.47b49ff5-366e-410c-8228-c5a642d265c4.020.png)
 
-Donde la rama master debe contener los archivos de la carpeta generada dist para poder desplegar la página en línea. 
+Donde la rama master debe contener los archivos de la carpeta generada dist para poder desplegar la página en línea.
 
 
 
 
 
 
-5\.2.2.8. Team Collaboration Insights during Sprint. 
+5\.2.2.8. Team Collaboration Insights during Sprint.
 
 El equipo ha estado trabajando en las correcciones y avances de la aplicación web, especialmente en el desarrollo del servicio web, utilizando una estrategia de ramificación en el control de versiones. Este enfoque de ramas independientes para cada sección específica permite mejorar y actualizar de manera continua y organizada, garantizando que cada cambio pueda ser evaluado minuciosamente antes de su integración en la rama principal (main). Esta metodología tiene la ventaja significativa de facilitar las actualizaciones y modificaciones sin afectar la estabilidad de la aplicación en producción.
 
@@ -2720,7 +2720,7 @@ En el alcance del sprint 3 no se ha desarrollado el funcionalidades referente a 
 
 En este sprint, logramos como tercera fase de nuestro producto final, desarrollar el resto de vistas de nuestra aplicación web usando Angular y Angular Material, en conjunto con una API hecha con Spring Boot y Java. Esta combinación nos permitió crear una aplicación robusta y eficiente, asegurando una integración fluida entre el front-end y el back-end.
 
-Pantalla de muestra de la respuesta de nuestras pruebas a la API hecha con Spring Boot: 
+Pantalla de muestra de la respuesta de nuestras pruebas a la API hecha con Spring Boot:
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.002.png)
 
@@ -3133,17 +3133,17 @@ TB1: <https://lc.cx/XJnP4y>
 
 TP: <https://lc.cx/-JcyeR>
 
-TB2:
+TB2: <https://lc.cx/HjJW_M>
 
 About-the-Product:
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/mb9y2CNZKCs>** 
+- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/mb9y2CNZKCs>**
 - **Microsoft Stream: [https://lc.cx/Dn0FAH**](https://lc.cx/Dn0FAH)**
 
 
 About-the-team
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/vIGPzue8lLA>** 
+- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/vIGPzue8lLA>**
 - **Microsoft Stream**: [**https://lc.cx/31_zBE](https://lc.cx/31_zBE)**
 
 **Anexo B: C4 MODEL**
@@ -3152,7 +3152,7 @@ Enlace del C4 MODEL: <http://c4model.com>
 
 **Anexo C:** LINK FIGMA: <https://www.figma.com/file/pBcefWno0VR16AEy7elc2m/Open-Source?type=design&node-id=0%3A1&mode=design&t=BmgtN82Ieketfpvn-1>
 
-**Anexo D:** LINK LANDING PAGE: <https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/#pricing> 
+**Anexo D:** LINK LANDING PAGE: <https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/#pricing>
 
 **Anexo E:** LINK TRELLO: <https://trello.com/b/fHKD9Uys/product-backlog>
 
