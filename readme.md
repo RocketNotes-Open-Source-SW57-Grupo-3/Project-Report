@@ -39,7 +39,6 @@ Marzo de 2024-01
 ### **Registro de Versiones del Informe**
 
 
-
 |**Versión**|**Fecha**|**Autor**|                        **Descripción de modificación**                         |
 | :-: | :-: | :-: |:------------------------------------------------------------------------------:|
 |TB1|23/03/2024|Belen Ramos|                   Desarrollo del capítulo I: Startup Profile                   |
@@ -73,21 +72,27 @@ Marzo de 2024-01
 |TP|27/04/2024|Mateo Vilchez|                  Corrección del capítulo III: Impact Mapping                   |
 |TP|27/04/2024|Mateo Vilchez|           Corrección del capítulo IV: Web Applications UX/UI Design            |
 |TP|01/05/2024|Belen Ramos|                 Desarrollo de User Stories: Technicals Stories                 |
-
-
-
-
-
-
-
-
+|TB2|07/06/2024|Frida Dam|         Desarrollo de EndPoint: Bounded Context - Profiles Management          |
+|TB2|07/06/2024|Belen Ramos|          Desarrollo de EndPoint: Bounded Context - Admins Management           |
+|TB2|07/06/2024|Mateo Vilchez|   Desarrollo de EndPoint: Bounded Context - Assets and Inventory Management    |
+|TB2|07/06/2024|Nelson Serrano|          Desarrollo de EndPoint: Bounded Context - Admins Management           |
+|TB2|07/06/2024|Andre La Torre|     Desarrollo de EndPoint: Bounded Context - Students Records Management      |
+|TB2|07/06/2024|Mateo Vilchez|      Avance de EndPoint: Bounded Context - Identity and Access Management      |
+|TB2|07/06/2024|Belen Ramos|                      Desarrollo de Validation Interviews                       |
+|TB2|09/06/2024|Belen Ramos|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Mateo Vilchez|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Andre La Torre|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Nelson Serrano|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Frida Dam|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Nelson Serrano|       Desarrollo Video About-the-Product:<br>Landing Page and Front-End        |
+|TB2|09/06/2024|Mateo Vilchez|                Desarrollo Video About-the-Product:<br>Back-End                 |
 
 ### **Student Outcome**
 
 |**Criterio Específico**|**Acciones Realizadas**|**Conclusiones**|
 | :- | :- | :- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Mateo Vilchez Rios**</p><p>**TB1**</p><p>Durante el desarrollo del perfil de la solución, explicaba regularmente los objetivos del proyecto y las especificaciones técnicas, garantizando que cada miembro del equipo estuviese al día con los avances y los cambios en el diseño del proyecto.</p><p></p><p>**TP1**</p><p>Enfrenté desafíos técnicos durante esta entrega, pero me aseguré de comunicar mis inconvenientes a mis compañeros para que el trabajo no se viera afectado. Además, busqué motivar a mis compañeros para que pudieran terminar sus asignaciones correspondientes.</p><p></p><p>**Belen Ramos Rios**</p><p>**TB1**</p><p>Mi contribución en esta fase fue fundamental para asegurar que todos los aspectos del perfil de startup fueran comunicados claramente. Participé activamente en el desarrollo y presentación de los perfiles de usuarios y en las discusiones sobre el diseño de la base de datos y la arquitectura del software.</p><p>**TP1**</p><p>Asumí un papel clave en la revisión y corrección de las metodologías de entrevista, comunicando los problemas y ajustes necesarios para asegurar la recopilación eficaz de datos que informarían las siguientes etapas del proyecto.</p><p></p><p>**Frida Dam Rubianes**</p><p></p><p>**TB1**</p><p>Durante el trabajo se aplicaron técnicas como la de  lluvias de ideas para poder lograr comunicar nuestros puntos de vista y obtener resultados favorables. </p><p></p><p>**TP1**</p><p>Cada integrante del equipo comunicó sus resultados en cada sesión de trabajo y trabajamos con sprints.</p><p></p><p>**Nelson Elías Serrano Ircañaupa**</p><p>**TB1**</p><p>Durante el desarrollo del capítulo II sobre competidores, me enfoqué en presentar un análisis detallado y objetivo de los competidores clave, asegurando que el equipo comprendiera las fortalezas y debilidades de cada uno para mejorar nuestra estrategia.</p><p>**TP1**</p><p>Al enfrentarme a desafíos técnicos durante la implementación de la Landing Page, me aseguré de comunicar claramente estos problemas al equipo para mitigar cualquier impacto en el proyecto. Además, trabajé en motivar y coordinar al equipo para implementar soluciones efectivas rápidamente.</p><p></p><p>**André La Torre Soto**</p><p>**TB1**</p><p>Mi enfoque estuvo en dirigir el desarrollo del Needfinding y To-Be Scenario Mapping, presentando mis hallazgos y análisis a los miembros del equipo y a los stakeholders para asegurar que todos estuvieran alineados con las necesidades del usuario final.</p><p>**TP1**</p><p>Durante las revisiones, me enfrenté a desafíos en la aplicación de las metodologías de Needfinding corregidas, pero comuniqué estos problemas de manera efectiva al equipo para asegurar la adaptación y el ajuste de las estrategias.</p><p></p>|<p>**TB1**</p><p>Nos centramos en asegurar una comunicación clara y objetiva de las ideas principales del proyecto. En esta fase, enfrentamos el desafío de ajustar algunas ideas preestablecidas, lo que requería que todos los cambios fueran comunicados eficazmente para mantener un control sobre el proyecto. Este proceso ayudó a fortalecer el entendimiento y la alineación del equipo.</p><p>**TP1**</p><p>Durante esta entrega, todos experimentamos diversos desafíos técnicos, lo que puso a prueba nuestra habilidad para mantener la comunicación efectiva bajo presión. Nos aseguramos de comunicar estos inconvenientes de manera que no afectarán el progreso del trabajo y también trabajamos en motivar al equipo para superar estas dificultades, lo que fue esencial para mantener la moral y la productividad del equipo.</p>|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Mateo Vilchez Rios**</p><p>**TB1**</p><p>Redacté documentación técnica para la interfaz de usuario del Landing Page y las aplicaciones web, asegurando que todos los detalles técnicos y de diseño estuvieran claramente especificados y fueran accesibles para todo el equipo.</p><p>**TP1**</p><p>Trabajé en las correcciones detalladas de las interfaces de usuario y experiencia de usuario, actualizando la documentación para reflejar todos los cambios y asegurando que las especificaciones estuvieran alineadas con las necesidades del proyecto.</p><p></p><p>**Belen Ramos Rios**</p><p>**TB1**</p><p>Trabajé en la documentación sobre el diseño orientado a objetos del software y el diseño de la base de datos, asegurando que los documentos técnicos fueran precisos, completos y claros para facilitar el entendimiento y la implementación.</p><p>**TP1**</p><p>Actualice la documentación técnica basada en los ajustes realizados durante las revisiones del proyecto, mejorando las technicals stories y asegurando que la comunicación de estos cambios fuera efectiva y clara.</p><p></p><p>**Frida Sofía Dam Rubianes**</p><p></p><p>**TB1**</p><p>Durante el desarrollo del proyecto tuvimos que redactar la información que habías recaudado sobre los usuarios y el lean ux.</p><p>**TP1**</p><p>En el desarrollo del proyecto redactamos nuestros objetivos y resultados logrados.</p><p></p><p>**Nelson Elías Serrano Ircañaupa**</p><p>**TB1**</p><p>Redacté una documentación sobre la arquitectura de software orientada al dominio y la gestión de configuración de software, asegurando que la información técnica fuese comprensible y accesible para todos los miembros del equipo.</p><p>**TP1**</p><p>Actualicé y refiné la documentación de la implementación de la Landing Page, abordando los problemas técnicos encontrados y comunicando las soluciones adoptadas para mantener al equipo al día con los avances del proyecto.</p><p></p><p>**André La Torre Soto**</p><p>**TB1**</p><p>Me encargué de desarrollar y documentar los procesos de Needfinding y To-Be Scenario Mapping, garantizando que todos los documentos reflejaran claramente los requisitos y expectativas de los usuarios finales.</p><p>**TP1**</p><p>Trabajé en la actualización y corrección de la documentación basada en el feedback obtenido durante las revisiones del proyecto, asegurando que todos los cambios y mejoras estuvieran bien comunicados y documentados.</p><p></p>|<p>**TB1**</p><p>La documentación inicial que redactamos estableció un fundamento sólido para todos los aspectos técnicos del proyecto. Nos enfocamos en asegurar que toda la documentación técnica fuera precisa, clara y accesible para todos los miembros del equipo, lo cual fue fundamental para la implementación coherente y efectiva desde el inicio.</p><p>**TP1**</p><p>En esta fase, trabajamos en la actualización y refinamiento de nuestra documentación para reflejar los cambios y mejoras realizados. Esta tarea incluyó la corrección de documentos técnicos y la mejora de la claridad en las especificaciones, asegurando que todos los miembros del equipo comprendan los ajustes y continuarán trabajando sin contratiempos.</p>|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Mateo Vilchez Rios**</p><p>**TB1**</p><p>Durante el desarrollo del perfil de la solución, explicaba regularmente los objetivos del proyecto y las especificaciones técnicas, garantizando que cada miembro del equipo estuvieran al día con los avances y los cambios en el diseño del proyecto.</p><p></p><p>**TP1**</p><p>Enfrenté desafíos técnicos durante esta entrega, pero me aseguré de comunicar mis inconvenientes a mis compañeros para que el trabajo no se viera afectado. Además, busqué motivar a mis compañeros para que pudieran terminar sus asignaciones correspondientes.</p><p></p><p>**TB2**</p><p>Me enfoqué en presentar oralmente los desarrollos técnicos y progresos de los endpoints relacionados con la gestión de activos e inventario. Mis presentaciones aseguraron que el equipo comprendiera completamente los detalles técnicos y las implicaciones del diseño, facilitando una comprensión clara y objetiva de los cambios y avances en el proyecto a un público diverso que incluía desde desarrolladores hasta gerentes de proyecto.</p><p></p><p>**Belen Ramos Rios**</p><p>**TB1**</p><p>Mi contribución en esta fase fue fundamental para asegurar que todos los aspectos del perfil de startup fueran comunicados claramente. Participé activamente en el desarrollo y presentación de los perfiles de usuarios y en las discusiones sobre el diseño de la base de datos y la arquitectura del software.</p><p>**TP1**</p><p>Asumí un papel clave en la revisión y corrección de las metodologías de entrevista, comunicando los problemas y ajustes necesarios para asegurar la recopilación eficaz de datos que informarían las siguientes etapas del proyecto.</p><p></p><p>**TB2**</p><p>En la TB2, demostré habilidades sólidas al comunicar oralmente los resultados y avances durante las entrevistas de validación del proyecto. Aseguré que todos los hallazgos y ajustes necesarios se comunicaran clara y objetivamente a todos los miembros del equipo y a los stakeholders, independientemente de sus especialidades o niveles jerárquicos. Esta capacidad de comunicación efectiva fue crucial para validar las etapas del proyecto y ajustar las estrategias según fuera necesario.</p><p></p><p>**Frida Dam Rubianes**</p><p></p><p>**TB1**</p><p>Durante el trabajo se aplicaron técnicas como la de  lluvias de ideas para poder lograr comunicar nuestros puntos de vista y obtener resultados favorables. </p><p></p><p>**TP1**</p><p>Cada integrante del equipo comunicó sus resultados en cada sesión de trabajo y trabajamos con sprints.</p><p></p><p>**TB2**</p><p>Durante el desarrollo del backend trabajamos en equipo, comunicando nuestros avances e ideas de mejora para lograr una aplicación web exitosa.</p><p></p><p>**Nelson Elías Serrano Ircañaupa**</p><p>**TB1**</p><p>Durante el desarrollo del capítulo II sobre competidores, me enfoqué en presentar un análisis detallado y objetivo de los competidores clave, asegurando que el equipo comprendiera las fortalezas y debilidades de cada uno para mejorar nuestra estrategia.</p><p>**TP1**</p><p>Al enfrentarme a desafíos técnicos durante la implementación de la Landing Page, me aseguré de comunicar claramente estos problemas al equipo para mitigar cualquier impacto en el proyecto. Además, trabajé en motivar y coordinar al equipo para implementar soluciones efectivas rápidamente.</p><p>**TB2**</p><p>Para el desarrollo de esta entrega, ayudé a planificar la entrega del tercer sprint. Posteriormente realizar el desarrollo de lo propuesto en las reuniones. Además, lograr compartirlo y comunicarlo con el equipo.  </p><p></p><p>**André La Torre Soto**</p><p>**TB1**</p><p>Mi enfoque estuvo en dirigir el desarrollo del Needfinding y To-Be Scenario Mapping, presentando mis hallazgos y análisis a los miembros del equipo y a los stakeholders para asegurar que todos estuvieran alineados con las necesidades del usuario final.</p><p>**TP1**</p><p>Durante las revisiones, me enfrenté a desafíos en la aplicación de las metodologías de Needfinding corregidas, pero comuniqué estos problemas de manera efectiva al equipo para asegurar la adaptación y el ajuste de las estrategias.</p><p></p><p>**TB2**</p><p></p><p>Para esta entrega, me encargué de realizar correcciones necesarias  y de la elaboración de mi parte pertinente del backend. Además, comunicaba  regularmente los objetivos del proyecto y los avances específicos que realizaba, garantizando que cada miembro del equipo estuviera al día con los avances y los cambios en en el proyecto.</p><p></p>|<p>**TB1**</p><p>Nos centramos en asegurar una comunicación clara y objetiva de las ideas principales del proyecto. En esta fase, enfrentamos el desafío de ajustar algunas ideas preestablecidas, lo que requería que todos los cambios fueran comunicados eficazmente para mantener un control sobre el proyecto. Este proceso ayudó a fortalecer el entendimiento y la alineación del equipo.</p><p>**TP1**</p><p>Durante esta entrega, todos experimentamos diversos desafíos técnicos, lo que puso a prueba nuestra habilidad para mantener la comunicación efectiva bajo presión. Nos aseguramos de comunicar estos inconvenientes de manera que no afectarán el progreso del trabajo y también trabajamos en motivar al equipo para superar estas dificultades, lo que fue esencial para mantener la moral y la productividad del equipo.</p><p></p><p>**TB2**</p><p>Durante la TB2, las habilidades de comunicación oral de nuestro grupo fueron fundamentales para el progreso continuo del proyecto. La capacidad de comunicar detalles técnicos y avances de manera efectiva aseguró que estuviéramos alineados con la visión del proyecto. Las presentaciones regulares y las discusiones en equipo facilitaron una colaboración efectiva y la toma de decisiones informadas.</p>|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Mateo Vilchez Rios**</p><p>**TB1**</p><p>Redacté documentación técnica para la interfaz de usuario del Landing Page y las aplicaciones web, asegurando que todos los detalles técnicos y de diseño estuvieran claramente especificados y fueran accesibles para todo el equipo.</p><p>**TP1**</p><p>Trabajé en las correcciones detalladas de las interfaces de usuario y experiencia de usuario, actualizando la documentación para reflejar todos los cambios y asegurando que las especificaciones estuvieran alineadas con las necesidades del proyecto.</p><p></p><p>**TB2**</p><p>En la TB2, redacté documentación detallada para los endpoints de gestión de activos e inventario, asegurando que todos los aspectos técnicos y operativos estuvieran bien comunicados y fueran comprensibles para todo el equipo. La claridad y precisión de mis documentos técnicos facilitaron una mejor comprensión y colaboración en el equipo, permitiendo que los integrantes de diferentes disciplinas comprendieran los aspectos técnicos y su impacto en el proyecto.</p><p></p><p>**Belen Ramos Rios**</p><p>**TB1**</p><p>Trabajé en la documentación sobre el diseño orientado a objetos del software y el diseño de la base de datos, asegurando que los documentos técnicos fueran precisos, completos y claros para facilitar el entendimiento y la implementación.</p><p>**TP1**</p><p>Actualice la documentación técnica basada en los ajustes realizados durante las revisiones del proyecto, mejorando las technicals stories y asegurando que la comunicación de estos cambios fuera efectiva y clara.</p><p></p><p>**TB2**</p><p>Aporté significativamente a la documentación técnica y la comunicación escrita, especialmente en la elaboración de documentos para la validación de entrevistas. Mi redacción fue clara y precisa, facilitando la comprensión y la integración de los datos recopilados en la toma de decisiones del proyecto. Me aseguré de que toda la documentación reflejara los objetivos y resultados con objetividad, adaptando el contenido para que fuera accesible para audiencias con diferentes niveles de conocimiento técnico.</p><p></p><p>**Frida Sofía Dam Rubianes**</p><p></p><p>**TB1**</p><p>Durante el desarrollo del proyecto tuvimos que redactar la información que habías recaudado sobre los usuarios y el lean ux.</p><p>**TP1**</p><p>En el desarrollo del proyecto redactamos nuestros objetivos y resultados logrados.</p><p></p><p>**TB2**</p><p>Durante el desarrollo del backend documentamos los aspectos más relevantes de cada avance realizado por el equipo.</p><p></p><p>**Nelson Elías Serrano Ircañaupa**</p><p>**TB1**</p><p>Redacté una documentación sobre la arquitectura de software orientada al dominio y la gestión de configuración de software, asegurando que la información técnica fuese comprensible y accesible para todos los miembros del equipo.</p><p>**TP1**</p><p>Actualicé y refiné la documentación de la implementación de la Landing Page, abordando los problemas técnicos encontrados y comunicando las soluciones adoptadas para mantener al equipo al día con los avances del proyecto.</p><p></p><p>**TB2**</p><p>Después de desarrollar las funciones para el administrador del backend, tuve que realizar múltiples cambios para adaptarlo al enfoque domain driven design y aplicando buenas prácticas de diseño y programación. </p><p></p><p>**André La Torre Soto**</p><p>**TB1**</p><p>Me encargué de desarrollar y documentar los procesos de Needfinding y To-Be Scenario Mapping, garantizando que todos los documentos reflejaran claramente los requisitos y expectativas de los usuarios finales.</p><p>**TP1**</p><p>Trabajé en la actualización y corrección de la documentación basada en el feedback obtenido durante las revisiones del proyecto, asegurando que todos los cambios y mejoras estuvieran bien comunicados y documentados.</p><p></p><p>**TB2**</p><p></p><p>Realicé correcciones y mejoras en el código de front-end , asegurando una completa y mejor experiencia de . Además, participé en la elaboración de un bounded context para el backend, estructurando de manera eficiente la lógica del negocio y mejorando la escalabilidad del sistema.</p><p></p>|<p>**TB1**</p><p>La documentación inicial que redactamos estableció un fundamento sólido para todos los aspectos técnicos del proyecto. Nos enfocamos en asegurar que toda la documentación técnica fuera precisa, clara y accesible para todos los miembros del equipo, lo cual fue fundamental para la implementación coherente y efectiva desde el inicio.</p><p>**TP1**</p><p>En esta fase, trabajamos en la actualización y refinamiento de nuestra documentación para reflejar los cambios y mejoras realizados. Esta tarea incluyó la corrección de documentos técnicos y la mejora de la claridad en las especificaciones, asegurando que todos los miembros del equipo comprendan los ajustes y continuarán trabajando sin contratiempos.</p><p></p><p>**TB2**</p><p>La comunicación escrita en la TB2 fue igualmente impresionante. Los documentos técnicos, las especificaciones del sistema y las actualizaciones de progreso estaban bien estructurados y eran claros, lo que aseguró que la información crucial fuera accesible y comprensible para todos los miembros del equipo y otros interesados. Esta claridad en la documentación escrita jugó un papel crucial en la documentación del progreso del proyecto y en el establecimiento de un entendimiento común y una base de referencia sólida para todas las actividades del proyecto.</p>|
 
 ## **Capítulo I: Introducción**
 
@@ -2721,7 +2726,7 @@ Pantalla de muestra de la respuesta de nuestras pruebas a la API hecha con Sprin
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.003.png)
 
-**5.2.3.6. Services Documentation Evidence for Sprint Review.** 
+**5.2.3.6. Services Documentation Evidence for Sprint Review.**
 
 Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
 
@@ -2755,9 +2760,13 @@ Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos 
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
 
-**5.2.3.7. Software Deployment Evidence for Sprint Review.** 
+**5.2.3.7. Software Deployment Evidence for Sprint Review.**
 
-**5.2.3.8. Team Collaboration Insights during Sprint.** 
+La Base de Datos se desplegó en Railway:
+
+![](assets/Aspose.Words.6b210c41-a126-4e28-b4a8-a6fa5d533a87.001.png)![](assets/Aspose.Words.6b210c41-a126-4e28-b4a8-a6fa5d533a87.002.png)
+
+**5.2.3.8. Team Collaboration Insights during Sprint.**
 
 Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
@@ -2765,7 +2774,7 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.016.png)
 
-**Github analytics de nuestro tercer sprint:** 
+**Github analytics de nuestro tercer sprint:**
 
 **5.3. Validation Interviews**
 
@@ -2799,7 +2808,7 @@ En esta sección, se proporciona el registro detallado de las entrevistas realiz
 
 **Segmento objetivo #1: Profesores**
 
-**Entrevista #1:** 
+**Entrevista #1:**
 
 
 
@@ -2807,13 +2816,13 @@ En esta sección, se proporciona el registro detallado de las entrevistas realiz
 
 **Edad:** 39 años
 
-**Ubicación:**  Paiján, provincia de Ascope, en la Libertad
+**Ubicación:** Paiján, provincia de Ascope, en la Libertad
 
 **Ocupación:** Profesor de matemáticas en una institución privada de Paiján
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.017.png)
 
-**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>** 
+**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
 **Tiempo de la Entrevista:** Comienzo: 00:00 - Fin: 10:27
 
@@ -2833,7 +2842,7 @@ En términos de optimización técnica, recomendó adaptar la aplicación para s
 
 La entrevista revela la necesidad de mejoras en la usabilidad y funcionalidad de la aplicación RocketNotes, con énfasis en la comunicación con los padres y la optimización del registro de asistencia. 
 
-**Entrevista #2:** 
+**Entrevista #2:**
 
 **Nombre:** Tatiana Cabrera Goicoechea
 
@@ -2845,7 +2854,7 @@ La entrevista revela la necesidad de mejoras en la usabilidad y funcionalidad de
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.018.png)
 
-**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>** 
+**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
 **Tiempo de la Entrevista:** Comienzo: 10:28 - Fin: 19:02
 
@@ -2876,7 +2885,7 @@ La entrevista con la profesora Tatiana Cabrera Goicoechea destaca la necesidad d
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.019.png)
 
-**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>** 
+**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
 **Tiempo de la Entrevista:** Comienzo: 19:03 - Fin: 26:58
 
@@ -2884,7 +2893,7 @@ La entrevista con la profesora Tatiana Cabrera Goicoechea destaca la necesidad d
 
 Juan Carlos Rodríguez Carrión, de 35 años, es docente del área de matemáticas en nivel secundario y preuniversitario. Utiliza principalmente dispositivos con sistema operativo Android, alternando entre celular y laptop para su labor educativa. Prefiere el navegador Google Chrome para sus tareas diarias. Durante la entrevista, se le presentó la landing page de RocketNotes y luego la aplicación, accesible desde dicha landing page.
 
-El profesor encontró la página de inicio interesante y bien organizada, destacando la opción de visualización en dos idiomas (español e inglés). Respecto al contenido de la aplicación, consideró que las funciones y características presentadas son útiles y relevantes para su labor educativa. Apreció la posibilidad de enviar información directamente a los padres de familia y destacó la utilidad de las funcionalidades de notas y asistencia.
+El profesor encontró la página de inicio interesante y bien organizada, destacando la opción de visualización en dos idiomas (español e inglés). Respecto al contenido de la aplicación, consideró que las funciones y características presentadas son útiles y relevantes para su labor educativa. Apreció la posibilidad de enviar información directamente a los padres de familia y destacó la utilidad de las funcionalidades de notas y asistencia.
 
 **Necesidades y Mejoras Identificadas**
 Juan Carlos no identificó mejoras específicas en las funcionalidades presentadas, pero confirmó que la capacidad de editar notas y agregar descripciones específicas para participación, cuadernos y exámenes es muy útil. Considera que la aplicación es clara y fácil de usar, con íconos suficientemente grandes para ser observados fácilmente.
@@ -2896,7 +2905,7 @@ Juan Carlos no identificó mejoras específicas en las funcionalidades presentad
 
 **Segmento objetivo #2: Equipo Administrativo**
 
-**Entrevista #1:** 
+**Entrevista #1:**
 
 **Nombre:** Graciela del Rocío Ríos Alza
 
@@ -2908,7 +2917,7 @@ Juan Carlos no identificó mejoras específicas en las funcionalidades presentad
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.020.png)
 
-**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>** 
+**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
 **Tiempo de la Entrevista:** Comienzo: 26:59 - Fin: 35:57
 
@@ -2929,7 +2938,7 @@ Para mejorar la funcionalidad y la usabilidad de la aplicación, Graciela sugier
 
 La entrevista con Graciela Rocío Ríos Alza destaca la necesidad de incorporar mejoras específicas en la diferenciación de niveles educativos y la inclusión de mensajes de confirmación.
 
-**Entrevista #2:** 
+**Entrevista #2:**
 
 **Nombre:** Paul Ramos Chumpitazi
 
@@ -2941,7 +2950,7 @@ La entrevista con Graciela Rocío Ríos Alza destaca la necesidad de incorporar 
 
 ![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.021.png)
 
-**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>** 
+**URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
 **Tiempo de la Entrevista:** Comienzo: 35:59 - Fin: 48:36
 
@@ -2960,7 +2969,7 @@ Para mejorar la funcionalidad y la usabilidad de la aplicación, Paul sugiere:
 
 La entrevista con Ramón Chumpitazi, Max Paul, destaca la necesidad de incorporar mejoras específicas en la asignación de profesores por grado, la implementación de una bitácora electrónica, y el acceso para padres a información relevante. 
 
-**Entrevista #3:** 
+**Entrevista #3:**
 
 **Nombre:** Juliana Gisela Chávez Pozo
 
@@ -3030,12 +3039,12 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-|**Nivel** |**Descripción**|
-| :- | :- |
-|1|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+| **Nivel**|**Descripción**|
+|:--------| :- |
+| 1       |Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+| 2       |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+| 3       |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+| 4       |Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
 
 **TABLA RESUMEN:**
 
