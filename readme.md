@@ -2654,21 +2654,21 @@ A continuación, se mostrará el tercer sprint planning, en el cual se exhibirá
 |Sprint Planning Background||
 |Date|` `6 de junio del 2024|
 |Time|11:55 horas (GMT -5)|
-|Location|Modalidad remota |
+|Location|Modalidad remota|
 |Prepared By|Serrano Ircañaupa, Nelson Elías.|
 |Attendees (to planning meeting)|<p>Dam Rubianes, Frida Sofía,</p><p>La Torre Soto, André Sebastian,</p><p>Vilchez Rios, Mateo Alejandro, </p><p>Ramos Rios, Belen del Rocio,</p><p>Serrano Ircañaupa, Nelson Elías.</p><p></p>|
 |Sprint n – 3 Review Summary|Se continuó avanzando en las tareas que estaban en proceso del Sprint 3, abordando secciones pendientes y ajustes de responsividad en la interfaz.|
-|Sprint n – 3 Retrospective Summary|Se concluyó el desarrollo del Landing Page Responsive.|
+|Sprint n – 3 Retrospective Summary|Se concluyó el desarrollo del front end|
 |Sprint Goal & User Stories||
-|Sprint 3 Goal|<p>El objetivo principal para este sprint es corregir cualquier error presente en el front end y empezar con el desarrollo del back end. Se discutirá el contenido de los bounded context dentro del proyecto de rider. Al finalizar este sprint, el back end debe estar desplegado, además de lograr un avance significativo para siguiente entregas.</p><p></p>|
-|Sprint 3 Velocity|12|
-|Sum of Story Points|34|
+|Sprint 3 Goal|<p>El objetivo principal para este sprint es corregir los errores presentes en el guardado de notas y manejo de instalaciones del front end e implementar  todos nuestros bounded context (students, profiles, maintenance y admins) en el backend. Al finalizar este sprint, el back end debe estar desplegado y el front end debe cumplir con todas las funcionalidades sin retornar algún error.</p><p></p>|
+|Sprint 3 Velocity|51|
+|Sum of Story Points|51|
 
 **5.2.3.2. Sprint Backlog 3**
 
 En esta sección se presentan los tasks realizados durante el actual Sprint.
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.001.jpeg)
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.001.jpeg)
 
 Enlace del trello: [Sprint Backlog 3 | Trello](https://trello.com/b/RVhqYXr8/sprint-backlog-3)
 
@@ -2686,9 +2686,20 @@ Enlace del trello: [Sprint Backlog 3 | Trello](https://trello.com/b/RVhqYXr8/spr
 <tr><td valign="top">T2</td><td valign="top">Visualizar lista de mantenimientos</td><td valign="top">Desarrollar la función para visualizar toda la lista de mantenimientos</td></tr>
 <tr><td valign="top">E3-US16</td><td valign="top"><p></p><p>Registro y mantenimiento del equipo escolar</p></td><td valign="top">T1</td><td valign="top">Agregar equipo escolar</td><td valign="top">Desarrollar la función de agregar equipo escolar</td><td valign="top">4</td><td valign="top">Belén</td><td valign="top">Done</td></tr>
 <tr><td valign="top">E2-US15</td><td valign="top"><p></p><p>Programación de mantenimiento preventivo de la infraestructura</p></td><td valign="top">T1</td><td valign="top">Agregar fecha para el mantenimiento</td><td valign="top">Desarrollar la función para agregar la fecha programada para un mantenimiento</td><td valign="top">3</td><td valign="top">Belén</td><td valign="top">In Process</td></tr>
-<tr><td valign="top">E4-US26</td><td valign="top"><p></p><p>Registro de Usuarios</p></td><td valign="top">T1</td><td valign="top">Registro de datos para el administrador</td><td valign="top">Desarrollar e implementar el registro de datos para los administradores</td><td valign="top">3</td><td valign="top">Frida</td><td valign="top">In Process</td></tr>
 <tr><td valign="top">E4-US27</td><td valign="top"><p>Autenticación de Usuarios</p><p></p></td><td valign="top">T1</td><td valign="top">Autenticación correcta ingresada al sistema</td><td valign="top">Desarrollar la autenticación de datos de ingreso al sistema</td><td valign="top">4</td><td valign="top">Frida</td><td valign="top">In Process</td></tr>
-<tr><td valign="top">E4-US28</td><td valign="top"><p></p><p>Visualización de Perfiles de Usuario</p></td><td valign="top">T1</td><td valign="top">Visualizar datos del perfil de usuario</td><td valign="top">Desarrollar los perfiles de usuario para visualizar los datos generales de cada uno</td><td valign="top">5</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E11-TS07</td><td rowspan="2" valign="top">Add teacher through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar un API Endpoint para Añadir Profesores</td><td valign="top">Implementar el endpoint RESTful /api/v1/teachers que permita la adición de nuevos profesores.</td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Conectar el Formulario de Frontend con el API Endpoint</td><td valign="top">Integrar el formulario de registro de profesores con el nuevo API Endpoint.</td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E11-TS05</td><td rowspan="2" valign="top">Add student through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar un API Endpoint para Añadir Estudiantes</td><td valign="top">` `Implementar el endpoint RESTful /api/v1/students que permita la adición de nuevos estudiantes.</td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Conectar el Formulario de Frontend con el API Endpoint</td><td valign="top">Integrar el formulario de registro de estudiantes con el nuevo API Endpoint.</td><td valign="top">2</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E10-TS01</td><td valign="top"><p>Add a Facility through a RESTful API</p><p></p></td><td valign="top">T01</td><td valign="top">Implementar un API Endpoint para Añadir Instalaciones</td><td valign="top">Implementar el endpoint RESTful /api/v1/facilities que permita la adición de nuevas instalaciones</td><td valign="top">4</td><td valign="top">Belen</td><td valign="top">In-Process</td></tr>
+<tr><td valign="top">E10-TS01</td><td valign="top"><p>Add a Facility through a RESTful API</p><p></p></td><td valign="top">T01</td><td valign="top">Conectar el Formulario de Frontend con el API Endpoint</td><td valign="top">Integrar el formulario de registro de instalaciones con el nuevo API Endpoint.</td><td valign="top">4</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E10-TS02</td><td valign="top">Get a Facility by ID through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Obtener Instalaciones por ID</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/facilities/{id} para obtener información específica de una instalación existente o responder con un error si la instalación no existe.</td><td valign="top">3</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E10-TS03</td><td rowspan="2" valign="top">Add Equipment through a RESTful API</td><td valign="top">T01</td><td valign="top">API Endpoint para Añadir Equipos</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/equipments para permitir el registro de nuevos equipos</td><td valign="top">4</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Conectar el Formulario de Frontend para Añadir Equipos</td><td valign="top">Integrar el formulario de añadir equipos en el frontend con el nuevo endpoint API, manejar la validación y errores de duplicidad.</td><td valign="top">3</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E10-TS04</td><td rowspan="2" valign="top">Get equipment by ID through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Obtener Equipos por ID</td><td valign="top">` `Desarrollar el endpoint RESTful /api/v1/equipments/{id} para obtener información específica de un equipo existente.</td><td valign="top">3</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Conectar la Funcionalidad de Consulta de Equipos en el Frontend</td><td valign="top">` `Integrar la funcionalidad de consulta de equipos por ID en el frontend, asegurando que se muestren adecuadamente los datos del equipo o un mensaje de error cuando el equipo no exista.</td><td valign="top">3</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E13-TS22</td><td valign="top">Add Profile through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar un API Endpoint para Añadir Perfiles</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/profiles que permita añadir nuevos perfiles de usuario</td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E13-TS23</td><td valign="top">Get Profile by ID through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar un API Endpoint para Obtener Perfiles por ID</td><td valign="top">Implementar el endpoint RESTful /api/v1/profiles/{profileId} que permita obtener la información de perfiles específicos por su ID.</td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
 </table>
 
 **5.2.3.3. Development Evidence for Sprint Review.**
@@ -2784,9 +2795,9 @@ En este sprint, logramos como tercera fase de nuestro producto final, desarrolla
 
 Pantalla de muestra de la respuesta de nuestras pruebas a la API hecha con Spring Boot:
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.002.png)
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.002.png)
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.003.png)
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.003.png)
 
 **5.2.3.6. Services Documentation Evidence for Sprint Review.**
 
@@ -2795,28 +2806,28 @@ Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos 
 |**Bounded Context**|ASSETS AND INVENTORY MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Facilities|api/v1/facilities|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.004.png)|
-|Equipments|api/v1/grades|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.005.png)|
+|Facilities|api/v1/facilities|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.004.png)|
+|Equipments|api/v1/grades|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.005.png)|
 
 |**Bounded Context**|ADMINS MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Students|api/v1/students|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.006.png)|
-|Teachers|api/v1/teachers|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.007.png)|
-|Courses|api/v1/courses|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.008.png)|
-|Admins|api/v1/admins|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.009.png)|
-|Classrooms|api/v1/classrooms|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.010.png)|
+|Students|api/v1/students|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.006.png)|
+|Teachers|api/v1/teachers|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.007.png)|
+|Courses|api/v1/courses|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.008.png)|
+|Admins|api/v1/admins|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.009.png)|
+|Classrooms|api/v1/classrooms|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.010.png)|
 
 |**Bounded Context**|STUDENTS RECORDS MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Attendance|api/v1/attendance|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.011.png)|
-|Grades|api/v1/grades|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.012.png)|
+|Attendance|api/v1/attendance|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.011.png)|
+|Grades|api/v1/grades|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.012.png)|
 
 |**Bounded Context**|PROFILES MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Profiles|api/v1/profiles|![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.013.png)|
+|Profiles|api/v1/profiles|![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.013.png)|
 
 |**Bounded Context**|IDENTITY AND ACCESS MANAGEMENT||
 | :- | :- | :- |
@@ -2826,17 +2837,18 @@ Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos 
 
 La Base de Datos se desplegó en Railway:
 
-![](assets/Aspose.Words.6b210c41-a126-4e28-b4a8-a6fa5d533a87.001.png)![](assets/Aspose.Words.6b210c41-a126-4e28-b4a8-a6fa5d533a87.002.png)
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.014.png)![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.015.png)
 
 **5.2.3.8. Team Collaboration Insights during Sprint.**
 
 Durante este sprint, al igual que para el desarrollo de la landing page, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature“ para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.014.png)![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.015.png)
-
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.016.png)
-
 **Github analytics de nuestro tercer sprint:**
+
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.016.png)![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.017.png)
+
+![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.018.png)
+
 
 **5.3. Validation Interviews**
 
