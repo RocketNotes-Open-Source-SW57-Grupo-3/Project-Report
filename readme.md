@@ -40,69 +40,69 @@ Marzo de 2024-01
 **
 
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| :-: | :-: | :-: | :-: |
-|TB1|23/03/2024|Belen Ramos|Desarrollo del capítulo I: Startup Profile |
-|TB1|24/03/2024|Mateo Vilchez|Desarrollo del capítulo I: Solution Profile|
-|TB1|24/03/2024|Frida Dam|Desarrollo del capítulo I: Solution Profile|
-|TB1|24/03/2024|Mateo Vilchez|Desarrollo del capítulo I: Segmentos Objetivos|
-|TB1|26/03/2024|Nelson Serrano|Desarrollo del capítulo II: Competidores|
-|TB1|30/03/2024|Belen Ramos|Desarrollo del capítulo II: Entrevistas|
-|TB1|31/03/2024|Andre La Torre|Desarrollo del capítulo II: Needfinding|
-|TB1|01/04/2024|Andre La Torre|Desarrollo del capítulo III: To-Be Scenario Mapping|
-|TB1|07/04/2024|Frida Dam|Desarrollo del capítulo III: User Stories|
-|TB1|08/04/2024|Belen Ramos|Desarrollo del capítulo III: User Stories|
-|TB1|08/04/2024|Mateo Vilchez|Desarrollo del capítulo III: Impact Mapping|
-|TB1|09/04/2024|Nelson Serrano|Desarrollo del capítulo III:Product Backlog |
-|TB1|11/04/2024|Frida Dam|Desarrollo del capítulo IV: Style Guidelines|
-|TB1|12/04/2024|Frida Dam|Desarrollo del capítulo IV: Information Architecture.|
-|TB1|09/04/2024|Mateo Vilchez|Desarrollo del capítulo IV: Landing Page UI Design|
-|TB1|10/04/2024|Mateo Vilchez|Desarrollo del capítulo IV: Web Applications UX/UI Design|
-|TB1|12/04/2024|Frida Dam|Desarrollo del capítulo IV: Web Applications Prototyping|
-|TB1|10/04/2024|Nelson Serrano|Desarrollo del capítulo IV: Domain-Driven Software Architecture|
-|TB1|13/04/2024|Belen Ramos|Desarrollo del capítulo IV: Software Object-Oriented Design. |
-|TB1|13/04/2024|Belen Ramos|Desarrollo del capítulo IV: Database Design|
-|TB1|13/04/2024|Mateo Vilchez|Desarrollo del capítulo V: Software Configuration Management.|
-|TB1|13/04/2024|Nelson Serrano|Desarrollo del capítulo V: Software Configuration Management.|
+|**Versión**|**Fecha**|**Autor**|                        **Descripción de modificación**                         |
+| :-: | :-: | :-: |:------------------------------------------------------------------------------:|
+|TB1|23/03/2024|Belen Ramos|                   Desarrollo del capítulo I: Startup Profile                   |
+|TB1|24/03/2024|Mateo Vilchez|                  Desarrollo del capítulo I: Solution Profile                   |
+|TB1|24/03/2024|Frida Dam|                  Desarrollo del capítulo I: Solution Profile                   |
+|TB1|24/03/2024|Mateo Vilchez|                 Desarrollo del capítulo I: Segmentos Objetivos                 |
+|TB1|26/03/2024|Nelson Serrano|                    Desarrollo del capítulo II: Competidores                    |
+|TB1|30/03/2024|Belen Ramos|                    Desarrollo del capítulo II: Entrevistas                     |
+|TB1|31/03/2024|Andre La Torre|                    Desarrollo del capítulo II: Needfinding                     |
+|TB1|01/04/2024|Andre La Torre|              Desarrollo del capítulo III: To-Be Scenario Mapping               |
+|TB1|07/04/2024|Frida Dam|                   Desarrollo del capítulo III: User Stories                    |
+|TB1|08/04/2024|Belen Ramos|                   Desarrollo del capítulo III: User Stories                    |
+|TB1|08/04/2024|Mateo Vilchez|                  Desarrollo del capítulo III: Impact Mapping                   |
+|TB1|09/04/2024|Nelson Serrano|                  Desarrollo del capítulo III:Product Backlog                   |
+|TB1|11/04/2024|Frida Dam|                  Desarrollo del capítulo IV: Style Guidelines                  |
+|TB1|12/04/2024|Frida Dam|             Desarrollo del capítulo IV: Information Architecture.              |
+|TB1|09/04/2024|Mateo Vilchez|               Desarrollo del capítulo IV: Landing Page UI Design               |
+|TB1|10/04/2024|Mateo Vilchez|           Desarrollo del capítulo IV: Web Applications UX/UI Design            |
+|TB1|12/04/2024|Frida Dam|            Desarrollo del capítulo IV: Web Applications Prototyping            |
+|TB1|10/04/2024|Nelson Serrano|        Desarrollo del capítulo IV: Domain-Driven Software Architecture         |
+|TB1|13/04/2024|Belen Ramos|          Desarrollo del capítulo IV: Software Object-Oriented Design.          |
+|TB1|13/04/2024|Belen Ramos|                  Desarrollo del capítulo IV: Database Design                   |
+|TB1|13/04/2024|Mateo Vilchez|         Desarrollo del capítulo V: Software Configuration Management.          |
+|TB1|13/04/2024|Nelson Serrano|         Desarrollo del capítulo V: Software Configuration Management.          |
 |TB1|14/04/2024|Nelson Serrano|Desarrollo del capítulo V: Landing Page, Services & Applications Implementation.|
 |TB1|14/04/2024|Andre La Torre|Desarrollo del capítulo V: Landing Page, Services & Applications Implementation.|
-|TP|27/04/2024|Frida Dam|Corrección del Solution Profile: Lean UX Canvas|
-|TP|27/04/2024|Nelson Serrano|Corrección del capítulo V: Landing Page|
-|TP|26/04/2024|Belen Ramos|Corrección del capítulo II: Entrevistas|
-|TP|26/04/2024|Andre La Torre|Corrección del capítulo II: Needfinding|
-|TP|27/04/2024|Mateo Vilchez|Corrección del capítulo III: Impact Mapping|
-|TP|27/04/2024|Mateo Vilchez|Corrección del capítulo IV: Web Applications UX/UI Design|
-|TP|01/05/2024|Belen Ramos|Desarrollo de User Stories: Technicals Stories|
-|TB2|07/06/2024|Frida Dam|Desarrollo de EndPoint: Bounded Context - Profiles Management|
-|TB2|07/06/2024|Belen Ramos|Desarrollo de EndPoint: Bounded Context - Admins Management|
-|TB2|07/06/2024|Mateo Vilchez|Desarrollo de EndPoint: Bounded Context - Assets and Inventory Management|
-|TB2|07/06/2024|Nelson Serrano|Desarrollo de EndPoint: Bounded Context - Admins Management|
-|TB2|07/06/2024|Andre La Torre|Desarrollo de EndPoint: Bounded Context - Students Records Management|
-|TB2|07/06/2024|Mateo Vilchez|Avance de EndPoint: Bounded Context - Identity and Access Management|
-|TB2|07/06/2024|Belen Ramos|Desarrollo de Validation Interviews|
-|TB2|09/06/2024|Belen Ramos|Desarrollo Video About-the-Team|
-|TB2|09/06/2024|Mateo Vilchez|Desarrollo Video About-the-Team|
-|TB2|09/06/2024|Andre La Torre|Desarrollo Video About-the-Team|
-|TB2|09/06/2024|Nelson Serrano|Desarrollo Video About-the-Team|
-|TB2|09/06/2024|Frida Dam|Desarrollo Video About-the-Team|
-|TB2|09/06/2024|Nelson Serrano|Desarrollo Video About-the-Product:<br>Landing Page and Front-End|
-|TB2|09/06/2024|Mateo Vilchez|Desarrollo Video About-the-Product:<br>Back-End|
-|TF|25/06/2024|Belen Ramos|Desarrollo Video About-the-Team|
-|TF|25/06/2024|Mateo Vilchez|Desarrollo Video About-the-Team|
-|TF|25/06/2024|Andre La Torre|Desarrollo Video About-the-Team|
-|TF|25/06/2024|Nelson Serrano|Desarrollo Video About-the-Team|
-|TF|25/06/2024|Frida Dam|Desarrollo Video About-the-Team|
-|TF|25/06/2024|Belen Ramos|Desarrollo Final de Landing-Page|
-|TF|25/06/2024|Belen Ramos|Corrección User Stories y Technicals Stories|
-|TF|25/06/2024|Mateo Vilchez|Desarrollo Final de Bounded Admin Management|
-|TF|25/06/2024|Andre La Torre|Desarrollo Final de Student Record Management|
-|TF|25/06/2024|Nelson Serrano|Desarrollo Final de Bounded Identity and Access Management|
-|TF|25/06/2024|Mateo Vilchez|Desarrollo Final de Profiles Management|
-|TF|25/06/2024|Nelson Serrano|Despliegue del Backend - Railway|
-|TF|25/06/2024|Nelson Serrano|Despliegue de la Base de Datos - Railway|
-|TF|25/06/2024|Nelson Serrano|Despliegue del Frontend - FireBase|
-|TF|25/06/2024|Belen Ramos|Desarrollo Final de Bounded Assets and Inventory Management|
-|TF|25/06/2024|Belen Ramos|Corrección Internacionalización Landing Page|
+|TP|27/04/2024|Frida Dam|                Corrección del Solution Profile: Lean UX Canvas                 |
+|TP|27/04/2024|Nelson Serrano|                    Corrección del capítulo V: Landing Page                     |
+|TP|26/04/2024|Belen Ramos|                    Corrección del capítulo II: Entrevistas                     |
+|TP|26/04/2024|Andre La Torre|                    Corrección del capítulo II: Needfinding                     |
+|TP|27/04/2024|Mateo Vilchez|                  Corrección del capítulo III: Impact Mapping                   |
+|TP|27/04/2024|Mateo Vilchez|           Corrección del capítulo IV: Web Applications UX/UI Design            |
+|TP|01/05/2024|Belen Ramos|                 Desarrollo de User Stories: Technicals Stories                 |
+|TB2|07/06/2024|Frida Dam|         Desarrollo de EndPoint: Bounded Context - Profiles Management          |
+|TB2|07/06/2024|Belen Ramos|          Desarrollo de EndPoint: Bounded Context - Admins Management           |
+|TB2|07/06/2024|Mateo Vilchez|   Desarrollo de EndPoint: Bounded Context - Assets and Inventory Management    |
+|TB2|07/06/2024|Nelson Serrano|          Desarrollo de EndPoint: Bounded Context - Admins Management           |
+|TB2|07/06/2024|Andre La Torre|     Desarrollo de EndPoint: Bounded Context - Students Records Management      |
+|TB2|07/06/2024|Mateo Vilchez|      Avance de EndPoint: Bounded Context - Identity and Access Management      |
+|TB2|07/06/2024|Belen Ramos|                      Desarrollo de Validation Interviews                       |
+|TB2|09/06/2024|Belen Ramos|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Mateo Vilchez|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Andre La Torre|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Nelson Serrano|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Frida Dam|                        Desarrollo Video About-the-Team                         |
+|TB2|09/06/2024|Nelson Serrano|       Desarrollo Video About-the-Product:<br>Landing Page and Front-End        |
+|TB2|09/06/2024|Mateo Vilchez|                Desarrollo Video About-the-Product:<br>Back-End                 |
+|TF|25/06/2024|Belen Ramos|                        Desarrollo Video About-the-Team                         |
+|TF|25/06/2024|Mateo Vilchez|                        Desarrollo Video About-the-Team                         |
+|TF|25/06/2024|Andre La Torre|                        Desarrollo Video About-the-Team                         |
+|TF|25/06/2024|Nelson Serrano|                        Desarrollo Video About-the-Team                         |
+|TF|25/06/2024|Frida Dam|                        Desarrollo Video About-the-Team                         |
+|TF|25/06/2024|Belen Ramos|                        Desarrollo Final de Landing-Page                        |
+|TF|25/06/2024|Belen Ramos|                  Corrección User Stories y Technicals Stories                  |
+|TF|25/06/2024|Mateo Vilchez|                  Desarrollo Final de Bounded Admin Management                  |
+|TF|25/06/2024|Andre La Torre|                 Desarrollo Final de Student Record Management                  |
+|TF|25/06/2024|Nelson Serrano|           Desarrollo Final de Bounded Identity and Access Management           |
+|TF|25/06/2024|Mateo Vilchez|                    Desarrollo Final de Profiles Management                     |
+|TF|25/06/2024|Nelson Serrano|                        Despliegue del Backend - Railway                        |
+|TF|25/06/2024|Nelson Serrano|                    Despliegue de la Base de Datos - Railway                    |
+|TF|25/06/2024|Nelson Serrano|                       Despliegue del Frontend - FireBase                       |
+|TF|25/06/2024|Belen Ramos|          Desarrollo Final de Bounded Assets and Inventory Management           |
+|TF|25/06/2024|Belen Ramos|                  Corrección Internacionalización Landing Page                  |
 
 **Student Outcome**
 
