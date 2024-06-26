@@ -2875,7 +2875,7 @@ A continuación, se mostrará el cuarto sprint planning, en el cual se exhibirá
 
 El Sprint 4 se centra en robustecer la experiencia de usuario en nuestra plataforma mediante la mejora y expansión de las funcionalidades de registro y sesión de usuario, la integración de videos informativos sobre el equipo y el producto, así como la implementación de soporte multilingüe. Este sprint ha sido crucial para asegurar una interacción fluida y accesible para nuestros usuarios, abordando desde el registro y la autenticación hasta la personalización del contenido según las preferencias lingüísticas del usuario.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.001.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.001.png)
 
 **Trello: <https://trello.com/b/2t1zVGjk>**
 
@@ -2961,7 +2961,7 @@ En este sprint, logramos como cuarta fase de nuestro producto final, desarrollar
 
 **Muestra de nuestra API hecha con Spring Boot y Java:**
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.002.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.002.png)
 
 **Enlace: <https://rocketnotes.up.railway.app/swagger-ui/index.html>**
 
@@ -2970,21 +2970,21 @@ En la landing page se agregaron los videos de About-the-product y About-the-team
 Pantalla de muestra de lo alcanzado en este Sprint:
 
 Implementación de Identity and Access Management
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.003.jpeg)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.003.jpeg)
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.004.jpeg)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.004.jpeg)
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.005.jpeg)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.005.jpeg)
 
 Implementación de Assets and Inventory Management
-` `![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.006.png)
+` `![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.006.png)
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.007.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.007.png)
 
 Implementación de Admin Management
-` `![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.008.png)
+` `![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.008.png)
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.009.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.009.png)
 
 **5.2.4.6. Services Documentation Evidence for Sprint Review.**
 
@@ -2993,35 +2993,35 @@ Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos 
 |**Bounded Context**|ASSETS AND INVENTORY MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Facilities|api/v1/facilities|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.010.png)|
-|Equipments|api/v1/equipments|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.011.png)|
+|Facilities|api/v1/facilities|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.010.png)|
+|Equipments|api/v1/equipments|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.011.png)|
 
 |**Bounded Context**|ADMINS MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Students|api/v1/students|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.012.png)|
-|Teachers|api/v1/teachers|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.013.png)|
-|Courses|api/v1/courses|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.014.png)|
-|Admins|api/v1/admins|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.015.png)|
-|Classrooms|api/v1/classrooms|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.016.png)|
+|Students|api/v1/students|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.012.png)|
+|Teachers|api/v1/teachers|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.013.png)|
+|Courses|api/v1/courses|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.014.png)|
+|Admins|api/v1/admins|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.015.png)|
+|Classrooms|api/v1/classrooms|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.016.png)|
 
 |**Bounded Context**|STUDENTS RECORDS MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Attendance|api/v1/attendance|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.017.png)|
-|Grades|api/v1/grades|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.018.png)|
+|Attendance|api/v1/attendance|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.017.png)|
+|Grades|api/v1/grades|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.018.png)|
 
 |**Bounded Context**|PROFILES MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Profiles|api/v1/profiles|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.019.png)|
+|Profiles|api/v1/profiles|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.019.png)|
 
 |**Bounded Context**|IDENTITY AND ACCESS MANAGEMENT||
 | :- | :- | :- |
 |**Entity**|**Endpoint URL**|**Swagger**|
-|Authentication|api/v1/authentication|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.020.png)|
-|Roles|api/v1/roles|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.021.png)|
-|Users|api/v1/users|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.022.png)|
+|Authentication|api/v1/authentication|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.020.png)|
+|Roles|api/v1/roles|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.021.png)|
+|Users|api/v1/users|![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.022.png)|
 
 **5.2.4.7. Software Deployment Evidence for Sprint Review.**
 
@@ -3029,31 +3029,31 @@ Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos 
 
 Selección de Base de Datos Relacional MySQL.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.023.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.023.png)
 
 Despliegue de la Base de Datos.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.024.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.024.png)
 
 Obtención de variables para configuración con Backend.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.025.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.025.png)
 
 **El Backend se desplegó en Railway:**
 
 Selección de Repositorio mediante Github.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.026.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.026.png)
 
 Despliegue del repositorio de Github.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.027.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.027.png)
 
 Implementación de variables y configuración con la Base de Dato MySQL
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.028.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.028.png)
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.029.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.029.png)
 
 **5.2.4.8. Team Collaboration Insights during Sprint.** 
 
@@ -3068,14 +3068,14 @@ Durante este sprint, enfocamos nuestros esfuerzos en completar e implementar tan
 
 
 **Github analytics de nuestro cuarto sprint Landing Page:
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.030.png)**
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.030.png)**
 
 **Github analytics de nuestro cuarto sprint Backend:
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.031.png)**
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.031.png)**
 
 **Github analytics de nuestro cuarto sprint Frontend:**
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.032.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.032.png)
 
 **5.3. Validation Interviews**
 
@@ -3121,7 +3121,7 @@ En esta sección, se proporciona el registro detallado de las entrevistas realiz
 
 **Ocupación:** Profesor de matemáticas en una institución privada de Paiján
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.033.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.033.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3153,7 +3153,7 @@ La entrevista revela la necesidad de mejoras en la usabilidad y funcionalidad de
 
 **Ocupación:** Docente del nivel secundario
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.034.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.034.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3184,7 +3184,7 @@ La entrevista con la profesora Tatiana Cabrera Goicoechea destaca la necesidad d
 
 **Ocupación:** Docente en un colegio particular de Paiján
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.035.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.035.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3216,7 +3216,7 @@ Juan Carlos no identificó mejoras específicas en las funcionalidades presentad
 
 **Ocupación:** Promotora de una institución educativa
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.036.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.036.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3249,7 +3249,7 @@ La entrevista con Graciela Rocío Ríos Alza destaca la necesidad de incorporar 
 
 **Ocupación:** Docente del nivel secundario, además de desempeñarse en la parte administrativa de una institución educativa
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.037.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.037.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3280,7 +3280,7 @@ La entrevista con Ramón Chumpitazi, Max Paul, destaca la necesidad de incorpora
 
 **Ocupación:** Docente y directora de un colegio privado
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.038.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.038.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3390,7 +3390,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En este video que se presenta a continuación, nosotros, el equipo de Five Star, describimos el contenido de nuestra aplicación Rocket Notes. Este video está dirigido tanto a los visitantes de nuestra landing page, que desean conocer sobre nuestro modelo de negocio y las características principales de nuestro software, como a los usuarios de las aplicaciones que buscan realizar tareas relacionadas con los procesos soportados por nuestra solución.
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.039.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.039.png)
 
 **URLs de las versiones publicadas**
 
@@ -3413,7 +3413,7 @@ En este video que se presenta a continuación, nosotros, el equipo de Five Star,
 
 **Video About-the-Team**
 
-![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.040.png)
+![](assets/Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.040.png)
 
 **URLs de las versiones publicadas**
 
