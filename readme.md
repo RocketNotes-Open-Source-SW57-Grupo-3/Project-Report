@@ -1100,7 +1100,7 @@ El lenguaje ubicuo tiene los siguientes beneficios:
 - tuition(matrícula): monto cobrado mensualmente a cada alumno, el estado depende de cuánto tiempo ha pasado desde el cobro
 - Excused departure(salidas): salidas de los alumnos de clase monitoreadas por profesores o administrativos, razones válidas podrían ser, visita con el psicólogo del colegio, salidas solicitadas por apoderados con propósito de visita médica o salidas a la enfermería
 
-## **Capítulo III: Requirements Specification** 
+## **Capítulo III: Requirements Specification**
 
 ### **3.1. To-Be Scenario Mapping.**
 
