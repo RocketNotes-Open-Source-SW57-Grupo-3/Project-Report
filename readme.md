@@ -3446,24 +3446,24 @@ Farrell, D. (2019). *Building Modern Web Applications with Angular and Spring Bo
 
 **Anexo A: Videos de Exposiciones**
 
-**TB1: <https://lc.cx/XJnP4y>**
+**TB1: <https://lc.cx/XJnP4y>** 
 
-**TP:** <https://lc.cx/-JcyeR>
+**TP:** <https://lc.cx/-JcyeR> 
 
-**TB2:** [upc-pre-202401-si729-SW57-Rocket-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/Ed17cBSKOJdFrnwMiWVPGcQBumd4bXJjjbcLGkFp93SnKA?e=tJKkBl)
+**TB2:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/Ed17cBSKOJdFrnwMiWVPGcQBumd4bXJjjbcLGkFp93SnKA?e=tJKkBl>
 
 **TF: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EfFpk0q8-CxCvqSqL01LBOAB4uSVULGTZRdrrj3bo1IXcQ?e=PsWv0z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>**
 
 About-the-Product:
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/mb9y2CNZKCs>** 
-- **Microsoft Stream: [https://lc.cx/Dn0FAH**](https://lc.cx/Dn0FAH)**
+- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)https://youtu.be/Oj\_0vCletRY**
+- **Microsoft Stream: <https://lc.cx/qmfXC0>**
 
 
 About-the-team:
 
 - **YouTube: [https://youtu.be/lyyJ-1SA2C4**](https://youtu.be/lyyJ-1SA2C4)**
-- **Microsoft Stream**: [**https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Microsoft Stream**: [**https://lc.cx/aWJ9r7](https://lc.cx/aWJ9r7)**
 
 **Anexo B: C4 MODEL**
 
@@ -3476,5 +3476,3 @@ About-the-team:
 **Anexo E:** LINK TRELLO: <https://trello.com/b/fHKD9Uys/product-backlog>
 
 **Anexo F:** LINK LEAN UX CANVAS: <https://miro.com/welcomeonboard/NEdsWTNwa0FKdWVGUmlFUEJ6R3dldkpBRHNxRmNIeEdhNWVDNHhoRnBlZENuSElYbm1hN3JjNFNwOUJpdUIzWHwzNDU4NzY0NTIzMzkyNDUwNjk1fDI=?share_link_id=776423401253>
-
-
