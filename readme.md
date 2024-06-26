@@ -2850,6 +2850,233 @@ Durante este sprint, al igual que para el desarrollo de la landing page, para pr
 ![](assets/Aspose.Words.1a72e1ba-6dc7-41cb-8928-3e1f444566fd.018.png)
 
 
+**5.2.4. Sprint 4**
+
+**5.2.4.1. Sprint Planning 4**
+
+A continuación, se mostrará el cuarto sprint planning, en el cual se exhibirán la planificación e implementación de la sección backend del proyecto. Además, de los progresos y los insights sobre la colaboración del equipo utilizando Github.
+
+|Sprint #|Sprint 4|
+| - | - |
+|Sprint Planning Background||
+|Date|` `17 de junio del 2024|
+|Time|11:55 horas (GMT -5)|
+|Location|Modalidad remota |
+|Prepared By|Serrano Ircañaupa, Nelson Elías.|
+|Attendees (to planning meeting)|<p>Dam Rubianes, Frida Sofía,</p><p>La Torre Soto, André Sebastian,</p><p>Vilchez Rios, Mateo Alejandro, </p><p>Ramos Rios, Belen del Rocio,</p><p>Serrano Ircañaupa, Nelson Elías.</p><p></p>|
+|Sprint n – 4 Review Summary|Se hicieron las conexiones entre el back end y front end del proyecto además de abordar secciones pendientes  que estaban en proceso del Sprint 3.|
+|Sprint n – 4 Retrospective Summary|Se concluyó el desarrollo del back end|
+|Sprint Goal & User Stories||
+|Sprint 4 Goal|El objetivo principal para este sprint es conectar los endpoints del back end al front end. Buscando errores o cualquier elemento que genere algún conflicto. Al finalizar este sprint, el front y back end de este proyecto deben estar conectados, desplegados y funcionales.|
+|Sprint 4 Velocity|63|
+|Sum of Story Points|61|
+
+**5.2.4.2. Sprint Backlog 4**
+
+El Sprint 4 se centra en robustecer la experiencia de usuario en nuestra plataforma mediante la mejora y expansión de las funcionalidades de registro y sesión de usuario, la integración de videos informativos sobre el equipo y el producto, así como la implementación de soporte multilingüe. Este sprint ha sido crucial para asegurar una interacción fluida y accesible para nuestros usuarios, abordando desde el registro y la autenticación hasta la personalización del contenido según las preferencias lingüísticas del usuario.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.001.png)
+
+**Trello: <https://trello.com/b/2t1zVGjk>**
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #4</b></th><th colspan="6" valign="top"><b>Sprint 4</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Tittle</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status</b></td></tr>
+<tr><td rowspan="3" valign="top">E1-US01</td><td rowspan="3" valign="top">Registro de un nuevo usuario</td><td valign="top">T01</td><td valign="top">Registro exitoso de un nuevo usuario en la aplicación</td><td valign="top">Desarrollar un formulario para registrar un nuevo usuario exitosamente.</td><td valign="top">3</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Intento de registro con un correo electrónico ya registrado</td><td valign="top">Desarrollar la funcionalidad para manejar intentos de registro con un correo electrónico ya registrado.</td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T03</td><td valign="top">Registro con datos incompletos</td><td valign="top">Desarrollar un formulario para manejar intentos de registro con datos incompletos.</td><td valign="top">3</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">E1-US02</td><td rowspan="3" valign="top">Inicio de Sesión de Usuario Registrado</td><td valign="top">T01</td><td valign="top">Inicio de sesión exitoso</td><td valign="top">Desarrollar un formulario para un inicio de sesión exitoso.</td><td valign="top">3</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Inicio de sesión con credenciales incorrectas</td><td valign="top">Desarrollar un formulario para manejar intentos de inicio de sesión con credenciales incorrectas.</td><td valign="top">4</td><td valign="top">Andre</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T03</td><td valign="top">Intento de inicio de sesión con campos vacíos</td><td valign="top">Desarrollar un formulario para manejar intentos de inicio de sesión con campos vacíos.</td><td valign="top">3</td><td valign="top">Andre</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E13-US28</td><td rowspan="2" valign="top">Vídeo Sobre el Equipo</td><td valign="top">T01</td><td valign="top">About us Section</td><td valign="top">Desarrollar la Sección About us</td><td valign="top">3</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Integrar vídeo en la sección</td><td valign="top">Implementar la funcionalidad para mostrar el vídeo en la sección "About US" de la página web.</td><td valign="top">3</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">E13-US29</td><td rowspan="2" valign="top">Vídeo Sobre el Producto</td><td valign="top">T01</td><td valign="top">About the product  Section</td><td valign="top">Desarrollar la Sección About the product en la landing page</td><td valign="top">3</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Integrar vídeo en la sección</td><td valign="top">Implementar la funcionalidad para mostrar el vídeo en la sección "Sobre el Producto" de la página web.</td><td valign="top">1</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">E14-US30</td><td rowspan="3" valign="top">Soporte para el Idioma Español</td><td valign="top">T01</td><td valign="top">Implementar selector de idioma en la aplicación</td><td valign="top">Desarrollar la funcionalidad para seleccionar el idioma español desde un selector de idioma en la página de inicio.</td><td valign="top">1</td><td valign="top">Belen</td><td valign="top">In-Process</td></tr>
+<tr><td valign="top">T02</td><td valign="top">Traducir contenido al español</td><td valign="top">Traducir todos los elementos de navegación, contenido, etiquetas, mensajes y texto de ayuda al español.</td><td valign="top">3</td><td valign="top">Mateo</td><td valign="top">In-Process</td></tr>
+<tr><td valign="top">T03</td><td valign="top">Integrar traducciones en la aplicación</td><td valign="top">Integrar las traducciones en la aplicación para que el contenido se muestre en español cuando se seleccione.</td><td valign="top">3</td><td valign="top">Mateo</td><td valign="top">In-Process</td></tr>
+<tr><td valign="top">E10-TS24</td><td valign="top">Update a Facility through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Añadir Instalaciones</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/facilities que permita añadir nuevas instalaciones</td><td valign="top">4</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E10-TS25</td><td valign="top">Delete a Facility through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Instalaciones</td><td valign="top">Desarrollar el endpoint RESTful <i>/api/v1/facilities/{facilityId}</i> que permita eliminar instalaciones existentes. </td><td valign="top">3</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E10-TS26</td><td valign="top">Update Equipment through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Actualizar Equipos</td><td valign="top">` `Desarrollar el endpoint RESTful /api/v1/equipments/{equipmentId} que permita actualizar los detalles de equipos existentes.</td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E10-TS27</td><td valign="top">Delete Equipment through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Equipos</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/equipments/{equipmentId} que permita eliminar equipos del inventario</td><td valign="top">5</td><td valign="top">Belén</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E11-TS28</td><td valign="top">Update a Student through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Actualizar Estudiantes</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/students/{studentId} que permita actualizar los detalles de los estudiantes existentes</td><td valign="top">4</td><td valign="top">Belen</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E11-TS29</td><td valign="top">Delete a Student through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Estudiantes</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/students/{studentId} que permita eliminar registros de estudiantes que ya no asisten o se han graduado.</td><td valign="top">5</td><td valign="top">Frida</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E11-TS30</td><td valign="top">Update a Teacher through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Actualizar Profesores</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/teachers/{teacherId} que permita actualizar los detalles de los profesores existentes. </td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E11-TS31</td><td valign="top">Delete a Teacher through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Profesores</td><td valign="top">` `Desarrollar el endpoint RESTful /api/v1/teachers/{teacherId} que permita eliminar registros de profesores que ya no están empleados o se han retirado.</td><td valign="top">4</td><td valign="top">Andre</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E11-TS32</td><td valign="top"><p>Delete an Admin through a RESTful API</p><p></p></td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Administradores</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/admins/{adminId} que permita eliminar registros de administradores que ya no están empleados o han dejado la organización. </td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E16-TS33</td><td valign="top">Add a User through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Añadir Usuarios</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/users para registrar nuevos usuarios. </td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E16-TS34</td><td valign="top">Update a User through a RESTful API</td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Actualizar Usuarios</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/users/{userId} para actualizar detalles de usuarios existentes.</td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E16-TS35</td><td valign="top"><p>Delete a User through a RESTful API</p><p></p></td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Eliminar Usuarios</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/users/{userId} para eliminar usuarios.</td><td valign="top">4</td><td valign="top">Mateo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E16-TS36</td><td valign="top"><p>Get a User by ID through a RESTful API</p><p></p></td><td valign="top">T01</td><td valign="top">Implementar API Endpoint para Obtener Usuarios por ID</td><td valign="top">Desarrollar el endpoint RESTful /api/v1/users/{userId} para recuperar detalles de usuarios por su ID.</td><td valign="top">4</td><td valign="top">Nelson</td><td valign="top">Done</td></tr>
+</table>
+
+**5.2.4.3. Development Evidence for Sprint Review.**
+
+
+
+|Repository|Branch| Commit Id                              |Commit Message|Commit Message Body|Committed on (Date)|
+| :- | :- |:---------------------------------------| :- | :- | :- |
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 0d21a778c858f2efdf2c0bba328cc78dcca3d1ef|update facilities resource||2024-06-25 20:09:01+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 2364169ee1f94c3f96027cc4329d48b4b5d47087|chore(admins): updating Put mapping commands||2024-06-25 18:15:20+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| ed55b0b4e21cabc3c4aecb9a7b15c549efa962cf|chore(admins): updating Put mapping commands||2024-06-25 18:14:57+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 32cf50def9b5973ef4ea76feebb4dd3126432fea|chore(admins): updating Put mapping commands||2024-06-25 18:14:18+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 207acd27e9dcb356fed336ff5c35ca975362993d|chore(admins): updating put features||2024-06-25 17:46:32+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| adcbfab875d435089c40757b8257d4635d356e3a|feat(admins): added new delete commands for admins and delete and put commands for students and teachers.||2024-06-25 05:53:42+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| f863efdfe08ce2fa4a98633c01c0d3e493c63c8d|feat(admins): added new delete commands for teachers, students and admins.||2024-06-22 22:54:17+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 17d36d85a1c06d47ceb22a8c514ed72e7da3bcd2|fix update faciltite||2024-06-22 15:53:18+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| aff086895b56fd80c13b35f033fc72c958941bbc|FIX UPDATE EQUIPMENT||2024-06-22 13:44:03+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| bfb0072f4425ab6fa9a82ac8373d95162f36495c|adding update of equipment||2024-06-22 04:18:39+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 9fb9b1690afa32f2a6df5d2fece259394507dbcf|equipment and facilities update||2024-06-22 02:35:15+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| dd58d9a6c00c6988dad9f6fb20b9b2351a4b73df|adding IAM||2024-06-21 23:27:01+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 06c18af81b6a097d25a3140e51ee205446508f63|feat: update config properties||2024-06-20 23:17:27+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 80d6c322088a5f06466322d2b99efd31b5193945|Add or update the Azure App Service build and deployment workflow config||2024-06-20 22:44:50+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes\_Backend|develop| 4928b132bba795ecb6a0fe99d19e39748e0f4f6f|Add or update the Azure App Service build and deployment workflow config||2024-06-19 21:29:01+00:00|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 607f5eb7e14a67f3274e2a5699ee653aee039d9e|fix: Fixed classroom-courses page||2024-06-20|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 879506cd5a8791fd61f61cd53d0da3cfb623a7a1|first Implements Maintenance||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 376c70c764142cc2c6ae1e81d497b0a7d673097c|implements students||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| abc2a336a37fcf46fe930c6afe23b6425ef766b9|chore: update authentication forms||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 1b8e47c946649c5ebc0cd9ce6ac9010fc2ba2075|implement teachers||2024-06-25|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| dcf45003aa0335287a9c4f807098fc61ecf03883|update students||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 665bf258f7a369bf3c3610aad959fd207d2946d4|chore: update password-reset-request.component.ts and register.component.ts logic for the api||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 48944608ead9f1ec24adad7a234a6b61c14ca1ba|fix list of students||2024-06-24|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 3ca7effd7fcbfbd149f30af2124ee65856d98ab3|Implements equipment to backend||2024-06-25|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 4c6350c34efb948f9e98710d34550cafa7581b92|fixing bugs of teachers and students||2024-06-25|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-Front\_End|develop\_final| 33c0f31b91892e86de05f7a71f22df143a0ac9dc|fix bugs for both||2024-06-25|
+
+
+
+**5.2.4.4. Testing Suite Evidence for Sprint Review.**
+
+Durante el Sprint 4, se efectuaron pruebas de aceptación utilizando Gherkin para las User Stories y Technical Stories, permitiendo validar que las funcionalidades de la API web cumplieran con los requisitos especificados. Estas pruebas definieron escenarios detallados que facilitaron la comprensión y validación del comportamiento esperado. Sin embargo, cabe destacar que en este sprint no se implementaron pruebas unitarias o de integración en el backend de la API web.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Committed on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-acceptance-test|main|2791e076ac92004cea6eb523a45bd1b3f639dabb|adding technicals stories||2024-06-26|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-acceptance-test|main|d47aeadc96513d4326913ec3aa8b0d6d544b8217|adding techniclas stories||2024-06-25|
+|RocketNotes-Open-Source-SW57-Grupo-3/RocketNotes-acceptance-test|main|8367aa1497dde2b7295c983f39c8c14f8568da54|update acceptanse test||2024-06-25|
+
+**5.2.4.5. Execution Evidence for Sprint Review.**
+
+En este sprint, logramos como cuarta fase de nuestro producto final, desarrollar el resto de vistas de nuestra aplicación web usando Angular y Angular Material, en conjunto con una API hecha con Spring Boot y Java. Esta combinación nos permitió crear una aplicación robusta y eficiente, asegurando una integración fluida entre el front-end y el back-end.
+
+**Muestra de nuestra API hecha con Spring Boot y Java:**
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.002.png)
+
+**Enlace: <https://rocketnotes.up.railway.app/swagger-ui/index.html>**
+
+En la landing page se agregaron los videos de About-the-product y About-the-team, para que los visitantes puedan conocer mejor nuestro producto mostrando un video promocional y un video de equipo, con nuestra nueva version de la aplicación: [https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/](https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/#pricing)
+
+Pantalla de muestra de lo alcanzado en este Sprint:
+
+Implementación de Identity and Access Management
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.003.jpeg)
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.004.jpeg)
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.005.jpeg)
+
+Implementación de Assets and Inventory Management
+` `![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.006.png)
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.007.png)
+
+Implementación de Admin Management
+` `![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.008.png)
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.009.png)
+
+**5.2.4.6. Services Documentation Evidence for Sprint Review.**
+
+Para este sprint utilizamos los servicios de la API que nosotros mismos hicimos con Java en Spring Boot. A continuación, mostramos todos los endpoints realizados por nuestro equipo por cada Bounded Context correctamente documentados en Swagger.
+
+|**Bounded Context**|ASSETS AND INVENTORY MANAGEMENT||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Facilities|api/v1/facilities|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.010.png)|
+|Equipments|api/v1/equipments|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.011.png)|
+
+|**Bounded Context**|ADMINS MANAGEMENT||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Students|api/v1/students|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.012.png)|
+|Teachers|api/v1/teachers|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.013.png)|
+|Courses|api/v1/courses|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.014.png)|
+|Admins|api/v1/admins|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.015.png)|
+|Classrooms|api/v1/classrooms|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.016.png)|
+
+|**Bounded Context**|STUDENTS RECORDS MANAGEMENT||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Attendance|api/v1/attendance|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.017.png)|
+|Grades|api/v1/grades|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.018.png)|
+
+|**Bounded Context**|PROFILES MANAGEMENT||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Profiles|api/v1/profiles|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.019.png)|
+
+|**Bounded Context**|IDENTITY AND ACCESS MANAGEMENT||
+| :- | :- | :- |
+|**Entity**|**Endpoint URL**|**Swagger**|
+|Authentication|api/v1/authentication|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.020.png)|
+|Roles|api/v1/roles|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.021.png)|
+|Users|api/v1/users|![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.022.png)|
+
+**5.2.4.7. Software Deployment Evidence for Sprint Review.**
+
+**La Base de Datos se desplegó en Railway:**
+
+Selección de Base de Datos Relacional MySQL.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.023.png)
+
+Despliegue de la Base de Datos.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.024.png)
+
+Obtención de variables para configuración con Backend.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.025.png)
+
+**El Backend se desplegó en Railway:**
+
+Selección de Repositorio mediante Github.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.026.png)
+
+Despliegue del repositorio de Github.
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.027.png)
+
+Implementación de variables y configuración con la Base de Dato MySQL
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.028.png)
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.029.png)
+
+**5.2.4.8. Team Collaboration Insights during Sprint.** 
+
+Durante este sprint, enfocamos nuestros esfuerzos en completar e implementar tanto el backend como el frontend de nuestro proyecto utilizando Domain-Driven Design (DDD). Completamos la implementación de todos los bounded contexts y realizamos algunas correcciones necesarias. Para proteger la rama “main”, creamos una rama “develop” de la cual cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte, siguiendo las convenciones establecidas (conventional commit y git flow). Además, como tarea secundaria, realizamos modificaciones en la landing page para mejorar su funcionalidad y apariencia. Esta metodología aseguró una integración fluida de los desarrollos individuales y mantuvo la coherencia en todo el proyecto.
+
+
+
+
+
+
+
+
+
+**Github analytics de nuestro cuarto sprint Landing Page:
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.030.png)**
+
+**Github analytics de nuestro cuarto sprint Backend:
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.031.png)**
+
+**Github analytics de nuestro cuarto sprint Frontend:**
+
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.032.png)
+
 **5.3. Validation Interviews**
 
 Después de haber actualizado nuestras secciones de frontend y backend, vamos a llevar a cabo una serie de entrevistas para validar cómo se comporta nuestro software cuando lo usan nuestros usuarios objetivo.
@@ -2894,7 +3121,7 @@ En esta sección, se proporciona el registro detallado de las entrevistas realiz
 
 **Ocupación:** Profesor de matemáticas en una institución privada de Paiján
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.017.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.033.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -2926,7 +3153,7 @@ La entrevista revela la necesidad de mejoras en la usabilidad y funcionalidad de
 
 **Ocupación:** Docente del nivel secundario
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.018.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.034.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -2957,7 +3184,7 @@ La entrevista con la profesora Tatiana Cabrera Goicoechea destaca la necesidad d
 
 **Ocupación:** Docente en un colegio particular de Paiján
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.019.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.035.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -2989,7 +3216,7 @@ Juan Carlos no identificó mejoras específicas en las funcionalidades presentad
 
 **Ocupación:** Promotora de una institución educativa
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.020.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.036.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3022,7 +3249,7 @@ La entrevista con Graciela Rocío Ríos Alza destaca la necesidad de incorporar 
 
 **Ocupación:** Docente del nivel secundario, además de desempeñarse en la parte administrativa de una institución educativa
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.021.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.037.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3053,7 +3280,7 @@ La entrevista con Ramón Chumpitazi, Max Paul, destaca la necesidad de incorpora
 
 **Ocupación:** Docente y directora de un colegio privado
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.022.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.038.png)
 
 **URL: <https://lc.cx/upc-pre-202401-si730-SW57-RocketNotes-validation-sprint-3>**
 
@@ -3163,7 +3390,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 En este video que se presenta a continuación, nosotros, el equipo de Five Star, describimos el contenido de nuestra aplicación Rocket Notes. Este video está dirigido tanto a los visitantes de nuestra landing page, que desean conocer sobre nuestro modelo de negocio y las características principales de nuestro software, como a los usuarios de las aplicaciones que buscan realizar tareas relacionadas con los procesos soportados por nuestra solución.
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.023.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.039.png)
 
 **URLs de las versiones publicadas**
 
@@ -3186,12 +3413,12 @@ En este video que se presenta a continuación, nosotros, el equipo de Five Star,
 
 **Video About-the-Team**
 
-![](assets/Aspose.Words.b59d02b3-4f8f-4a3f-89c6-4c4f7f1cd288.024.png)
+![](Aspose.Words.d06bf58d-888b-4a4e-b297-ad3286db4fbb.040.png)
 
 **URLs de las versiones publicadas**
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/vIGPzue8lLA>**
-- **Microsoft Stream**: [**https://lc.cx/31_zBE](https://lc.cx/31_zBE)**
+- **YouTube: [https://youtu.be/lyyJ-1SA2C4**](https://youtu.be/lyyJ-1SA2C4)**
+- **Microsoft Stream**: [**https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
   En el video "About-the-Team," como equipo, describimos los aspectos más relevantes de nuestro trabajo en el proyecto Rocket Notes. Comenzamos con nuestro Team Leader, Mateo Vilchez Rios **(00:00:02)**, quien destaca el uso de Angular para el frontend y Spring Boot para el backend, subrayando nuestra eficacia y dedicación en este sprint. Belen Ramos Rios**(00:00:49)** detalla su trabajo en el diseño orientado a objetos y la base de datos, así como el desarrollo de endpoints para la gestión de administradores, enfatizando el crecimiento técnico y personal. Frida Dam **(00:01:44)** habla sobre el desarrollo del frontend y backend con Domain Driven Design y la importancia de la colaboración y documentación. Néstor Serrano **(00:02:42)** resume su papel en la planificación y gestión del equipo, y su contribución en la landing page y funcionalidades clave del administrador. Finalmente, Andre Sotto **(00:03:55)** explica su trabajo en el desarrollo de componentes para el manejo de notas y asistencias, aplicando patrones de diseño y colaborando estrechamente con el equipo. Este proyecto ha sido una excelente oportunidad para aplicar nuestros conocimientos y crecer como estudiantes de software.
 
@@ -3199,40 +3426,55 @@ En este video que se presenta a continuación, nosotros, el equipo de Five Star,
 
 Smith, J., & Doe, J. "Enhancing Efficiency in Education through Learning Management Systems: A Case Study of the Blackboard System." Educational Technology Research and Development, vol. 65, no. 4, 2017, pp. 1023-1039. 
 
+Vernon, V. (2013). *Implementing Domain-Driven Design*. Addison-Wesley. ISBN: 978-0321834577.
+
+Amin, B. (2018). *Spring Boot 2.0 Projects: Build production-grade reactive applications and microservices with Spring Boot*. Packt Publishing. ISBN: 978-1788396646.
+
+Google Developers. (2020). *Angular Material - UI component library*. Retrieved from <https://material.angular.io>
+
+Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley Professional. ISBN: 978-0321205681.
+
+Gothelf, J., & Seiden, J. (2016). *Lean UX: Designing Great Products with Agile Teams* (2nd ed.). O'Reilly Media. ISBN: 978-1491953600.
+
+Postman, Inc. (2020). *Postman API Platform*. Retrieved from[ https://www.postman.com/](https://www.postman.com/)
+
+Lindsay, J. (2013). *The JSON Data Interchange Format*. ECMA International. Retrieved from <https://www.ecma-international.org/publications-and-standards/standards/ecma-404/>
+
+Farrell, D. (2019). *Building Modern Web Applications with Angular and Spring Boot 2: Design, build, and deploy production-ready web applications using Angular and Spring Boot*. Packt Publishing. ISBN: 978-1789950281.
+
 **Anexos**
 
 **Anexo A: Videos de Exposiciones**
 
-TB1: <https://lc.cx/XJnP4y>
+**TB1: <https://lc.cx/XJnP4y>**
 
-TP: <https://lc.cx/-JcyeR>
+**TP:** <https://lc.cx/-JcyeR>
 
-TB2: <https://lc.cx/HjJW_M>
+**TB2:** [upc-pre-202401-si729-SW57-Rocket-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/Ed17cBSKOJdFrnwMiWVPGcQBumd4bXJjjbcLGkFp93SnKA?e=tJKkBl)
+
+**TF: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EfFpk0q8-CxCvqSqL01LBOAB4uSVULGTZRdrrj3bo1IXcQ?e=PsWv0z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>**
 
 About-the-Product:
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/mb9y2CNZKCs>**
+- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/mb9y2CNZKCs>** 
 - **Microsoft Stream: [https://lc.cx/Dn0FAH**](https://lc.cx/Dn0FAH)**
 
 
-About-the-team
+About-the-team:
 
-- **YouTube:[ ](https://www.youtube.com/watch?v=BBK-fJ7rDvoLWWiebhDi0Djb-LZJNoVNhn4LXPbQS8Y)<https://youtu.be/vIGPzue8lLA>**
-- **Microsoft Stream**: [**https://lc.cx/31_zBE](https://lc.cx/31_zBE)**
+- **YouTube: [https://youtu.be/lyyJ-1SA2C4**](https://youtu.be/lyyJ-1SA2C4)**
+- **Microsoft Stream**: [**https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210059_upc_edu_pe/EVMAnPfe4dlPg6apbkNOX4MBblMhDF9ncmGl89uUHL0-SA?e=DaMoRe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Anexo B: C4 MODEL**
 
-Enlace del C4 MODEL: <http://c4model.com>
+**Enlace del C4 MODEL:** <http://c4model.com>
 
 **Anexo C:** LINK FIGMA: <https://www.figma.com/file/pBcefWno0VR16AEy7elc2m/Open-Source?type=design&node-id=0%3A1&mode=design&t=BmgtN82Ieketfpvn-1>
 
-**Anexo D:** LINK LANDING PAGE: <https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/#pricing>
+**Anexo D:** LINK LANDING PAGE: <https://rocketnotes-open-source-sw57-grupo-3.github.io/RocketNotes-landing-page/#pricing> 
 
 **Anexo E:** LINK TRELLO: <https://trello.com/b/fHKD9Uys/product-backlog>
 
 **Anexo F:** LINK LEAN UX CANVAS: <https://miro.com/welcomeonboard/NEdsWTNwa0FKdWVGUmlFUEJ6R3dldkpBRHNxRmNIeEdhNWVDNHhoRnBlZENuSElYbm1hN3JjNFNwOUJpdUIzWHwzNDU4NzY0NTIzMzkyNDUwNjk1fDI=?share_link_id=776423401253>
-
-
-
 
 
